@@ -245,29 +245,107 @@ export function calculateEnergyAndCarbon(downtimeHours: number = 32.0) {
 /**
  * Get Top 5 Risks from 5 target equipment sorted by Risk Score DESC
  */
-export function getRiskStack() {
+export type StackRiskLevel = "HIGH" | "MEDIUM" | "LOW";
+
+export interface RiskStackItem {
+  tagNumber: string;
+  plant: string;
+  riskCase: string;
+  impact: string;
+  riskScore: number;
+  potentialLossMUSD: string;
+  level: StackRiskLevel;
+  dateOfOccur: string;
+  overallStatus: string;
+  eqType: string;
+}
+
+const CLASS_TO_LEVEL: Record<string, StackRiskLevel> = {
+  A: "HIGH",
+  B: "MEDIUM",
+  C: "LOW",
+};
+
+function mapEqClassToLevel(eqClass: string): StackRiskLevel {
+  return CLASS_TO_LEVEL[eqClass] || "MEDIUM";
+}
+
+function stackLevelToRiskLevel(level: StackRiskLevel): RiskLevel {
+  if (level === "HIGH") return "High";
+  if (level === "LOW") return "Low";
+  return "Medium";
+}
+
+function mapEqType(eqType: string): EquipmentType {
+  const known: EquipmentType[] = ["Compressor", "Pump", "Turbine", "Heat Exchanger", "Blower"];
+  return (known.find((t) => t.toLowerCase() === eqType.toLowerCase()) ?? "Compressor");
+}
+
+function mapOperationalStatus(overallStatus: string): OperationalStatus {
+  const status = overallStatus.toUpperCase();
+  if (status.includes("CLOSED")) return "Normal";
+  if (status.includes("CANCELED") || status.includes("CANCELLED")) return "Maintenance";
+  if (status.includes("NEW")) return "Emerging Risk";
+  return "Warning";
+}
+
+function incidentToEquipment(row: IncidentRecord): Equipment {
+  const level = mapEqClassToLevel(row.eqClass);
+  return {
+    id: row.tagNumber,
+    name: row.riskTitle || row.tagNumber,
+    type: mapEqType(row.eqType),
+    area: (row.plant as Area) || "Production",
+    riskLevel: stackLevelToRiskLevel(level),
+    impactScore: row.riskScore || 0,
+    detectedDate: row.dateOfOccur || "—",
+    estRSL: `${row.downtimeHrs || 16} hrs`,
+    healthIndex: Math.max(0, 100 - (row.riskScore || 0)),
+    currentVibration: 71.67,
+    alarmThreshold: 45,
+    trend5Day: 18,
+    equipmentCriticality: stackLevelToRiskLevel(level),
+    productionDependency: stackLevelToRiskLevel(level),
+    estimatedDowntime: `${row.downtimeHrs || 16} hrs`,
+    historicalLossExposure: `$${((row.totalLossKUSD || 0) / 1000).toFixed(2)}M`,
+    lastUpdated: row.dateOfOccur || "—",
+    operationalStatus: mapOperationalStatus(row.overallStatus),
+    production: 0,
+    lossRiskEstimation: (row.potentialLossKUSD || 0) / 1000,
+  };
+}
+
+/**
+ * Get Top 5 Risks from 5 target equipment sorted by Risk Score DESC
+ */
+export function getRiskStack(): RiskStackItem[] {
   return [...parsedIncidents]
     .sort((a, b) => (b.riskScore || 0) - (a.riskScore || 0))
     .slice(0, 5)
-    .map((row) => {
-      // Map Eq. Class to Risk Level: A=HIGH, B=MEDIUM, C=LOW
-      const classToLevel: Record<string, string> = {
-        'A': 'HIGH',
-        'B': 'MEDIUM',
-        'C': 'LOW'
-      };
-      const level = classToLevel[row.eqClass] || 'MEDIUM';
-      
-      return {
-        tagNumber: row.tagNumber,
-        plant: row.plant,
-        riskCase: row.riskTitle,
-        impact: row.highestImpact,
-        riskScore: row.riskScore,
-        potentialLossMUSD: (row.potentialLossKUSD / 1000).toFixed(2),
-        level: level
-      };
-    });
+    .map((row) => ({
+      tagNumber: row.tagNumber,
+      plant: row.plant,
+      riskCase: row.riskTitle,
+      impact: row.highestImpact,
+      riskScore: row.riskScore,
+      potentialLossMUSD: (row.potentialLossKUSD / 1000).toFixed(2),
+      level: mapEqClassToLevel(row.eqClass),
+      dateOfOccur: row.dateOfOccur || "—",
+      overallStatus: row.overallStatus || "",
+      eqType: row.eqType || "",
+    }));
+}
+
+/** Unique target equipment, keeping the highest-score incident per tag. */
+function buildEquipmentData(): Equipment[] {
+  const byTag = new Map<string, IncidentRecord>();
+  for (const row of parsedIncidents) {
+    const prev = byTag.get(row.tagNumber);
+    if (!prev || (row.riskScore || 0) > (prev.riskScore || 0)) {
+      byTag.set(row.tagNumber, row);
+    }
+  }
+  return Array.from(byTag.values()).map(incidentToEquipment);
 }
 
 // ==========================================
@@ -325,7 +403,7 @@ export function getActionFollowUpCounts() {
 }
 
 // ─── Legacy Data (backward compatibility) ──────────────────────
-export const equipmentData: Equipment[] = [];
+export const equipmentData: Equipment[] = buildEquipmentData();
 export const defaultActionFollowUps: ActionFollowUp[] = [];
 // export const historicalCases: any[] = [];
 export interface HistoricalCase {
