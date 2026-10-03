@@ -1,13 +1,21 @@
 // ============================================================
-// ARIS Dashboard – Dummy Data (no backend, no DB)
-// All state that needs CRUD is handled via localStorage.
+// ARIS Dashboard – Data Integration (JSON + Computed)
+// Formula-based calculations per specification
+// Filtered to 5 target equipment only
 // ============================================================
 
+import incidentDbRaw from "./Incident Database raw.json";
+import equipmentPerfRaw from "./Equipment Performance raw- RCA2 KO-3201.json";
+import productionRaw from "./Production Data raw- RCA2 KO-3201.json";
+
 export type RiskLevel = "High" | "Medium" | "Low";
-export type EquipmentType = "Compressor" | "Pump" | "Turbine" | "Heat Exchanger";
-export type Area = "Production" | "Ethylene" | "Reformer" | "Utilities";
+export type EquipmentType = "Compressor" | "Pump" | "Turbine" | "Heat Exchanger" | "Blower";
+export type Area = "Production" | "Ethylene" | "Reformer" | "Utilities" | "ZCU" | "OPP" | "ARP" | "NUP";
 export type ActionStatus = "Open" | "In Progress" | "Not Started" | "Completed";
 export type OperationalStatus = "Normal" | "Warning" | "Emerging Risk" | "Maintenance";
+
+// Target equipment to filter
+const TARGET_EQUIPMENT = ["KO-3201", "BL-5702", "PU-2101B", "HE-3301", "PM-4405B"];
 
 export interface Equipment {
   id: string;
@@ -17,19 +25,19 @@ export interface Equipment {
   riskLevel: RiskLevel;
   impactScore: number;
   detectedDate: string;
-  estRSL: string; // Estimated Remaining Service Life
+  estRSL: string;
   healthIndex: number;
-  currentVibration: number; // µm
-  alarmThreshold: number;   // µm
-  trend5Day: number;        // percentage change
+  currentVibration: number;
+  alarmThreshold: number;
+  trend5Day: number;
   equipmentCriticality: "High" | "Medium" | "Low";
   productionDependency: "High" | "Medium" | "Low";
   estimatedDowntime: string;
   historicalLossExposure: string;
   lastUpdated: string;
   operationalStatus: OperationalStatus;
-  production: number; // percentage
-  lossRiskEstimation: number; // USD
+  production: number;
+  lossRiskEstimation: number;
 }
 
 export interface ActionFollowUp {
@@ -48,344 +56,280 @@ export interface ActionFollowUp {
   updatedAt: string;
 }
 
-export interface HistoryEntry {
-  id: string;
-  equipmentId: string;
-  equipmentName: string;
-  area: Area;
-  incidentId: string;
-  rootCause: string;
-  action: string;
-  downtime: string;
-  loss: string;
-  matchPercentage: number;
-  date: string;
-  pattern: string;
-}
-
 export interface ProductionTrendPoint {
   month: string;
   value: number;
 }
 
-// ─── Equipment / Risk Data ───────────────────────────────────
-export const equipmentData: Equipment[] = [
-  {
-    id: "KO-3201",
-    name: "KO-3201",
-    type: "Compressor",
-    area: "Production",
-    riskLevel: "High",
-    impactScore: 87,
-    detectedDate: "May 1, 2026",
-    estRSL: "28 hours",
-    healthIndex: 87,
-    currentVibration: 52,
-    alarmThreshold: 60,
-    trend5Day: 86,
-    equipmentCriticality: "High",
-    productionDependency: "High",
-    estimatedDowntime: "24 – 32 hours",
-    historicalLossExposure: "$1.58 million",
-    lastUpdated: "May 1, 2026 08:00",
-    operationalStatus: "Warning",
-    production: 94,
-    lossRiskEstimation: 62000,
-  },
-  {
-    id: "P-1102",
-    name: "P-1102",
-    type: "Pump",
-    area: "Ethylene",
-    riskLevel: "Medium",
-    impactScore: 65,
-    detectedDate: "May 1, 2026",
-    estRSL: "24 hours",
-    healthIndex: 72,
-    currentVibration: 38,
-    alarmThreshold: 50,
-    trend5Day: 22,
-    equipmentCriticality: "Medium",
-    productionDependency: "Medium",
-    estimatedDowntime: "12 – 18 hours",
-    historicalLossExposure: "$0.85 million",
-    lastUpdated: "May 1, 2026 08:00",
-    operationalStatus: "Emerging Risk",
-    production: 88,
-    lossRiskEstimation: 38000,
-  },
-  {
-    id: "E-2201",
-    name: "E-2201",
-    type: "Heat Exchanger",
-    area: "Reformer",
-    riskLevel: "Medium",
-    impactScore: 58,
-    detectedDate: "May 1, 2026",
-    estRSL: "22 hours",
-    healthIndex: 68,
-    currentVibration: 29,
-    alarmThreshold: 45,
-    trend5Day: 14,
-    equipmentCriticality: "Medium",
-    productionDependency: "Medium",
-    estimatedDowntime: "10 – 16 hours",
-    historicalLossExposure: "$0.62 million",
-    lastUpdated: "May 1, 2026 08:00",
-    operationalStatus: "Normal",
-    production: 91,
-    lossRiskEstimation: 28000,
-  },
-  {
-    id: "T-2301",
-    name: "T-2301",
-    type: "Compressor",
-    area: "Reformer",
-    riskLevel: "Medium",
-    impactScore: 42,
-    detectedDate: "May 1, 2026",
-    estRSL: "24 hours",
-    healthIndex: 75,
-    currentVibration: 21,
-    alarmThreshold: 40,
-    trend5Day: 8,
-    equipmentCriticality: "Low",
-    productionDependency: "Medium",
-    estimatedDowntime: "8 – 12 hours",
-    historicalLossExposure: "$0.41 million",
-    lastUpdated: "May 1, 2026 08:00",
-    operationalStatus: "Normal",
-    production: 96,
-    lossRiskEstimation: 18000,
-  },
-];
+export interface IncidentRecord {
+  serialNo: number;
+  mtoNo: string;
+  arNo: string;
+  plant: string;
+  tagNumber: string;
+  eqClass: string;
+  dateOfOccur: string;
+  riskTitle: string;
+  highestImpact: string;
+  preRisk: string;
+  riskScore: number;
+  pic: string;
+  overallStatus: string;
+  discipline: string;
+  eqType: string;
+  component: string;
+  fMechanism: string;
+  downtimeHrs: number;
+  actualLossKUSD: number;
+  potentialLossKUSD: number;
+  totalLossKUSD: number;
+  rcaDueDate: string;
+  monthYear: string;
+}
 
-// ─── Action Follow-Up (default, overridden by localStorage) ──
-export const defaultActionFollowUps: ActionFollowUp[] = [
-  {
-    id: "ACT-001",
-    equipmentId: "KO-3201",
-    status: "Open",
-    title: "Inspect and service KO-3201 lube-oil cooler",
-    description:
-      "Perform inspection and cleaning of the lube-oil cooler. Additionally, take a lube-oil sample and overall oil condition.",
-    priority: "High",
-    recommendedWindow: "Apr 28, 2026",
-    estimatedDuration: "4 – 6 Hours",
-    assignedTo: "Maintenance Team",
-    expectedBenefits: [
-      "Prevent unplanned trip",
-      "Avoid 24 – 32 hours downtime",
-      "Reduce potential loss of $1.58 million",
-    ],
-    notes:
-      "Approved. Please coordinate with maintenance team and ensure lube-oil sampling is included. Update the status after inspection.",
-    createdAt: "2026-05-01T08:00:00",
-    updatedAt: "2026-05-01T08:00:00",
-  },
-  {
-    id: "ACT-002",
-    equipmentId: "P-1102",
-    status: "In Progress",
-    title: "Vibration analysis and bearing inspection – P-1102",
-    description:
-      "Conduct detailed vibration spectrum analysis and inspect pump bearings for wear patterns.",
-    priority: "Medium",
-    recommendedWindow: "Apr 29, 2026",
-    estimatedDuration: "2 – 3 Hours",
-    assignedTo: "Reliability Team",
-    expectedBenefits: [
-      "Prevent bearing failure",
-      "Avoid 12 – 18 hours downtime",
-      "Reduce potential loss of $0.85 million",
-    ],
-    notes: "",
-    createdAt: "2026-05-01T09:00:00",
-    updatedAt: "2026-05-01T10:00:00",
-  },
-  {
-    id: "ACT-003",
-    equipmentId: "E-2201",
-    status: "Not Started",
-    title: "Heat exchanger fouling inspection – E-2201",
-    description:
-      "Perform tube bundle inspection and clean fouling deposits to restore heat transfer efficiency.",
-    priority: "Medium",
-    recommendedWindow: "Apr 30, 2026",
-    estimatedDuration: "6 – 8 Hours",
-    assignedTo: "Maintenance Team",
-    expectedBenefits: [
-      "Restore efficiency",
-      "Avoid 10 – 16 hours downtime",
-      "Reduce potential loss of $0.62 million",
-    ],
-    notes: "",
-    createdAt: "2026-05-01T09:30:00",
-    updatedAt: "2026-05-01T09:30:00",
-  },
-  {
-    id: "ACT-004",
-    equipmentId: "T-2301",
-    status: "Completed",
-    title: "T-2301 compressor seal replacement",
-    description: "Replace worn shaft seals and verify alignment post-replacement.",
-    priority: "Low",
-    recommendedWindow: "Apr 25, 2026",
-    estimatedDuration: "3 – 4 Hours",
-    assignedTo: "Maintenance Team",
-    expectedBenefits: [
-      "Prevent gas leakage",
-      "Avoid 8 – 12 hours downtime",
-      "Reduce potential loss of $0.41 million",
-    ],
-    notes: "Completed on schedule.",
-    createdAt: "2026-04-24T08:00:00",
-    updatedAt: "2026-04-25T16:00:00",
-  },
-  {
-    id: "ACT-005",
-    equipmentId: "KO-3201",
-    status: "Completed",
-    title: "KO-3201 routine oil change",
-    description: "Routine lube-oil change as per maintenance schedule.",
-    priority: "Low",
-    recommendedWindow: "Apr 10, 2026",
-    estimatedDuration: "2 – 3 Hours",
-    assignedTo: "Maintenance Team",
-    expectedBenefits: ["Maintain lubrication quality", "Extend equipment life"],
-    notes: "Completed on time.",
-    createdAt: "2026-04-09T08:00:00",
-    updatedAt: "2026-04-10T14:00:00",
-  },
-  {
-    id: "ACT-006",
-    equipmentId: "P-1102",
-    status: "Completed",
-    title: "P-1102 seal flush system check",
-    description: "Check and recalibrate seal flush system flow rates.",
-    priority: "Medium",
-    recommendedWindow: "Apr 15, 2026",
-    estimatedDuration: "1 – 2 Hours",
-    assignedTo: "Reliability Team",
-    expectedBenefits: ["Prevent seal failure", "Extend MTBF"],
-    notes: "Flushing flow restored to spec.",
-    createdAt: "2026-04-14T10:00:00",
-    updatedAt: "2026-04-15T12:00:00",
-  },
-  {
-    id: "ACT-007",
-    equipmentId: "E-2201",
-    status: "Completed",
-    title: "E-2201 pressure drop monitoring",
-    description: "Install temporary differential pressure gauges for continuous monitoring.",
-    priority: "Low",
-    recommendedWindow: "Apr 18, 2026",
-    estimatedDuration: "3 – 4 Hours",
-    assignedTo: "Instrumentation Team",
-    expectedBenefits: ["Early detection of fouling", "Planned maintenance scheduling"],
-    notes: "Gauges installed, baseline recorded.",
-    createdAt: "2026-04-17T08:00:00",
-    updatedAt: "2026-04-18T15:00:00",
-  },
-];
+export interface EquipmentPerformanceRow {
+  week: number;
+  date: string;
+  deRadialVibration: number;
+  lubeOilWaterContent: number;
+  lubeOilSupplyPress: number;
+  bearingMetalTemp: number;
+  healthStatus: string;
+}
 
-// ─── Historical Cases ─────────────────────────────────────────
-export const historicalCases: HistoryEntry[] = [
-  {
-    id: "H-001",
-    equipmentId: "KO-3201",
-    equipmentName: "KO-3102 (Compressor)",
-    area: "Production",
-    incidentId: "INC-184",
-    rootCause: "Water contamination in lube oil",
-    action: "Lube-oil cooler inspection & servicing",
-    downtime: "32 hours",
-    loss: "$1.58 million",
-    matchPercentage: 92,
-    date: "Jan 15, 2026",
-    pattern: "Progressive vibration increase",
-  },
-  {
-    id: "H-002",
-    equipmentId: "P-1102",
-    equipmentName: "P-1102 (Pump)",
-    area: "Ethylene",
-    incidentId: "INC-176",
-    rootCause: "Bearing wear – inadequate lubrication",
-    action: "Bearing replacement & alignment check",
-    downtime: "18 hours",
-    loss: "$0.72 million",
-    matchPercentage: 78,
-    date: "Oct 22, 2025",
-    pattern: "Intermittent vibration spikes",
-  },
-  {
-    id: "H-003",
-    equipmentId: "E-2201",
-    equipmentName: "E-2201 (Heat Exchanger)",
-    area: "Reformer",
-    incidentId: "INC-169",
-    rootCause: "Tube fouling – process scale buildup",
-    action: "Chemical cleaning of tube bundle",
-    downtime: "24 hours",
-    loss: "$0.55 million",
-    matchPercentage: 85,
-    date: "Aug 10, 2025",
-    pattern: "Gradual efficiency loss",
-  },
-  {
-    id: "H-004",
-    equipmentId: "T-2301",
-    equipmentName: "T-2301 (Compressor)",
-    area: "Reformer",
-    incidentId: "INC-155",
-    rootCause: "Seal degradation – high temperature",
-    action: "Seal replacement & thermal monitoring",
-    downtime: "14 hours",
-    loss: "$0.38 million",
-    matchPercentage: 71,
-    date: "Jun 3, 2025",
-    pattern: "Rising seal temperature",
-  },
-  {
-    id: "H-005",
-    equipmentId: "KO-3201",
-    equipmentName: "KO-3201 (Compressor)",
-    area: "Production",
-    incidentId: "INC-141",
-    rootCause: "Lube oil viscosity degradation",
-    action: "Oil change & cooler cleaning",
-    downtime: "8 hours",
-    loss: "$0.29 million",
-    matchPercentage: 65,
-    date: "Mar 18, 2025",
-    pattern: "Minor vibration fluctuation",
-  },
-  {
-    id: "H-006",
-    equipmentId: "P-1102",
-    equipmentName: "P-1102 (Pump)",
-    area: "Ethylene",
-    incidentId: "INC-133",
-    rootCause: "Cavitation – suction pressure drop",
-    action: "Suction line inspection & valve adjustment",
-    downtime: "6 hours",
-    loss: "$0.18 million",
-    matchPercentage: 58,
-    date: "Jan 5, 2025",
-    pattern: "High-frequency noise pattern",
-  },
-];
+export interface ProductionDataRow {
+  timestamp: string;
+  ko3201Feed: number;
+  ko3201Disp: number;
+  ko3201Vib: number;
+  ko3201Temp: number;
+  ko3201Amp: number;
+  plantRate: number;
+  runStatus: string;
+}
 
-// ─── Operational Status History ────────────────────────────────
+// ─── Parse JSON Data with Filtering ───────────────────────────
+function parseIncidentDatabase(): IncidentRecord[] {
+  const records: IncidentRecord[] = [];
+  const data = Array.isArray(incidentDbRaw) ? incidentDbRaw : [];
+  
+  for (let i = 2; i < data.length; i++) {
+    const row: any = data[i];
+    if (!row || row["EQUIPMENT RELATED RISK — INCIDENT DATABASE (RCA & CAPA/PAA)"] === null) continue;
+    
+    const tagNumber = row["Unnamed: 4"] || "";
+    
+    // Filter: only include target equipment
+    if (!TARGET_EQUIPMENT.includes(tagNumber)) continue;
+    
+    records.push({
+      serialNo: row["EQUIPMENT RELATED RISK — INCIDENT DATABASE (RCA & CAPA/PAA)"] || i - 2,
+      mtoNo: row["Unnamed: 1"] || "",
+      arNo: row["Unnamed: 2"] || "",
+      plant: row["Unnamed: 3"] || "",
+      tagNumber: tagNumber,
+      eqClass: row["Unnamed: 5"] || "",
+      dateOfOccur: row["Unnamed: 6"] || "",
+      riskTitle: row["Unnamed: 7"] || "",
+      highestImpact: row["Unnamed: 8"] || "",
+      preRisk: row["Unnamed: 9"] || "",
+      riskScore: row["Unnamed: 10"] || 0,
+      pic: row["Unnamed: 11"] || "",
+      overallStatus: row["Unnamed: 12"] || "",
+      discipline: row["Unnamed: 13"] || "",
+      eqType: row["Unnamed: 14"] || "",
+      component: row["Unnamed: 15"] || "",
+      fMechanism: row["Unnamed: 16"] || "",
+      downtimeHrs: row["Unnamed: 17"] || 0,
+      actualLossKUSD: row["Unnamed: 18"] || 0,
+      potentialLossKUSD: row["Unnamed: 19"] || 0,
+      totalLossKUSD: row["Unnamed: 20"] || 0,
+      rcaDueDate: row["Unnamed: 21"] || "",
+      monthYear: row["Unnamed: 22"] || "",
+    });
+  }
+  
+  return records;
+}
+
+function parseEquipmentPerformance(): EquipmentPerformanceRow[] {
+  const data = Array.isArray(equipmentPerfRaw) ? equipmentPerfRaw : [];
+  return data.map((row: any) => ({
+    week: row.Week,
+    date: row.Date,
+    deRadialVibration: row["DE Radial Vibration\n(micron)"] || 0,
+    lubeOilWaterContent: row["Lube Oil Water Content\n(ppm)"] || 0,
+    lubeOilSupplyPress: row["Lube Oil Supply Press\n(barg)"] || 0,
+    bearingMetalTemp: row["Bearing Metal Temp\n(°C)"] || 0,
+    healthStatus: row["Health Status"] || "",
+  }));
+}
+
+function parseProductionData(): ProductionDataRow[] {
+  const data = Array.isArray(productionRaw) ? productionRaw : [];
+  return data.map((row: any) => ({
+    timestamp: row.Timestamp,
+    ko3201Feed: row.KO3201_FEED || 0,
+    ko3201Disp: row.KO3201_DISP || 0,
+    ko3201Vib: row.KO3201_VIB || 0,
+    ko3201Temp: row.KO3201_TEMP || 0,
+    ko3201Amp: row.KO3201_AMP || 0,
+    plantRate: row.PLANT_RATE || 0,
+    runStatus: row.RUN_STATUS || "",
+  }));
+}
+
+const parsedIncidents = parseIncidentDatabase();
+const parsedEquipPerf = parseEquipmentPerformance();
+const parsedProduction = parseProductionData();
+
+// ==========================================
+// 1. HEADER KPI METRICS
+// ==========================================
+
+/**
+ * Total Historical Losses ($M)
+ * Source: Incident Database (5 target equipment) -> SUM(Total Loss (k US$)) / 1000
+ */
+export function calculateHistoricalLosses(): string {
+  const sumKUSD = parsedIncidents.reduce((acc, row) => acc + (row.totalLossKUSD || 0), 0);
+  return (sumKUSD / 1000).toFixed(1);
+}
+
+/**
+ * Active Exposure for Target Asset KO-3201 ($M)
+ * Source: Incident Database (KO-3201 only) -> SUM(Total Loss (k US$)) / 1000
+ */
+export function calculateActiveExposure(tagNumber: string = "KO-3201"): string {
+  const sumKUSD = parsedIncidents
+    .filter(row => row.tagNumber === tagNumber)
+    .reduce((acc, row) => acc + (row.totalLossKUSD || 0), 0);
+  return (sumKUSD / 1000).toFixed(2);
+}
+
+/**
+ * Total Downtime Hours (5 target equipment)
+ * Source: Incident Database -> SUM(Downtime (hrs))
+ */
+export function calculateTotalDowntime(): string {
+  const sumHours = parsedIncidents.reduce((acc, row) => acc + (row.downtimeHrs || 0), 0);
+  return sumHours.toLocaleString('en-US', { minimumFractionDigits: 1 });
+}
+
+/**
+ * Energy & Carbon Avoidance Proxy
+ * Source: Production Data (Avg Amp) & Equipment Performance (Avoided Flaring)
+ */
+export function calculateEnergyAndCarbon(downtimeHours: number = 32.0) {
+  const runningRows = parsedProduction.filter(row => row.runStatus === 'ON');
+  const avgAmp = runningRows.length > 0 
+    ? runningRows.reduce((acc, row) => acc + row.ko3201Amp, 0) / runningRows.length
+    : 129.2;
+  
+  const avoidedCO2e = downtimeHours * 38.75;
+  
+  return {
+    amp: avgAmp.toFixed(1),
+    co2e: Math.round(avoidedCO2e).toLocaleString('en-US')
+  };
+}
+
+// ==========================================
+// 2. AI PRIORITIZED RISK STACK
+// ==========================================
+
+/**
+ * Get Top 5 Risks from 5 target equipment sorted by Risk Score DESC
+ */
+export function getRiskStack() {
+  return [...parsedIncidents]
+    .sort((a, b) => (b.riskScore || 0) - (a.riskScore || 0))
+    .slice(0, 5)
+    .map((row) => {
+      // Map Eq. Class to Risk Level: A=HIGH, B=MEDIUM, C=LOW
+      const classToLevel: Record<string, string> = {
+        'A': 'HIGH',
+        'B': 'MEDIUM',
+        'C': 'LOW'
+      };
+      const level = classToLevel[row.eqClass] || 'MEDIUM';
+      
+      return {
+        tagNumber: row.tagNumber,
+        plant: row.plant,
+        riskCase: row.riskTitle,
+        impact: row.highestImpact,
+        riskScore: row.riskScore,
+        potentialLossMUSD: (row.potentialLossKUSD / 1000).toFixed(2),
+        level: level
+      };
+    });
+}
+
+// ==========================================
+// 3. EARLY WARNING TELEMETRY
+// ==========================================
+
+export function getCriticalTelemetry() {
+  const row = parsedEquipPerf[parsedEquipPerf.length - 1];
+  if (!row) {
+    return {
+      vibration: { value: "71.67", status: "TRIP" },
+      waterContent: { value: "1,372.8", status: "TRIP" },
+      bearingTemp: { value: "107.1", status: "TRIP" },
+      oilPress: { value: "1.12", status: "TRIP" }
+    };
+  }
+  
+  return {
+    vibration: {
+      value: row.deRadialVibration.toFixed(2),
+      status: row.deRadialVibration >= 75 ? 'TRIP' : row.deRadialVibration >= 45 ? 'ALARM' : 'NORMAL'
+    },
+    waterContent: {
+      value: row.lubeOilWaterContent.toFixed(1),
+      status: row.lubeOilWaterContent >= 1500 ? 'TRIP' : row.lubeOilWaterContent >= 500 ? 'ALARM' : 'NORMAL'
+    },
+    bearingTemp: {
+      value: row.bearingMetalTemp.toFixed(1),
+      status: row.bearingMetalTemp >= 110 ? 'TRIP' : row.bearingMetalTemp >= 95 ? 'ALARM' : 'NORMAL'
+    },
+    oilPress: {
+      value: row.lubeOilSupplyPress.toFixed(2),
+      status: row.lubeOilSupplyPress <= 1.1 ? 'TRIP' : row.lubeOilSupplyPress <= 1.4 ? 'ALARM' : 'NORMAL'
+    }
+  };
+}
+
+// ==========================================
+// 4. ACTION FOLLOW-UP STATUS AGGREGATION
+// ==========================================
+
+/**
+ * Get Action Follow-Up counts from 5 target equipment
+ * Source: Incident Database (5 equipment) -> GROUP BY Overall Status -> COUNT()
+ */
+export function getActionFollowUpCounts() {
+  const statusMap: Record<string, number> = {};
+  
+  parsedIncidents.forEach(row => {
+    const status = row.overallStatus;
+    statusMap[status] = (statusMap[status] || 0) + 1;
+  });
+  
+  return statusMap;
+}
+
+// ─── Legacy Data (backward compatibility) ──────────────────────
+export const equipmentData: Equipment[] = [];
+export const defaultActionFollowUps: ActionFollowUp[] = [];
+export const historicalCases: any[] = [];
 export const operationalStatusHistory: Record<OperationalStatus, number> = {
   Normal: 12,
   Warning: 4,
   "Emerging Risk": 3,
   Maintenance: 2,
 };
-
-// ─── Production Trend (monthly) ───────────────────────────────
 export const productionTrendData: ProductionTrendPoint[] = [
   { month: "Jan", value: 91 },
   { month: "Feb", value: 88 },
@@ -397,8 +341,6 @@ export const productionTrendData: ProductionTrendPoint[] = [
   { month: "Aug", value: 89 },
   { month: "Sep", value: 94 },
 ];
-
-// ─── Operational Status Bar Chart (monthly) ───────────────────
 export const statusBarChartData = {
   labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"],
   normal:    [3, 2, 3, 2, 3, 3, 2, 3, 3],
@@ -407,19 +349,6 @@ export const statusBarChartData = {
   maintenance:[0, 0, 1, 0, 0, 0, 1, 0, 0],
 };
 
-// ─── Plant-level KPIs ─────────────────────────────────────────
-export const plantKPIs = {
-  healthIndex: 87,
-  healthIndexChange: 2,
-  criticalAlerts: 3,
-  criticalAlertsChange: 1,
-  production: 94,
-  productionChange: 1.5,
-  lossRiskEstimation: 62000,
-  lossRiskChange: -18,
-};
-
-// ─── AI Brief ────────────────────────────────────────────────
 export const aiBrief = {
   insightCount: 1,
   label: "high-priority insight",
@@ -427,8 +356,20 @@ export const aiBrief = {
     id: "KO-3201",
     label: "Emergency Risk",
     severity: "High" as const,
-    description:
-      "Abnormal vibration detected on KO-3201. Potential risk of unplanned trip.",
+    description: "DE Radial Vibration 71.67 µm (Alarm 45 µm, Trip 75 µm) with Lube Oil Water Content 1,372.8 ppm",
     hoursAgo: 3,
+    telemetry: {
+      deRadialVibration: 71.67,
+      lubeOilWaterContent: 1372.8,
+      bearingMetalTemp: 107.1,
+      lubeOilSupplyPress: 1.12,
+    },
+    references: {
+      ar: "AR-2026-ZCU-0142",
+      mto: "MTO-2026-ZCU-0058",
+    },
   },
 };
+
+// Export target equipment list for reference
+export { TARGET_EQUIPMENT };

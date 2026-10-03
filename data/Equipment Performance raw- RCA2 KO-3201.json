@@ -1,0 +1,262 @@
+[
+  {
+    "Week":1,
+    "Date":"2025-12-10",
+    "DE Radial Vibration\n(micron)":28.914,
+    "Lube Oil Water Content\n(ppm)":259.777,
+    "Lube Oil Supply Press\n(barg)":1.799,
+    "Bearing Metal Temp\n(\u00b0C)":78.671,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":2,
+    "Date":"2025-12-17",
+    "DE Radial Vibration\n(micron)":26.899,
+    "Lube Oil Water Content\n(ppm)":299.796,
+    "Lube Oil Supply Press\n(barg)":1.776,
+    "Bearing Metal Temp\n(\u00b0C)":77.664,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":3,
+    "Date":"2025-12-24",
+    "DE Radial Vibration\n(micron)":29.739,
+    "Lube Oil Water Content\n(ppm)":226.415,
+    "Lube Oil Supply Press\n(barg)":1.794,
+    "Bearing Metal Temp\n(\u00b0C)":78.344,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":4,
+    "Date":"2025-12-31",
+    "DE Radial Vibration\n(micron)":29.024,
+    "Lube Oil Water Content\n(ppm)":255.766,
+    "Lube Oil Supply Press\n(barg)":1.79,
+    "Bearing Metal Temp\n(\u00b0C)":78.499,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":5,
+    "Date":"2026-01-07",
+    "DE Radial Vibration\n(micron)":28.658,
+    "Lube Oil Water Content\n(ppm)":292.849,
+    "Lube Oil Supply Press\n(barg)":1.784,
+    "Bearing Metal Temp\n(\u00b0C)":78.357,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":6,
+    "Date":"2026-01-14",
+    "DE Radial Vibration\n(micron)":30.289,
+    "Lube Oil Water Content\n(ppm)":350.734,
+    "Lube Oil Supply Press\n(barg)":1.748,
+    "Bearing Metal Temp\n(\u00b0C)":80.498,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":7,
+    "Date":"2026-01-21",
+    "DE Radial Vibration\n(micron)":33.697,
+    "Lube Oil Water Content\n(ppm)":387.773,
+    "Lube Oil Supply Press\n(barg)":1.73,
+    "Bearing Metal Temp\n(\u00b0C)":81.482,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":8,
+    "Date":"2026-01-28",
+    "DE Radial Vibration\n(micron)":33.93,
+    "Lube Oil Water Content\n(ppm)":384.412,
+    "Lube Oil Supply Press\n(barg)":1.733,
+    "Bearing Metal Temp\n(\u00b0C)":81.741,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":9,
+    "Date":"2026-02-04",
+    "DE Radial Vibration\n(micron)":35.439,
+    "Lube Oil Water Content\n(ppm)":470.814,
+    "Lube Oil Supply Press\n(barg)":1.705,
+    "Bearing Metal Temp\n(\u00b0C)":83.041,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":10,
+    "Date":"2026-02-11",
+    "DE Radial Vibration\n(micron)":37.665,
+    "Lube Oil Water Content\n(ppm)":501.213,
+    "Lube Oil Supply Press\n(barg)":1.635,
+    "Bearing Metal Temp\n(\u00b0C)":84.892,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":11,
+    "Date":"2026-02-18",
+    "DE Radial Vibration\n(micron)":39.586,
+    "Lube Oil Water Content\n(ppm)":587.811,
+    "Lube Oil Supply Press\n(barg)":1.633,
+    "Bearing Metal Temp\n(\u00b0C)":87.153,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":12,
+    "Date":"2026-02-25",
+    "DE Radial Vibration\n(micron)":41.609,
+    "Lube Oil Water Content\n(ppm)":630.011,
+    "Lube Oil Supply Press\n(barg)":1.602,
+    "Bearing Metal Temp\n(\u00b0C)":87.657,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":13,
+    "Date":"2026-03-04",
+    "DE Radial Vibration\n(micron)":45.505,
+    "Lube Oil Water Content\n(ppm)":713.736,
+    "Lube Oil Supply Press\n(barg)":1.538,
+    "Bearing Metal Temp\n(\u00b0C)":90.79,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":14,
+    "Date":"2026-03-11",
+    "DE Radial Vibration\n(micron)":49.237,
+    "Lube Oil Water Content\n(ppm)":778.644,
+    "Lube Oil Supply Press\n(barg)":1.518,
+    "Bearing Metal Temp\n(\u00b0C)":92.431,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":15,
+    "Date":"2026-03-18",
+    "DE Radial Vibration\n(micron)":51.111,
+    "Lube Oil Water Content\n(ppm)":840.66,
+    "Lube Oil Supply Press\n(barg)":1.454,
+    "Bearing Metal Temp\n(\u00b0C)":92.528,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":16,
+    "Date":"2026-03-25",
+    "DE Radial Vibration\n(micron)":55.927,
+    "Lube Oil Water Content\n(ppm)":929.853,
+    "Lube Oil Supply Press\n(barg)":1.401,
+    "Bearing Metal Temp\n(\u00b0C)":95.961,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":17,
+    "Date":"2026-04-01",
+    "DE Radial Vibration\n(micron)":59.123,
+    "Lube Oil Water Content\n(ppm)":1062.337,
+    "Lube Oil Supply Press\n(barg)":1.335,
+    "Bearing Metal Temp\n(\u00b0C)":98.832,
+    "Health Status":"ALARM",
+    "Remark":null
+  },
+  {
+    "Week":18,
+    "Date":"2026-04-08",
+    "DE Radial Vibration\n(micron)":60.529,
+    "Lube Oil Water Content\n(ppm)":1135.42,
+    "Lube Oil Supply Press\n(barg)":1.313,
+    "Bearing Metal Temp\n(\u00b0C)":100.992,
+    "Health Status":"ALARM",
+    "Remark":"Degradation trend \u2014 under close monitoring"
+  },
+  {
+    "Week":19,
+    "Date":"2026-04-15",
+    "DE Radial Vibration\n(micron)":66.73,
+    "Lube Oil Water Content\n(ppm)":1237.785,
+    "Lube Oil Supply Press\n(barg)":1.219,
+    "Bearing Metal Temp\n(\u00b0C)":104.623,
+    "Health Status":"ALARM",
+    "Remark":"Degradation trend \u2014 under close monitoring"
+  },
+  {
+    "Week":20,
+    "Date":"2026-04-22",
+    "DE Radial Vibration\n(micron)":71.674,
+    "Lube Oil Water Content\n(ppm)":1372.791,
+    "Lube Oil Supply Press\n(barg)":1.122,
+    "Bearing Metal Temp\n(\u00b0C)":107.142,
+    "Health Status":"ALARM",
+    "Remark":"Degradation trend \u2014 under close monitoring"
+  },
+  {
+    "Week":21,
+    "Date":"2026-04-29",
+    "DE Radial Vibration\n(micron)":76.5,
+    "Lube Oil Water Content\n(ppm)":1530.0,
+    "Lube Oil Supply Press\n(barg)":1.078,
+    "Bearing Metal Temp\n(\u00b0C)":112.2,
+    "Health Status":"TRIP",
+    "Remark":"FAILURE \u2014 High Radial Vibration Trip (Bearing Distress); unplanned downtime 32.0 h"
+  },
+  {
+    "Week":22,
+    "Date":"2026-05-06",
+    "DE Radial Vibration\n(micron)":27.111,
+    "Lube Oil Water Content\n(ppm)":248.268,
+    "Lube Oil Supply Press\n(barg)":1.718,
+    "Bearing Metal Temp\n(\u00b0C)":76.162,
+    "Health Status":"NORMAL",
+    "Remark":"Post-repair baseline restored (CAPA executed)"
+  },
+  {
+    "Week":23,
+    "Date":"2026-05-13",
+    "DE Radial Vibration\n(micron)":27.704,
+    "Lube Oil Water Content\n(ppm)":241.516,
+    "Lube Oil Supply Press\n(barg)":1.684,
+    "Bearing Metal Temp\n(\u00b0C)":73.735,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":24,
+    "Date":"2026-05-20",
+    "DE Radial Vibration\n(micron)":26.92,
+    "Lube Oil Water Content\n(ppm)":244.244,
+    "Lube Oil Supply Press\n(barg)":1.84,
+    "Bearing Metal Temp\n(\u00b0C)":77.07,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":25,
+    "Date":"2026-05-27",
+    "DE Radial Vibration\n(micron)":27.433,
+    "Lube Oil Water Content\n(ppm)":247.838,
+    "Lube Oil Supply Press\n(barg)":1.703,
+    "Bearing Metal Temp\n(\u00b0C)":74.816,
+    "Health Status":"NORMAL",
+    "Remark":null
+  },
+  {
+    "Week":26,
+    "Date":"2026-06-03",
+    "DE Radial Vibration\n(micron)":27.234,
+    "Lube Oil Water Content\n(ppm)":241.781,
+    "Lube Oil Supply Press\n(barg)":1.73,
+    "Bearing Metal Temp\n(\u00b0C)":77.771,
+    "Health Status":"NORMAL",
+    "Remark":null
+  }
+]

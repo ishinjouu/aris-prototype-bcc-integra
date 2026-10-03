@@ -1,0 +1,7202 @@
+[
+  {
+    "Timestamp":"2026-04-01 00:00:00",
+    "KO3201_FEED":56.869,
+    "KO3201_DISP":9.733,
+    "KO3201_VIB":29.125,
+    "KO3201_TEMP":65.52,
+    "KO3201_AMP":142.6,
+    "PLANT_RATE":55.7,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 01:00:00",
+    "KO3201_FEED":54.96,
+    "KO3201_DISP":9.186,
+    "KO3201_VIB":28.868,
+    "KO3201_TEMP":64.5,
+    "KO3201_AMP":140.11,
+    "PLANT_RATE":55.855,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 02:00:00",
+    "KO3201_FEED":55.6,
+    "KO3201_DISP":9.451,
+    "KO3201_VIB":29.197,
+    "KO3201_TEMP":64.09,
+    "KO3201_AMP":133.38,
+    "PLANT_RATE":56.912,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 03:00:00",
+    "KO3201_FEED":57.139,
+    "KO3201_DISP":9.142,
+    "KO3201_VIB":28.626,
+    "KO3201_TEMP":66.15,
+    "KO3201_AMP":129.32,
+    "PLANT_RATE":55.22,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 04:00:00",
+    "KO3201_FEED":56.462,
+    "KO3201_DISP":9.276,
+    "KO3201_VIB":28.697,
+    "KO3201_TEMP":63.81,
+    "KO3201_AMP":133.57,
+    "PLANT_RATE":54.658,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 05:00:00",
+    "KO3201_FEED":54.922,
+    "KO3201_DISP":9.427,
+    "KO3201_VIB":28.442,
+    "KO3201_TEMP":63.59,
+    "KO3201_AMP":135.32,
+    "PLANT_RATE":55.554,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 06:00:00",
+    "KO3201_FEED":56.202,
+    "KO3201_DISP":9.565,
+    "KO3201_VIB":28.79,
+    "KO3201_TEMP":65.46,
+    "KO3201_AMP":134.85,
+    "PLANT_RATE":55.123,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 07:00:00",
+    "KO3201_FEED":55.681,
+    "KO3201_DISP":9.376,
+    "KO3201_VIB":28.822,
+    "KO3201_TEMP":65.34,
+    "KO3201_AMP":133.22,
+    "PLANT_RATE":56.705,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 08:00:00",
+    "KO3201_FEED":54.381,
+    "KO3201_DISP":9.529,
+    "KO3201_VIB":28.799,
+    "KO3201_TEMP":63.98,
+    "KO3201_AMP":131.2,
+    "PLANT_RATE":55.477,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 09:00:00",
+    "KO3201_FEED":55.171,
+    "KO3201_DISP":9.369,
+    "KO3201_VIB":28.476,
+    "KO3201_TEMP":63.88,
+    "KO3201_AMP":139.93,
+    "PLANT_RATE":54.379,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 10:00:00",
+    "KO3201_FEED":53.078,
+    "KO3201_DISP":9.733,
+    "KO3201_VIB":29.067,
+    "KO3201_TEMP":63.93,
+    "KO3201_AMP":133.43,
+    "PLANT_RATE":56.754,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 11:00:00",
+    "KO3201_FEED":53.292,
+    "KO3201_DISP":9.405,
+    "KO3201_VIB":28.368,
+    "KO3201_TEMP":65.5,
+    "KO3201_AMP":132.01,
+    "PLANT_RATE":56.009,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 12:00:00",
+    "KO3201_FEED":55.238,
+    "KO3201_DISP":9.786,
+    "KO3201_VIB":28.562,
+    "KO3201_TEMP":65.66,
+    "KO3201_AMP":135.77,
+    "PLANT_RATE":56.287,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 13:00:00",
+    "KO3201_FEED":56.583,
+    "KO3201_DISP":9.762,
+    "KO3201_VIB":28.041,
+    "KO3201_TEMP":66.22,
+    "KO3201_AMP":135.49,
+    "PLANT_RATE":56.528,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 14:00:00",
+    "KO3201_FEED":53.945,
+    "KO3201_DISP":9.356,
+    "KO3201_VIB":29.071,
+    "KO3201_TEMP":64.85,
+    "KO3201_AMP":134.87,
+    "PLANT_RATE":57.252,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 15:00:00",
+    "KO3201_FEED":56.349,
+    "KO3201_DISP":9.571,
+    "KO3201_VIB":29.007,
+    "KO3201_TEMP":63.67,
+    "KO3201_AMP":139.66,
+    "PLANT_RATE":55.086,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 16:00:00",
+    "KO3201_FEED":55.193,
+    "KO3201_DISP":9.423,
+    "KO3201_VIB":28.752,
+    "KO3201_TEMP":66.07,
+    "KO3201_AMP":130.95,
+    "PLANT_RATE":56.775,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 17:00:00",
+    "KO3201_FEED":57.008,
+    "KO3201_DISP":9.711,
+    "KO3201_VIB":28.887,
+    "KO3201_TEMP":68.92,
+    "KO3201_AMP":135.98,
+    "PLANT_RATE":56.17,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 18:00:00",
+    "KO3201_FEED":54.635,
+    "KO3201_DISP":9.541,
+    "KO3201_VIB":28.481,
+    "KO3201_TEMP":67.4,
+    "KO3201_AMP":138.95,
+    "PLANT_RATE":56.154,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 19:00:00",
+    "KO3201_FEED":58.29,
+    "KO3201_DISP":9.765,
+    "KO3201_VIB":28.522,
+    "KO3201_TEMP":63.5,
+    "KO3201_AMP":133.15,
+    "PLANT_RATE":55.983,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 20:00:00",
+    "KO3201_FEED":55.528,
+    "KO3201_DISP":9.465,
+    "KO3201_VIB":28.549,
+    "KO3201_TEMP":66.14,
+    "KO3201_AMP":135.53,
+    "PLANT_RATE":55.58,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 21:00:00",
+    "KO3201_FEED":54.77,
+    "KO3201_DISP":9.448,
+    "KO3201_VIB":28.883,
+    "KO3201_TEMP":64.83,
+    "KO3201_AMP":137.53,
+    "PLANT_RATE":56.325,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 22:00:00",
+    "KO3201_FEED":55.311,
+    "KO3201_DISP":9.375,
+    "KO3201_VIB":28.7,
+    "KO3201_TEMP":64.86,
+    "KO3201_AMP":137.03,
+    "PLANT_RATE":56.123,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-01 23:00:00",
+    "KO3201_FEED":53.013,
+    "KO3201_DISP":9.512,
+    "KO3201_VIB":28.845,
+    "KO3201_TEMP":64.62,
+    "KO3201_AMP":135.04,
+    "PLANT_RATE":56.837,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 00:00:00",
+    "KO3201_FEED":55.415,
+    "KO3201_DISP":9.554,
+    "KO3201_VIB":28.525,
+    "KO3201_TEMP":63.8,
+    "KO3201_AMP":130.12,
+    "PLANT_RATE":57.721,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 01:00:00",
+    "KO3201_FEED":54.681,
+    "KO3201_DISP":9.502,
+    "KO3201_VIB":28.452,
+    "KO3201_TEMP":62.77,
+    "KO3201_AMP":131.43,
+    "PLANT_RATE":55.01,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 02:00:00",
+    "KO3201_FEED":55.585,
+    "KO3201_DISP":9.537,
+    "KO3201_VIB":28.909,
+    "KO3201_TEMP":65.67,
+    "KO3201_AMP":135.05,
+    "PLANT_RATE":58.222,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 03:00:00",
+    "KO3201_FEED":54.673,
+    "KO3201_DISP":9.605,
+    "KO3201_VIB":28.875,
+    "KO3201_TEMP":63.51,
+    "KO3201_AMP":133.81,
+    "PLANT_RATE":57.28,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 04:00:00",
+    "KO3201_FEED":52.033,
+    "KO3201_DISP":9.481,
+    "KO3201_VIB":28.914,
+    "KO3201_TEMP":64.21,
+    "KO3201_AMP":133.78,
+    "PLANT_RATE":54.84,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 05:00:00",
+    "KO3201_FEED":52.155,
+    "KO3201_DISP":9.396,
+    "KO3201_VIB":28.637,
+    "KO3201_TEMP":64.44,
+    "KO3201_AMP":132.89,
+    "PLANT_RATE":55.948,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 06:00:00",
+    "KO3201_FEED":54.301,
+    "KO3201_DISP":9.342,
+    "KO3201_VIB":28.87,
+    "KO3201_TEMP":65.16,
+    "KO3201_AMP":128.16,
+    "PLANT_RATE":56.089,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 07:00:00",
+    "KO3201_FEED":53.624,
+    "KO3201_DISP":9.408,
+    "KO3201_VIB":28.399,
+    "KO3201_TEMP":64.37,
+    "KO3201_AMP":137.39,
+    "PLANT_RATE":57.374,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 08:00:00",
+    "KO3201_FEED":55.99,
+    "KO3201_DISP":9.442,
+    "KO3201_VIB":28.518,
+    "KO3201_TEMP":64.8,
+    "KO3201_AMP":130.84,
+    "PLANT_RATE":55.031,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 09:00:00",
+    "KO3201_FEED":53.827,
+    "KO3201_DISP":9.645,
+    "KO3201_VIB":28.884,
+    "KO3201_TEMP":64.39,
+    "KO3201_AMP":141.18,
+    "PLANT_RATE":57.966,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 10:00:00",
+    "KO3201_FEED":55.508,
+    "KO3201_DISP":9.63,
+    "KO3201_VIB":28.556,
+    "KO3201_TEMP":65.4,
+    "KO3201_AMP":145.93,
+    "PLANT_RATE":54.908,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 11:00:00",
+    "KO3201_FEED":54.833,
+    "KO3201_DISP":9.384,
+    "KO3201_VIB":28.485,
+    "KO3201_TEMP":65.55,
+    "KO3201_AMP":138.11,
+    "PLANT_RATE":55.697,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 12:00:00",
+    "KO3201_FEED":56.722,
+    "KO3201_DISP":9.583,
+    "KO3201_VIB":28.558,
+    "KO3201_TEMP":67.2,
+    "KO3201_AMP":136.84,
+    "PLANT_RATE":55.421,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 13:00:00",
+    "KO3201_FEED":55.114,
+    "KO3201_DISP":9.358,
+    "KO3201_VIB":29.229,
+    "KO3201_TEMP":65.86,
+    "KO3201_AMP":132.51,
+    "PLANT_RATE":54.735,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 14:00:00",
+    "KO3201_FEED":55.233,
+    "KO3201_DISP":9.618,
+    "KO3201_VIB":28.691,
+    "KO3201_TEMP":64.17,
+    "KO3201_AMP":131.15,
+    "PLANT_RATE":54.855,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 15:00:00",
+    "KO3201_FEED":53.892,
+    "KO3201_DISP":9.252,
+    "KO3201_VIB":28.88,
+    "KO3201_TEMP":65.86,
+    "KO3201_AMP":133.4,
+    "PLANT_RATE":55.448,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 16:00:00",
+    "KO3201_FEED":55.424,
+    "KO3201_DISP":9.641,
+    "KO3201_VIB":28.76,
+    "KO3201_TEMP":66.39,
+    "KO3201_AMP":138.98,
+    "PLANT_RATE":55.801,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 17:00:00",
+    "KO3201_FEED":55.75,
+    "KO3201_DISP":9.467,
+    "KO3201_VIB":29.43,
+    "KO3201_TEMP":64.19,
+    "KO3201_AMP":135.14,
+    "PLANT_RATE":55.418,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 18:00:00",
+    "KO3201_FEED":54.88,
+    "KO3201_DISP":9.531,
+    "KO3201_VIB":28.777,
+    "KO3201_TEMP":64.21,
+    "KO3201_AMP":128.61,
+    "PLANT_RATE":55.077,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 19:00:00",
+    "KO3201_FEED":55.793,
+    "KO3201_DISP":9.478,
+    "KO3201_VIB":29.076,
+    "KO3201_TEMP":61.69,
+    "KO3201_AMP":138.16,
+    "PLANT_RATE":53.266,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 20:00:00",
+    "KO3201_FEED":53.859,
+    "KO3201_DISP":9.337,
+    "KO3201_VIB":29.049,
+    "KO3201_TEMP":67.24,
+    "KO3201_AMP":133.04,
+    "PLANT_RATE":55.788,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 21:00:00",
+    "KO3201_FEED":54.764,
+    "KO3201_DISP":9.513,
+    "KO3201_VIB":28.917,
+    "KO3201_TEMP":65.25,
+    "KO3201_AMP":138.24,
+    "PLANT_RATE":58.151,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 22:00:00",
+    "KO3201_FEED":55.456,
+    "KO3201_DISP":9.496,
+    "KO3201_VIB":28.81,
+    "KO3201_TEMP":67.04,
+    "KO3201_AMP":135.04,
+    "PLANT_RATE":57.908,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-02 23:00:00",
+    "KO3201_FEED":54.661,
+    "KO3201_DISP":9.608,
+    "KO3201_VIB":28.415,
+    "KO3201_TEMP":62.76,
+    "KO3201_AMP":131.91,
+    "PLANT_RATE":57.36,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 00:00:00",
+    "KO3201_FEED":56.362,
+    "KO3201_DISP":9.588,
+    "KO3201_VIB":28.954,
+    "KO3201_TEMP":61.55,
+    "KO3201_AMP":133.2,
+    "PLANT_RATE":55.661,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 01:00:00",
+    "KO3201_FEED":55.716,
+    "KO3201_DISP":9.679,
+    "KO3201_VIB":29.373,
+    "KO3201_TEMP":65.49,
+    "KO3201_AMP":137.9,
+    "PLANT_RATE":56.656,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 02:00:00",
+    "KO3201_FEED":54.326,
+    "KO3201_DISP":9.578,
+    "KO3201_VIB":28.95,
+    "KO3201_TEMP":63.79,
+    "KO3201_AMP":132.76,
+    "PLANT_RATE":55.508,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 03:00:00",
+    "KO3201_FEED":53.979,
+    "KO3201_DISP":9.325,
+    "KO3201_VIB":29.338,
+    "KO3201_TEMP":65.29,
+    "KO3201_AMP":140.27,
+    "PLANT_RATE":55.578,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 04:00:00",
+    "KO3201_FEED":54.996,
+    "KO3201_DISP":9.612,
+    "KO3201_VIB":28.998,
+    "KO3201_TEMP":63.88,
+    "KO3201_AMP":131.91,
+    "PLANT_RATE":56.266,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 05:00:00",
+    "KO3201_FEED":54.205,
+    "KO3201_DISP":9.316,
+    "KO3201_VIB":29.05,
+    "KO3201_TEMP":66.25,
+    "KO3201_AMP":140.65,
+    "PLANT_RATE":57.211,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 06:00:00",
+    "KO3201_FEED":54.568,
+    "KO3201_DISP":9.388,
+    "KO3201_VIB":28.691,
+    "KO3201_TEMP":64.55,
+    "KO3201_AMP":129.8,
+    "PLANT_RATE":55.553,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 07:00:00",
+    "KO3201_FEED":53.766,
+    "KO3201_DISP":9.506,
+    "KO3201_VIB":28.78,
+    "KO3201_TEMP":64.8,
+    "KO3201_AMP":130.75,
+    "PLANT_RATE":55.374,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 08:00:00",
+    "KO3201_FEED":55.862,
+    "KO3201_DISP":9.371,
+    "KO3201_VIB":28.938,
+    "KO3201_TEMP":65.76,
+    "KO3201_AMP":137.35,
+    "PLANT_RATE":56.057,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 09:00:00",
+    "KO3201_FEED":55.197,
+    "KO3201_DISP":9.437,
+    "KO3201_VIB":29.105,
+    "KO3201_TEMP":64.38,
+    "KO3201_AMP":140.9,
+    "PLANT_RATE":54.471,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 10:00:00",
+    "KO3201_FEED":55.339,
+    "KO3201_DISP":9.647,
+    "KO3201_VIB":28.548,
+    "KO3201_TEMP":64.47,
+    "KO3201_AMP":133.84,
+    "PLANT_RATE":57.033,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 11:00:00",
+    "KO3201_FEED":55.912,
+    "KO3201_DISP":9.405,
+    "KO3201_VIB":28.444,
+    "KO3201_TEMP":66.89,
+    "KO3201_AMP":138.11,
+    "PLANT_RATE":57.213,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 12:00:00",
+    "KO3201_FEED":52.473,
+    "KO3201_DISP":9.362,
+    "KO3201_VIB":28.784,
+    "KO3201_TEMP":64.91,
+    "KO3201_AMP":131.36,
+    "PLANT_RATE":57.391,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 13:00:00",
+    "KO3201_FEED":55.048,
+    "KO3201_DISP":9.303,
+    "KO3201_VIB":28.785,
+    "KO3201_TEMP":65.38,
+    "KO3201_AMP":131.04,
+    "PLANT_RATE":56.943,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 14:00:00",
+    "KO3201_FEED":54.738,
+    "KO3201_DISP":9.92,
+    "KO3201_VIB":28.934,
+    "KO3201_TEMP":65.79,
+    "KO3201_AMP":135.09,
+    "PLANT_RATE":55.449,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 15:00:00",
+    "KO3201_FEED":55.759,
+    "KO3201_DISP":9.429,
+    "KO3201_VIB":29.254,
+    "KO3201_TEMP":65.21,
+    "KO3201_AMP":143.42,
+    "PLANT_RATE":55.838,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 16:00:00",
+    "KO3201_FEED":55.566,
+    "KO3201_DISP":9.502,
+    "KO3201_VIB":28.668,
+    "KO3201_TEMP":65.81,
+    "KO3201_AMP":133.93,
+    "PLANT_RATE":55.072,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 17:00:00",
+    "KO3201_FEED":55.585,
+    "KO3201_DISP":9.504,
+    "KO3201_VIB":29.296,
+    "KO3201_TEMP":67.88,
+    "KO3201_AMP":128.7,
+    "PLANT_RATE":56.436,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 18:00:00",
+    "KO3201_FEED":56.44,
+    "KO3201_DISP":9.664,
+    "KO3201_VIB":28.96,
+    "KO3201_TEMP":66.66,
+    "KO3201_AMP":125.28,
+    "PLANT_RATE":58.483,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 19:00:00",
+    "KO3201_FEED":52.944,
+    "KO3201_DISP":9.411,
+    "KO3201_VIB":28.82,
+    "KO3201_TEMP":62.97,
+    "KO3201_AMP":134.64,
+    "PLANT_RATE":55.025,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 20:00:00",
+    "KO3201_FEED":53.832,
+    "KO3201_DISP":9.362,
+    "KO3201_VIB":28.379,
+    "KO3201_TEMP":61.79,
+    "KO3201_AMP":137.35,
+    "PLANT_RATE":56.816,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 21:00:00",
+    "KO3201_FEED":56.347,
+    "KO3201_DISP":9.44,
+    "KO3201_VIB":29.198,
+    "KO3201_TEMP":63.76,
+    "KO3201_AMP":133.52,
+    "PLANT_RATE":57.604,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 22:00:00",
+    "KO3201_FEED":56.601,
+    "KO3201_DISP":9.38,
+    "KO3201_VIB":29.271,
+    "KO3201_TEMP":61.55,
+    "KO3201_AMP":135.59,
+    "PLANT_RATE":54.961,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-03 23:00:00",
+    "KO3201_FEED":54.109,
+    "KO3201_DISP":9.283,
+    "KO3201_VIB":28.938,
+    "KO3201_TEMP":61.04,
+    "KO3201_AMP":131.87,
+    "PLANT_RATE":58.43,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 00:00:00",
+    "KO3201_FEED":56.245,
+    "KO3201_DISP":9.216,
+    "KO3201_VIB":28.945,
+    "KO3201_TEMP":63.5,
+    "KO3201_AMP":139.86,
+    "PLANT_RATE":55.372,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 01:00:00",
+    "KO3201_FEED":55.971,
+    "KO3201_DISP":9.503,
+    "KO3201_VIB":28.703,
+    "KO3201_TEMP":63.62,
+    "KO3201_AMP":136.87,
+    "PLANT_RATE":55.986,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 02:00:00",
+    "KO3201_FEED":53.498,
+    "KO3201_DISP":9.434,
+    "KO3201_VIB":28.314,
+    "KO3201_TEMP":65.31,
+    "KO3201_AMP":129.42,
+    "PLANT_RATE":56.558,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 03:00:00",
+    "KO3201_FEED":54.34,
+    "KO3201_DISP":9.706,
+    "KO3201_VIB":28.606,
+    "KO3201_TEMP":65.72,
+    "KO3201_AMP":132.46,
+    "PLANT_RATE":57.12,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 04:00:00",
+    "KO3201_FEED":55.379,
+    "KO3201_DISP":9.419,
+    "KO3201_VIB":28.437,
+    "KO3201_TEMP":68.27,
+    "KO3201_AMP":139.66,
+    "PLANT_RATE":56.974,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 05:00:00",
+    "KO3201_FEED":54.931,
+    "KO3201_DISP":9.443,
+    "KO3201_VIB":28.456,
+    "KO3201_TEMP":63.99,
+    "KO3201_AMP":134.73,
+    "PLANT_RATE":55.831,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 06:00:00",
+    "KO3201_FEED":56.996,
+    "KO3201_DISP":9.679,
+    "KO3201_VIB":28.591,
+    "KO3201_TEMP":64.14,
+    "KO3201_AMP":125.57,
+    "PLANT_RATE":55.385,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 07:00:00",
+    "KO3201_FEED":55.676,
+    "KO3201_DISP":9.245,
+    "KO3201_VIB":28.658,
+    "KO3201_TEMP":65.37,
+    "KO3201_AMP":133.28,
+    "PLANT_RATE":53.544,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 08:00:00",
+    "KO3201_FEED":56.0,
+    "KO3201_DISP":9.614,
+    "KO3201_VIB":28.94,
+    "KO3201_TEMP":66.66,
+    "KO3201_AMP":132.84,
+    "PLANT_RATE":55.549,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 09:00:00",
+    "KO3201_FEED":54.284,
+    "KO3201_DISP":9.373,
+    "KO3201_VIB":29.144,
+    "KO3201_TEMP":64.66,
+    "KO3201_AMP":124.13,
+    "PLANT_RATE":57.485,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 10:00:00",
+    "KO3201_FEED":53.655,
+    "KO3201_DISP":9.327,
+    "KO3201_VIB":28.751,
+    "KO3201_TEMP":63.7,
+    "KO3201_AMP":136.62,
+    "PLANT_RATE":55.239,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 11:00:00",
+    "KO3201_FEED":54.336,
+    "KO3201_DISP":9.553,
+    "KO3201_VIB":29.012,
+    "KO3201_TEMP":61.05,
+    "KO3201_AMP":140.26,
+    "PLANT_RATE":56.776,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 12:00:00",
+    "KO3201_FEED":56.562,
+    "KO3201_DISP":9.515,
+    "KO3201_VIB":28.715,
+    "KO3201_TEMP":66.29,
+    "KO3201_AMP":132.62,
+    "PLANT_RATE":56.879,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 13:00:00",
+    "KO3201_FEED":57.049,
+    "KO3201_DISP":9.327,
+    "KO3201_VIB":28.725,
+    "KO3201_TEMP":64.69,
+    "KO3201_AMP":131.24,
+    "PLANT_RATE":56.289,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 14:00:00",
+    "KO3201_FEED":54.113,
+    "KO3201_DISP":9.534,
+    "KO3201_VIB":28.893,
+    "KO3201_TEMP":67.34,
+    "KO3201_AMP":133.87,
+    "PLANT_RATE":55.496,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 15:00:00",
+    "KO3201_FEED":54.854,
+    "KO3201_DISP":9.729,
+    "KO3201_VIB":28.642,
+    "KO3201_TEMP":67.73,
+    "KO3201_AMP":132.87,
+    "PLANT_RATE":55.498,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 16:00:00",
+    "KO3201_FEED":52.262,
+    "KO3201_DISP":9.62,
+    "KO3201_VIB":28.867,
+    "KO3201_TEMP":67.85,
+    "KO3201_AMP":134.41,
+    "PLANT_RATE":56.052,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 17:00:00",
+    "KO3201_FEED":56.427,
+    "KO3201_DISP":9.515,
+    "KO3201_VIB":28.678,
+    "KO3201_TEMP":65.72,
+    "KO3201_AMP":136.75,
+    "PLANT_RATE":54.179,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 18:00:00",
+    "KO3201_FEED":53.617,
+    "KO3201_DISP":9.414,
+    "KO3201_VIB":28.579,
+    "KO3201_TEMP":66.34,
+    "KO3201_AMP":128.46,
+    "PLANT_RATE":57.635,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 19:00:00",
+    "KO3201_FEED":55.992,
+    "KO3201_DISP":9.484,
+    "KO3201_VIB":28.63,
+    "KO3201_TEMP":63.04,
+    "KO3201_AMP":133.36,
+    "PLANT_RATE":54.957,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 20:00:00",
+    "KO3201_FEED":56.424,
+    "KO3201_DISP":9.569,
+    "KO3201_VIB":29.193,
+    "KO3201_TEMP":65.67,
+    "KO3201_AMP":142.13,
+    "PLANT_RATE":55.416,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 21:00:00",
+    "KO3201_FEED":53.537,
+    "KO3201_DISP":9.464,
+    "KO3201_VIB":28.865,
+    "KO3201_TEMP":64.5,
+    "KO3201_AMP":134.13,
+    "PLANT_RATE":55.424,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 22:00:00",
+    "KO3201_FEED":54.043,
+    "KO3201_DISP":9.566,
+    "KO3201_VIB":28.684,
+    "KO3201_TEMP":66.57,
+    "KO3201_AMP":135.09,
+    "PLANT_RATE":55.784,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-04 23:00:00",
+    "KO3201_FEED":55.798,
+    "KO3201_DISP":9.643,
+    "KO3201_VIB":28.846,
+    "KO3201_TEMP":64.23,
+    "KO3201_AMP":136.0,
+    "PLANT_RATE":56.521,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 00:00:00",
+    "KO3201_FEED":56.513,
+    "KO3201_DISP":9.276,
+    "KO3201_VIB":28.605,
+    "KO3201_TEMP":64.69,
+    "KO3201_AMP":131.4,
+    "PLANT_RATE":57.428,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 01:00:00",
+    "KO3201_FEED":54.425,
+    "KO3201_DISP":9.523,
+    "KO3201_VIB":28.679,
+    "KO3201_TEMP":63.8,
+    "KO3201_AMP":129.13,
+    "PLANT_RATE":56.352,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 02:00:00",
+    "KO3201_FEED":53.851,
+    "KO3201_DISP":9.573,
+    "KO3201_VIB":28.707,
+    "KO3201_TEMP":67.74,
+    "KO3201_AMP":143.64,
+    "PLANT_RATE":57.83,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 03:00:00",
+    "KO3201_FEED":55.385,
+    "KO3201_DISP":9.457,
+    "KO3201_VIB":28.368,
+    "KO3201_TEMP":65.2,
+    "KO3201_AMP":134.74,
+    "PLANT_RATE":55.702,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 04:00:00",
+    "KO3201_FEED":56.401,
+    "KO3201_DISP":9.401,
+    "KO3201_VIB":28.756,
+    "KO3201_TEMP":63.54,
+    "KO3201_AMP":130.63,
+    "PLANT_RATE":56.866,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 05:00:00",
+    "KO3201_FEED":53.783,
+    "KO3201_DISP":9.723,
+    "KO3201_VIB":28.909,
+    "KO3201_TEMP":64.44,
+    "KO3201_AMP":138.12,
+    "PLANT_RATE":56.98,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 06:00:00",
+    "KO3201_FEED":54.133,
+    "KO3201_DISP":9.485,
+    "KO3201_VIB":28.867,
+    "KO3201_TEMP":63.11,
+    "KO3201_AMP":133.04,
+    "PLANT_RATE":56.27,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 07:00:00",
+    "KO3201_FEED":56.285,
+    "KO3201_DISP":9.484,
+    "KO3201_VIB":28.76,
+    "KO3201_TEMP":66.81,
+    "KO3201_AMP":130.95,
+    "PLANT_RATE":56.842,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 08:00:00",
+    "KO3201_FEED":55.223,
+    "KO3201_DISP":9.417,
+    "KO3201_VIB":29.068,
+    "KO3201_TEMP":66.85,
+    "KO3201_AMP":132.59,
+    "PLANT_RATE":54.994,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 09:00:00",
+    "KO3201_FEED":54.093,
+    "KO3201_DISP":9.453,
+    "KO3201_VIB":28.587,
+    "KO3201_TEMP":65.25,
+    "KO3201_AMP":129.25,
+    "PLANT_RATE":57.566,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 10:00:00",
+    "KO3201_FEED":55.004,
+    "KO3201_DISP":9.452,
+    "KO3201_VIB":29.08,
+    "KO3201_TEMP":65.46,
+    "KO3201_AMP":130.6,
+    "PLANT_RATE":57.003,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 11:00:00",
+    "KO3201_FEED":55.529,
+    "KO3201_DISP":9.482,
+    "KO3201_VIB":29.046,
+    "KO3201_TEMP":62.87,
+    "KO3201_AMP":138.17,
+    "PLANT_RATE":56.297,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 12:00:00",
+    "KO3201_FEED":56.133,
+    "KO3201_DISP":9.274,
+    "KO3201_VIB":28.85,
+    "KO3201_TEMP":67.34,
+    "KO3201_AMP":135.06,
+    "PLANT_RATE":55.727,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 13:00:00",
+    "KO3201_FEED":55.326,
+    "KO3201_DISP":9.257,
+    "KO3201_VIB":29.184,
+    "KO3201_TEMP":64.95,
+    "KO3201_AMP":133.54,
+    "PLANT_RATE":57.038,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 14:00:00",
+    "KO3201_FEED":54.986,
+    "KO3201_DISP":9.404,
+    "KO3201_VIB":28.596,
+    "KO3201_TEMP":68.06,
+    "KO3201_AMP":139.77,
+    "PLANT_RATE":54.918,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 15:00:00",
+    "KO3201_FEED":53.147,
+    "KO3201_DISP":9.446,
+    "KO3201_VIB":28.861,
+    "KO3201_TEMP":64.16,
+    "KO3201_AMP":137.41,
+    "PLANT_RATE":56.922,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 16:00:00",
+    "KO3201_FEED":55.594,
+    "KO3201_DISP":9.411,
+    "KO3201_VIB":28.761,
+    "KO3201_TEMP":65.72,
+    "KO3201_AMP":133.02,
+    "PLANT_RATE":57.136,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 17:00:00",
+    "KO3201_FEED":55.564,
+    "KO3201_DISP":9.603,
+    "KO3201_VIB":28.602,
+    "KO3201_TEMP":66.32,
+    "KO3201_AMP":128.77,
+    "PLANT_RATE":58.867,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 18:00:00",
+    "KO3201_FEED":55.225,
+    "KO3201_DISP":9.492,
+    "KO3201_VIB":28.716,
+    "KO3201_TEMP":66.2,
+    "KO3201_AMP":132.48,
+    "PLANT_RATE":56.019,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 19:00:00",
+    "KO3201_FEED":55.02,
+    "KO3201_DISP":9.604,
+    "KO3201_VIB":28.9,
+    "KO3201_TEMP":64.85,
+    "KO3201_AMP":139.65,
+    "PLANT_RATE":57.608,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 20:00:00",
+    "KO3201_FEED":55.134,
+    "KO3201_DISP":9.531,
+    "KO3201_VIB":28.9,
+    "KO3201_TEMP":66.63,
+    "KO3201_AMP":130.92,
+    "PLANT_RATE":56.799,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 21:00:00",
+    "KO3201_FEED":56.052,
+    "KO3201_DISP":9.163,
+    "KO3201_VIB":28.958,
+    "KO3201_TEMP":65.6,
+    "KO3201_AMP":143.14,
+    "PLANT_RATE":54.356,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 22:00:00",
+    "KO3201_FEED":54.589,
+    "KO3201_DISP":9.567,
+    "KO3201_VIB":28.629,
+    "KO3201_TEMP":65.05,
+    "KO3201_AMP":133.76,
+    "PLANT_RATE":54.703,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-05 23:00:00",
+    "KO3201_FEED":53.666,
+    "KO3201_DISP":9.713,
+    "KO3201_VIB":28.772,
+    "KO3201_TEMP":63.48,
+    "KO3201_AMP":129.23,
+    "PLANT_RATE":55.533,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 00:00:00",
+    "KO3201_FEED":55.991,
+    "KO3201_DISP":9.519,
+    "KO3201_VIB":28.769,
+    "KO3201_TEMP":66.92,
+    "KO3201_AMP":132.82,
+    "PLANT_RATE":57.395,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 01:00:00",
+    "KO3201_FEED":54.581,
+    "KO3201_DISP":9.487,
+    "KO3201_VIB":28.631,
+    "KO3201_TEMP":65.07,
+    "KO3201_AMP":140.32,
+    "PLANT_RATE":57.713,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 02:00:00",
+    "KO3201_FEED":54.686,
+    "KO3201_DISP":9.325,
+    "KO3201_VIB":28.794,
+    "KO3201_TEMP":65.73,
+    "KO3201_AMP":132.16,
+    "PLANT_RATE":55.847,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 03:00:00",
+    "KO3201_FEED":55.472,
+    "KO3201_DISP":9.533,
+    "KO3201_VIB":28.258,
+    "KO3201_TEMP":64.92,
+    "KO3201_AMP":136.39,
+    "PLANT_RATE":56.596,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 04:00:00",
+    "KO3201_FEED":54.717,
+    "KO3201_DISP":9.342,
+    "KO3201_VIB":28.502,
+    "KO3201_TEMP":65.53,
+    "KO3201_AMP":137.55,
+    "PLANT_RATE":56.365,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 05:00:00",
+    "KO3201_FEED":54.919,
+    "KO3201_DISP":9.235,
+    "KO3201_VIB":28.671,
+    "KO3201_TEMP":64.47,
+    "KO3201_AMP":132.41,
+    "PLANT_RATE":53.39,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 06:00:00",
+    "KO3201_FEED":53.763,
+    "KO3201_DISP":9.53,
+    "KO3201_VIB":28.701,
+    "KO3201_TEMP":68.83,
+    "KO3201_AMP":138.8,
+    "PLANT_RATE":57.322,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 07:00:00",
+    "KO3201_FEED":56.434,
+    "KO3201_DISP":9.621,
+    "KO3201_VIB":28.96,
+    "KO3201_TEMP":67.72,
+    "KO3201_AMP":140.25,
+    "PLANT_RATE":57.672,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 08:00:00",
+    "KO3201_FEED":53.518,
+    "KO3201_DISP":9.454,
+    "KO3201_VIB":28.656,
+    "KO3201_TEMP":66.02,
+    "KO3201_AMP":137.77,
+    "PLANT_RATE":53.662,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 09:00:00",
+    "KO3201_FEED":56.447,
+    "KO3201_DISP":9.471,
+    "KO3201_VIB":29.222,
+    "KO3201_TEMP":65.44,
+    "KO3201_AMP":127.64,
+    "PLANT_RATE":55.089,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 10:00:00",
+    "KO3201_FEED":53.599,
+    "KO3201_DISP":9.396,
+    "KO3201_VIB":28.426,
+    "KO3201_TEMP":66.02,
+    "KO3201_AMP":135.85,
+    "PLANT_RATE":56.025,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 11:00:00",
+    "KO3201_FEED":54.209,
+    "KO3201_DISP":9.735,
+    "KO3201_VIB":29.26,
+    "KO3201_TEMP":63.75,
+    "KO3201_AMP":137.55,
+    "PLANT_RATE":56.025,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 12:00:00",
+    "KO3201_FEED":54.528,
+    "KO3201_DISP":9.553,
+    "KO3201_VIB":28.556,
+    "KO3201_TEMP":65.91,
+    "KO3201_AMP":138.19,
+    "PLANT_RATE":57.273,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 13:00:00",
+    "KO3201_FEED":55.959,
+    "KO3201_DISP":9.445,
+    "KO3201_VIB":28.507,
+    "KO3201_TEMP":64.88,
+    "KO3201_AMP":141.9,
+    "PLANT_RATE":57.404,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 14:00:00",
+    "KO3201_FEED":55.213,
+    "KO3201_DISP":9.452,
+    "KO3201_VIB":28.607,
+    "KO3201_TEMP":64.39,
+    "KO3201_AMP":135.84,
+    "PLANT_RATE":55.51,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 15:00:00",
+    "KO3201_FEED":54.483,
+    "KO3201_DISP":9.516,
+    "KO3201_VIB":28.638,
+    "KO3201_TEMP":64.0,
+    "KO3201_AMP":134.86,
+    "PLANT_RATE":56.863,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 16:00:00",
+    "KO3201_FEED":53.617,
+    "KO3201_DISP":9.66,
+    "KO3201_VIB":28.721,
+    "KO3201_TEMP":64.01,
+    "KO3201_AMP":126.56,
+    "PLANT_RATE":55.409,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 17:00:00",
+    "KO3201_FEED":56.092,
+    "KO3201_DISP":9.415,
+    "KO3201_VIB":28.678,
+    "KO3201_TEMP":65.73,
+    "KO3201_AMP":130.04,
+    "PLANT_RATE":55.776,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 18:00:00",
+    "KO3201_FEED":55.028,
+    "KO3201_DISP":9.364,
+    "KO3201_VIB":28.909,
+    "KO3201_TEMP":65.05,
+    "KO3201_AMP":139.15,
+    "PLANT_RATE":56.378,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 19:00:00",
+    "KO3201_FEED":55.453,
+    "KO3201_DISP":9.542,
+    "KO3201_VIB":28.99,
+    "KO3201_TEMP":63.84,
+    "KO3201_AMP":130.12,
+    "PLANT_RATE":56.717,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 20:00:00",
+    "KO3201_FEED":54.783,
+    "KO3201_DISP":9.477,
+    "KO3201_VIB":28.528,
+    "KO3201_TEMP":65.63,
+    "KO3201_AMP":133.73,
+    "PLANT_RATE":55.429,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 21:00:00",
+    "KO3201_FEED":54.435,
+    "KO3201_DISP":9.277,
+    "KO3201_VIB":29.105,
+    "KO3201_TEMP":65.22,
+    "KO3201_AMP":127.99,
+    "PLANT_RATE":58.213,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 22:00:00",
+    "KO3201_FEED":55.722,
+    "KO3201_DISP":9.477,
+    "KO3201_VIB":28.857,
+    "KO3201_TEMP":64.87,
+    "KO3201_AMP":133.52,
+    "PLANT_RATE":56.343,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-06 23:00:00",
+    "KO3201_FEED":55.316,
+    "KO3201_DISP":9.449,
+    "KO3201_VIB":28.795,
+    "KO3201_TEMP":67.17,
+    "KO3201_AMP":129.82,
+    "PLANT_RATE":56.125,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 00:00:00",
+    "KO3201_FEED":56.249,
+    "KO3201_DISP":9.435,
+    "KO3201_VIB":29.008,
+    "KO3201_TEMP":64.63,
+    "KO3201_AMP":136.52,
+    "PLANT_RATE":56.966,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 01:00:00",
+    "KO3201_FEED":55.208,
+    "KO3201_DISP":9.517,
+    "KO3201_VIB":28.771,
+    "KO3201_TEMP":63.04,
+    "KO3201_AMP":134.35,
+    "PLANT_RATE":55.424,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 02:00:00",
+    "KO3201_FEED":53.435,
+    "KO3201_DISP":9.531,
+    "KO3201_VIB":29.157,
+    "KO3201_TEMP":65.23,
+    "KO3201_AMP":136.03,
+    "PLANT_RATE":56.461,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 03:00:00",
+    "KO3201_FEED":55.837,
+    "KO3201_DISP":9.745,
+    "KO3201_VIB":28.491,
+    "KO3201_TEMP":63.54,
+    "KO3201_AMP":128.55,
+    "PLANT_RATE":53.426,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 04:00:00",
+    "KO3201_FEED":55.05,
+    "KO3201_DISP":9.588,
+    "KO3201_VIB":29.1,
+    "KO3201_TEMP":66.24,
+    "KO3201_AMP":133.83,
+    "PLANT_RATE":54.232,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 05:00:00",
+    "KO3201_FEED":54.737,
+    "KO3201_DISP":9.62,
+    "KO3201_VIB":28.676,
+    "KO3201_TEMP":65.86,
+    "KO3201_AMP":138.0,
+    "PLANT_RATE":55.715,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 06:00:00",
+    "KO3201_FEED":51.574,
+    "KO3201_DISP":9.428,
+    "KO3201_VIB":28.979,
+    "KO3201_TEMP":64.55,
+    "KO3201_AMP":122.05,
+    "PLANT_RATE":55.602,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 07:00:00",
+    "KO3201_FEED":54.041,
+    "KO3201_DISP":9.496,
+    "KO3201_VIB":28.682,
+    "KO3201_TEMP":65.75,
+    "KO3201_AMP":132.19,
+    "PLANT_RATE":55.723,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 08:00:00",
+    "KO3201_FEED":55.176,
+    "KO3201_DISP":9.395,
+    "KO3201_VIB":29.213,
+    "KO3201_TEMP":64.42,
+    "KO3201_AMP":134.24,
+    "PLANT_RATE":55.402,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 09:00:00",
+    "KO3201_FEED":54.301,
+    "KO3201_DISP":9.392,
+    "KO3201_VIB":28.892,
+    "KO3201_TEMP":64.33,
+    "KO3201_AMP":137.87,
+    "PLANT_RATE":56.757,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 10:00:00",
+    "KO3201_FEED":55.273,
+    "KO3201_DISP":9.619,
+    "KO3201_VIB":28.984,
+    "KO3201_TEMP":62.38,
+    "KO3201_AMP":136.99,
+    "PLANT_RATE":57.45,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 11:00:00",
+    "KO3201_FEED":55.652,
+    "KO3201_DISP":9.819,
+    "KO3201_VIB":28.529,
+    "KO3201_TEMP":61.93,
+    "KO3201_AMP":137.1,
+    "PLANT_RATE":55.561,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 12:00:00",
+    "KO3201_FEED":54.975,
+    "KO3201_DISP":9.599,
+    "KO3201_VIB":28.424,
+    "KO3201_TEMP":64.4,
+    "KO3201_AMP":135.96,
+    "PLANT_RATE":57.258,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 13:00:00",
+    "KO3201_FEED":53.96,
+    "KO3201_DISP":9.556,
+    "KO3201_VIB":28.856,
+    "KO3201_TEMP":67.6,
+    "KO3201_AMP":137.72,
+    "PLANT_RATE":56.537,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 14:00:00",
+    "KO3201_FEED":55.468,
+    "KO3201_DISP":9.575,
+    "KO3201_VIB":29.177,
+    "KO3201_TEMP":63.24,
+    "KO3201_AMP":134.0,
+    "PLANT_RATE":54.792,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 15:00:00",
+    "KO3201_FEED":55.394,
+    "KO3201_DISP":9.614,
+    "KO3201_VIB":28.837,
+    "KO3201_TEMP":64.89,
+    "KO3201_AMP":134.18,
+    "PLANT_RATE":54.633,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 16:00:00",
+    "KO3201_FEED":54.721,
+    "KO3201_DISP":9.484,
+    "KO3201_VIB":28.428,
+    "KO3201_TEMP":64.03,
+    "KO3201_AMP":129.97,
+    "PLANT_RATE":56.175,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 17:00:00",
+    "KO3201_FEED":52.905,
+    "KO3201_DISP":9.486,
+    "KO3201_VIB":29.224,
+    "KO3201_TEMP":65.76,
+    "KO3201_AMP":133.8,
+    "PLANT_RATE":57.303,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 18:00:00",
+    "KO3201_FEED":53.628,
+    "KO3201_DISP":9.588,
+    "KO3201_VIB":28.668,
+    "KO3201_TEMP":63.79,
+    "KO3201_AMP":133.62,
+    "PLANT_RATE":55.105,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 19:00:00",
+    "KO3201_FEED":55.871,
+    "KO3201_DISP":9.734,
+    "KO3201_VIB":28.987,
+    "KO3201_TEMP":64.84,
+    "KO3201_AMP":140.79,
+    "PLANT_RATE":53.817,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 20:00:00",
+    "KO3201_FEED":54.704,
+    "KO3201_DISP":9.507,
+    "KO3201_VIB":28.591,
+    "KO3201_TEMP":65.59,
+    "KO3201_AMP":130.21,
+    "PLANT_RATE":57.184,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 21:00:00",
+    "KO3201_FEED":53.011,
+    "KO3201_DISP":9.249,
+    "KO3201_VIB":28.618,
+    "KO3201_TEMP":64.25,
+    "KO3201_AMP":135.69,
+    "PLANT_RATE":57.388,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 22:00:00",
+    "KO3201_FEED":54.787,
+    "KO3201_DISP":9.612,
+    "KO3201_VIB":28.869,
+    "KO3201_TEMP":64.78,
+    "KO3201_AMP":133.51,
+    "PLANT_RATE":55.868,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-07 23:00:00",
+    "KO3201_FEED":55.037,
+    "KO3201_DISP":9.526,
+    "KO3201_VIB":28.135,
+    "KO3201_TEMP":64.69,
+    "KO3201_AMP":134.86,
+    "PLANT_RATE":57.317,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 00:00:00",
+    "KO3201_FEED":55.69,
+    "KO3201_DISP":9.378,
+    "KO3201_VIB":28.546,
+    "KO3201_TEMP":65.77,
+    "KO3201_AMP":138.96,
+    "PLANT_RATE":58.352,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 01:00:00",
+    "KO3201_FEED":55.463,
+    "KO3201_DISP":9.371,
+    "KO3201_VIB":28.689,
+    "KO3201_TEMP":65.92,
+    "KO3201_AMP":134.42,
+    "PLANT_RATE":55.187,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 02:00:00",
+    "KO3201_FEED":55.401,
+    "KO3201_DISP":9.025,
+    "KO3201_VIB":28.691,
+    "KO3201_TEMP":66.1,
+    "KO3201_AMP":131.02,
+    "PLANT_RATE":55.697,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 03:00:00",
+    "KO3201_FEED":54.135,
+    "KO3201_DISP":9.38,
+    "KO3201_VIB":28.385,
+    "KO3201_TEMP":65.63,
+    "KO3201_AMP":135.11,
+    "PLANT_RATE":55.705,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 04:00:00",
+    "KO3201_FEED":53.136,
+    "KO3201_DISP":9.463,
+    "KO3201_VIB":29.068,
+    "KO3201_TEMP":63.54,
+    "KO3201_AMP":138.56,
+    "PLANT_RATE":57.315,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 05:00:00",
+    "KO3201_FEED":54.302,
+    "KO3201_DISP":9.571,
+    "KO3201_VIB":28.736,
+    "KO3201_TEMP":64.39,
+    "KO3201_AMP":135.99,
+    "PLANT_RATE":55.187,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 06:00:00",
+    "KO3201_FEED":56.49,
+    "KO3201_DISP":9.487,
+    "KO3201_VIB":28.747,
+    "KO3201_TEMP":65.75,
+    "KO3201_AMP":137.52,
+    "PLANT_RATE":55.776,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 07:00:00",
+    "KO3201_FEED":53.312,
+    "KO3201_DISP":9.348,
+    "KO3201_VIB":28.314,
+    "KO3201_TEMP":65.07,
+    "KO3201_AMP":129.32,
+    "PLANT_RATE":57.523,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 08:00:00",
+    "KO3201_FEED":55.964,
+    "KO3201_DISP":9.434,
+    "KO3201_VIB":28.764,
+    "KO3201_TEMP":66.26,
+    "KO3201_AMP":138.45,
+    "PLANT_RATE":57.239,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 09:00:00",
+    "KO3201_FEED":53.324,
+    "KO3201_DISP":9.502,
+    "KO3201_VIB":28.947,
+    "KO3201_TEMP":63.15,
+    "KO3201_AMP":132.83,
+    "PLANT_RATE":57.292,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 10:00:00",
+    "KO3201_FEED":53.541,
+    "KO3201_DISP":9.583,
+    "KO3201_VIB":28.998,
+    "KO3201_TEMP":63.7,
+    "KO3201_AMP":129.97,
+    "PLANT_RATE":55.116,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 11:00:00",
+    "KO3201_FEED":55.089,
+    "KO3201_DISP":9.538,
+    "KO3201_VIB":28.934,
+    "KO3201_TEMP":63.77,
+    "KO3201_AMP":136.04,
+    "PLANT_RATE":56.616,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 12:00:00",
+    "KO3201_FEED":54.073,
+    "KO3201_DISP":9.622,
+    "KO3201_VIB":28.764,
+    "KO3201_TEMP":65.42,
+    "KO3201_AMP":129.08,
+    "PLANT_RATE":55.495,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 13:00:00",
+    "KO3201_FEED":54.703,
+    "KO3201_DISP":9.21,
+    "KO3201_VIB":28.724,
+    "KO3201_TEMP":64.07,
+    "KO3201_AMP":135.87,
+    "PLANT_RATE":57.145,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 14:00:00",
+    "KO3201_FEED":53.699,
+    "KO3201_DISP":9.526,
+    "KO3201_VIB":28.826,
+    "KO3201_TEMP":63.69,
+    "KO3201_AMP":141.09,
+    "PLANT_RATE":56.687,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 15:00:00",
+    "KO3201_FEED":55.114,
+    "KO3201_DISP":9.539,
+    "KO3201_VIB":28.947,
+    "KO3201_TEMP":65.49,
+    "KO3201_AMP":132.58,
+    "PLANT_RATE":56.914,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 16:00:00",
+    "KO3201_FEED":55.909,
+    "KO3201_DISP":9.356,
+    "KO3201_VIB":28.724,
+    "KO3201_TEMP":64.39,
+    "KO3201_AMP":131.27,
+    "PLANT_RATE":55.95,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 17:00:00",
+    "KO3201_FEED":53.356,
+    "KO3201_DISP":9.526,
+    "KO3201_VIB":28.726,
+    "KO3201_TEMP":63.41,
+    "KO3201_AMP":139.21,
+    "PLANT_RATE":56.298,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 18:00:00",
+    "KO3201_FEED":55.567,
+    "KO3201_DISP":9.419,
+    "KO3201_VIB":28.876,
+    "KO3201_TEMP":65.59,
+    "KO3201_AMP":137.39,
+    "PLANT_RATE":56.554,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 19:00:00",
+    "KO3201_FEED":55.38,
+    "KO3201_DISP":9.316,
+    "KO3201_VIB":28.716,
+    "KO3201_TEMP":64.83,
+    "KO3201_AMP":138.24,
+    "PLANT_RATE":55.908,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 20:00:00",
+    "KO3201_FEED":55.831,
+    "KO3201_DISP":9.304,
+    "KO3201_VIB":28.844,
+    "KO3201_TEMP":65.7,
+    "KO3201_AMP":127.2,
+    "PLANT_RATE":56.493,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 21:00:00",
+    "KO3201_FEED":52.456,
+    "KO3201_DISP":9.577,
+    "KO3201_VIB":28.812,
+    "KO3201_TEMP":65.81,
+    "KO3201_AMP":131.45,
+    "PLANT_RATE":55.08,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 22:00:00",
+    "KO3201_FEED":55.952,
+    "KO3201_DISP":9.583,
+    "KO3201_VIB":28.549,
+    "KO3201_TEMP":64.12,
+    "KO3201_AMP":142.18,
+    "PLANT_RATE":54.847,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-08 23:00:00",
+    "KO3201_FEED":53.69,
+    "KO3201_DISP":9.659,
+    "KO3201_VIB":29.153,
+    "KO3201_TEMP":64.56,
+    "KO3201_AMP":131.53,
+    "PLANT_RATE":54.268,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 00:00:00",
+    "KO3201_FEED":54.685,
+    "KO3201_DISP":9.608,
+    "KO3201_VIB":28.946,
+    "KO3201_TEMP":64.8,
+    "KO3201_AMP":132.99,
+    "PLANT_RATE":55.981,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 01:00:00",
+    "KO3201_FEED":54.471,
+    "KO3201_DISP":9.569,
+    "KO3201_VIB":28.553,
+    "KO3201_TEMP":65.96,
+    "KO3201_AMP":135.29,
+    "PLANT_RATE":57.061,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 02:00:00",
+    "KO3201_FEED":53.838,
+    "KO3201_DISP":9.338,
+    "KO3201_VIB":28.541,
+    "KO3201_TEMP":64.93,
+    "KO3201_AMP":135.67,
+    "PLANT_RATE":56.614,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 03:00:00",
+    "KO3201_FEED":54.006,
+    "KO3201_DISP":9.468,
+    "KO3201_VIB":28.657,
+    "KO3201_TEMP":66.49,
+    "KO3201_AMP":134.05,
+    "PLANT_RATE":53.98,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 04:00:00",
+    "KO3201_FEED":54.155,
+    "KO3201_DISP":9.457,
+    "KO3201_VIB":28.629,
+    "KO3201_TEMP":64.18,
+    "KO3201_AMP":124.39,
+    "PLANT_RATE":56.582,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 05:00:00",
+    "KO3201_FEED":55.144,
+    "KO3201_DISP":9.797,
+    "KO3201_VIB":28.532,
+    "KO3201_TEMP":64.98,
+    "KO3201_AMP":136.97,
+    "PLANT_RATE":56.189,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 06:00:00",
+    "KO3201_FEED":55.757,
+    "KO3201_DISP":9.369,
+    "KO3201_VIB":28.831,
+    "KO3201_TEMP":66.86,
+    "KO3201_AMP":130.17,
+    "PLANT_RATE":55.971,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 07:00:00",
+    "KO3201_FEED":54.628,
+    "KO3201_DISP":9.306,
+    "KO3201_VIB":28.695,
+    "KO3201_TEMP":62.96,
+    "KO3201_AMP":138.61,
+    "PLANT_RATE":56.392,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 08:00:00",
+    "KO3201_FEED":55.818,
+    "KO3201_DISP":9.349,
+    "KO3201_VIB":28.54,
+    "KO3201_TEMP":63.16,
+    "KO3201_AMP":139.76,
+    "PLANT_RATE":56.774,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 09:00:00",
+    "KO3201_FEED":55.119,
+    "KO3201_DISP":9.648,
+    "KO3201_VIB":29.155,
+    "KO3201_TEMP":65.98,
+    "KO3201_AMP":130.42,
+    "PLANT_RATE":57.636,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 10:00:00",
+    "KO3201_FEED":56.216,
+    "KO3201_DISP":9.404,
+    "KO3201_VIB":28.688,
+    "KO3201_TEMP":66.07,
+    "KO3201_AMP":135.34,
+    "PLANT_RATE":57.505,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 11:00:00",
+    "KO3201_FEED":53.495,
+    "KO3201_DISP":9.607,
+    "KO3201_VIB":28.853,
+    "KO3201_TEMP":66.39,
+    "KO3201_AMP":141.3,
+    "PLANT_RATE":58.234,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 12:00:00",
+    "KO3201_FEED":55.112,
+    "KO3201_DISP":9.422,
+    "KO3201_VIB":28.442,
+    "KO3201_TEMP":66.2,
+    "KO3201_AMP":141.65,
+    "PLANT_RATE":56.789,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 13:00:00",
+    "KO3201_FEED":54.904,
+    "KO3201_DISP":9.652,
+    "KO3201_VIB":28.499,
+    "KO3201_TEMP":66.47,
+    "KO3201_AMP":138.67,
+    "PLANT_RATE":55.511,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 14:00:00",
+    "KO3201_FEED":55.101,
+    "KO3201_DISP":9.27,
+    "KO3201_VIB":28.522,
+    "KO3201_TEMP":64.26,
+    "KO3201_AMP":132.79,
+    "PLANT_RATE":57.605,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 15:00:00",
+    "KO3201_FEED":55.337,
+    "KO3201_DISP":9.432,
+    "KO3201_VIB":29.003,
+    "KO3201_TEMP":65.01,
+    "KO3201_AMP":136.51,
+    "PLANT_RATE":54.835,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 16:00:00",
+    "KO3201_FEED":55.838,
+    "KO3201_DISP":9.587,
+    "KO3201_VIB":28.951,
+    "KO3201_TEMP":65.79,
+    "KO3201_AMP":131.1,
+    "PLANT_RATE":57.067,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 17:00:00",
+    "KO3201_FEED":55.11,
+    "KO3201_DISP":9.464,
+    "KO3201_VIB":28.713,
+    "KO3201_TEMP":63.24,
+    "KO3201_AMP":140.87,
+    "PLANT_RATE":55.042,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 18:00:00",
+    "KO3201_FEED":55.521,
+    "KO3201_DISP":9.365,
+    "KO3201_VIB":28.697,
+    "KO3201_TEMP":63.15,
+    "KO3201_AMP":136.3,
+    "PLANT_RATE":55.53,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 19:00:00",
+    "KO3201_FEED":54.637,
+    "KO3201_DISP":9.712,
+    "KO3201_VIB":28.852,
+    "KO3201_TEMP":64.13,
+    "KO3201_AMP":140.45,
+    "PLANT_RATE":57.486,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 20:00:00",
+    "KO3201_FEED":54.788,
+    "KO3201_DISP":9.29,
+    "KO3201_VIB":28.557,
+    "KO3201_TEMP":66.4,
+    "KO3201_AMP":124.84,
+    "PLANT_RATE":55.486,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 21:00:00",
+    "KO3201_FEED":54.259,
+    "KO3201_DISP":9.372,
+    "KO3201_VIB":28.711,
+    "KO3201_TEMP":66.07,
+    "KO3201_AMP":132.63,
+    "PLANT_RATE":57.318,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 22:00:00",
+    "KO3201_FEED":56.13,
+    "KO3201_DISP":9.667,
+    "KO3201_VIB":29.005,
+    "KO3201_TEMP":63.12,
+    "KO3201_AMP":132.78,
+    "PLANT_RATE":56.845,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-09 23:00:00",
+    "KO3201_FEED":55.81,
+    "KO3201_DISP":9.752,
+    "KO3201_VIB":28.549,
+    "KO3201_TEMP":64.17,
+    "KO3201_AMP":133.25,
+    "PLANT_RATE":56.008,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 00:00:00",
+    "KO3201_FEED":56.357,
+    "KO3201_DISP":9.498,
+    "KO3201_VIB":28.93,
+    "KO3201_TEMP":64.18,
+    "KO3201_AMP":129.87,
+    "PLANT_RATE":56.969,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 01:00:00",
+    "KO3201_FEED":54.437,
+    "KO3201_DISP":9.312,
+    "KO3201_VIB":28.745,
+    "KO3201_TEMP":65.08,
+    "KO3201_AMP":136.69,
+    "PLANT_RATE":56.82,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 02:00:00",
+    "KO3201_FEED":54.755,
+    "KO3201_DISP":9.308,
+    "KO3201_VIB":28.816,
+    "KO3201_TEMP":65.26,
+    "KO3201_AMP":131.36,
+    "PLANT_RATE":56.319,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 03:00:00",
+    "KO3201_FEED":57.66,
+    "KO3201_DISP":9.371,
+    "KO3201_VIB":28.733,
+    "KO3201_TEMP":64.98,
+    "KO3201_AMP":142.29,
+    "PLANT_RATE":55.472,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 04:00:00",
+    "KO3201_FEED":56.13,
+    "KO3201_DISP":9.485,
+    "KO3201_VIB":28.98,
+    "KO3201_TEMP":63.65,
+    "KO3201_AMP":133.36,
+    "PLANT_RATE":57.069,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 05:00:00",
+    "KO3201_FEED":53.358,
+    "KO3201_DISP":9.697,
+    "KO3201_VIB":28.984,
+    "KO3201_TEMP":66.54,
+    "KO3201_AMP":132.98,
+    "PLANT_RATE":55.81,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 06:00:00",
+    "KO3201_FEED":55.756,
+    "KO3201_DISP":9.634,
+    "KO3201_VIB":28.905,
+    "KO3201_TEMP":66.46,
+    "KO3201_AMP":132.0,
+    "PLANT_RATE":56.101,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 07:00:00",
+    "KO3201_FEED":55.329,
+    "KO3201_DISP":9.642,
+    "KO3201_VIB":28.367,
+    "KO3201_TEMP":63.47,
+    "KO3201_AMP":137.19,
+    "PLANT_RATE":56.645,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 08:00:00",
+    "KO3201_FEED":54.576,
+    "KO3201_DISP":9.425,
+    "KO3201_VIB":28.8,
+    "KO3201_TEMP":64.73,
+    "KO3201_AMP":136.2,
+    "PLANT_RATE":56.057,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 09:00:00",
+    "KO3201_FEED":54.644,
+    "KO3201_DISP":9.609,
+    "KO3201_VIB":29.061,
+    "KO3201_TEMP":66.5,
+    "KO3201_AMP":131.0,
+    "PLANT_RATE":56.441,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 10:00:00",
+    "KO3201_FEED":54.017,
+    "KO3201_DISP":9.618,
+    "KO3201_VIB":28.52,
+    "KO3201_TEMP":65.47,
+    "KO3201_AMP":122.8,
+    "PLANT_RATE":56.492,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 11:00:00",
+    "KO3201_FEED":54.371,
+    "KO3201_DISP":9.625,
+    "KO3201_VIB":28.391,
+    "KO3201_TEMP":65.64,
+    "KO3201_AMP":133.42,
+    "PLANT_RATE":56.469,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 12:00:00",
+    "KO3201_FEED":54.102,
+    "KO3201_DISP":9.497,
+    "KO3201_VIB":28.715,
+    "KO3201_TEMP":64.34,
+    "KO3201_AMP":131.49,
+    "PLANT_RATE":56.312,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 13:00:00",
+    "KO3201_FEED":53.668,
+    "KO3201_DISP":9.439,
+    "KO3201_VIB":28.969,
+    "KO3201_TEMP":67.01,
+    "KO3201_AMP":134.86,
+    "PLANT_RATE":57.662,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 14:00:00",
+    "KO3201_FEED":54.527,
+    "KO3201_DISP":9.665,
+    "KO3201_VIB":28.455,
+    "KO3201_TEMP":63.42,
+    "KO3201_AMP":131.34,
+    "PLANT_RATE":55.646,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 15:00:00",
+    "KO3201_FEED":53.979,
+    "KO3201_DISP":9.733,
+    "KO3201_VIB":28.852,
+    "KO3201_TEMP":66.29,
+    "KO3201_AMP":136.05,
+    "PLANT_RATE":55.701,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 16:00:00",
+    "KO3201_FEED":55.732,
+    "KO3201_DISP":9.467,
+    "KO3201_VIB":28.699,
+    "KO3201_TEMP":67.51,
+    "KO3201_AMP":130.26,
+    "PLANT_RATE":54.808,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 17:00:00",
+    "KO3201_FEED":56.083,
+    "KO3201_DISP":9.553,
+    "KO3201_VIB":28.759,
+    "KO3201_TEMP":63.9,
+    "KO3201_AMP":135.88,
+    "PLANT_RATE":53.636,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 18:00:00",
+    "KO3201_FEED":54.778,
+    "KO3201_DISP":9.662,
+    "KO3201_VIB":28.87,
+    "KO3201_TEMP":66.9,
+    "KO3201_AMP":133.91,
+    "PLANT_RATE":56.886,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 19:00:00",
+    "KO3201_FEED":54.576,
+    "KO3201_DISP":9.727,
+    "KO3201_VIB":28.725,
+    "KO3201_TEMP":66.17,
+    "KO3201_AMP":138.67,
+    "PLANT_RATE":56.681,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 20:00:00",
+    "KO3201_FEED":55.646,
+    "KO3201_DISP":9.762,
+    "KO3201_VIB":28.629,
+    "KO3201_TEMP":64.07,
+    "KO3201_AMP":134.28,
+    "PLANT_RATE":57.716,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 21:00:00",
+    "KO3201_FEED":54.816,
+    "KO3201_DISP":9.506,
+    "KO3201_VIB":28.811,
+    "KO3201_TEMP":65.21,
+    "KO3201_AMP":137.37,
+    "PLANT_RATE":54.599,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 22:00:00",
+    "KO3201_FEED":57.159,
+    "KO3201_DISP":9.69,
+    "KO3201_VIB":29.15,
+    "KO3201_TEMP":67.01,
+    "KO3201_AMP":133.66,
+    "PLANT_RATE":55.331,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-10 23:00:00",
+    "KO3201_FEED":52.049,
+    "KO3201_DISP":9.323,
+    "KO3201_VIB":28.918,
+    "KO3201_TEMP":64.35,
+    "KO3201_AMP":134.04,
+    "PLANT_RATE":55.546,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 00:00:00",
+    "KO3201_FEED":52.381,
+    "KO3201_DISP":9.175,
+    "KO3201_VIB":28.941,
+    "KO3201_TEMP":64.35,
+    "KO3201_AMP":132.11,
+    "PLANT_RATE":58.267,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 01:00:00",
+    "KO3201_FEED":53.739,
+    "KO3201_DISP":9.437,
+    "KO3201_VIB":28.541,
+    "KO3201_TEMP":60.9,
+    "KO3201_AMP":129.68,
+    "PLANT_RATE":57.157,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 02:00:00",
+    "KO3201_FEED":55.471,
+    "KO3201_DISP":9.553,
+    "KO3201_VIB":28.643,
+    "KO3201_TEMP":62.61,
+    "KO3201_AMP":135.6,
+    "PLANT_RATE":55.967,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 03:00:00",
+    "KO3201_FEED":55.804,
+    "KO3201_DISP":9.278,
+    "KO3201_VIB":28.444,
+    "KO3201_TEMP":64.44,
+    "KO3201_AMP":134.76,
+    "PLANT_RATE":56.133,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 04:00:00",
+    "KO3201_FEED":54.431,
+    "KO3201_DISP":9.479,
+    "KO3201_VIB":29.0,
+    "KO3201_TEMP":64.8,
+    "KO3201_AMP":141.14,
+    "PLANT_RATE":56.492,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 05:00:00",
+    "KO3201_FEED":54.969,
+    "KO3201_DISP":9.527,
+    "KO3201_VIB":29.019,
+    "KO3201_TEMP":65.83,
+    "KO3201_AMP":136.72,
+    "PLANT_RATE":54.941,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 06:00:00",
+    "KO3201_FEED":54.633,
+    "KO3201_DISP":9.497,
+    "KO3201_VIB":28.879,
+    "KO3201_TEMP":66.24,
+    "KO3201_AMP":142.28,
+    "PLANT_RATE":56.522,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 07:00:00",
+    "KO3201_FEED":55.49,
+    "KO3201_DISP":9.541,
+    "KO3201_VIB":28.965,
+    "KO3201_TEMP":67.79,
+    "KO3201_AMP":142.63,
+    "PLANT_RATE":54.991,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 08:00:00",
+    "KO3201_FEED":57.175,
+    "KO3201_DISP":9.667,
+    "KO3201_VIB":28.669,
+    "KO3201_TEMP":65.99,
+    "KO3201_AMP":135.97,
+    "PLANT_RATE":56.257,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 09:00:00",
+    "KO3201_FEED":52.46,
+    "KO3201_DISP":9.462,
+    "KO3201_VIB":28.682,
+    "KO3201_TEMP":69.17,
+    "KO3201_AMP":130.86,
+    "PLANT_RATE":56.892,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 10:00:00",
+    "KO3201_FEED":57.398,
+    "KO3201_DISP":9.432,
+    "KO3201_VIB":29.072,
+    "KO3201_TEMP":66.09,
+    "KO3201_AMP":134.02,
+    "PLANT_RATE":56.45,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 11:00:00",
+    "KO3201_FEED":56.118,
+    "KO3201_DISP":9.582,
+    "KO3201_VIB":28.675,
+    "KO3201_TEMP":66.93,
+    "KO3201_AMP":139.0,
+    "PLANT_RATE":55.392,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 12:00:00",
+    "KO3201_FEED":54.618,
+    "KO3201_DISP":9.659,
+    "KO3201_VIB":29.026,
+    "KO3201_TEMP":63.85,
+    "KO3201_AMP":134.72,
+    "PLANT_RATE":55.838,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 13:00:00",
+    "KO3201_FEED":55.503,
+    "KO3201_DISP":9.436,
+    "KO3201_VIB":29.184,
+    "KO3201_TEMP":65.66,
+    "KO3201_AMP":139.32,
+    "PLANT_RATE":57.004,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 14:00:00",
+    "KO3201_FEED":54.934,
+    "KO3201_DISP":9.703,
+    "KO3201_VIB":28.491,
+    "KO3201_TEMP":66.39,
+    "KO3201_AMP":133.49,
+    "PLANT_RATE":55.591,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 15:00:00",
+    "KO3201_FEED":55.487,
+    "KO3201_DISP":9.61,
+    "KO3201_VIB":28.558,
+    "KO3201_TEMP":66.38,
+    "KO3201_AMP":135.35,
+    "PLANT_RATE":54.679,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 16:00:00",
+    "KO3201_FEED":55.486,
+    "KO3201_DISP":9.444,
+    "KO3201_VIB":29.194,
+    "KO3201_TEMP":64.37,
+    "KO3201_AMP":138.67,
+    "PLANT_RATE":55.839,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 17:00:00",
+    "KO3201_FEED":55.819,
+    "KO3201_DISP":9.496,
+    "KO3201_VIB":29.021,
+    "KO3201_TEMP":64.95,
+    "KO3201_AMP":137.61,
+    "PLANT_RATE":55.579,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 18:00:00",
+    "KO3201_FEED":53.861,
+    "KO3201_DISP":9.384,
+    "KO3201_VIB":29.161,
+    "KO3201_TEMP":63.21,
+    "KO3201_AMP":136.31,
+    "PLANT_RATE":55.912,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 19:00:00",
+    "KO3201_FEED":55.637,
+    "KO3201_DISP":9.602,
+    "KO3201_VIB":29.193,
+    "KO3201_TEMP":65.5,
+    "KO3201_AMP":135.99,
+    "PLANT_RATE":56.126,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 20:00:00",
+    "KO3201_FEED":54.242,
+    "KO3201_DISP":9.516,
+    "KO3201_VIB":28.705,
+    "KO3201_TEMP":63.51,
+    "KO3201_AMP":137.29,
+    "PLANT_RATE":55.754,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 21:00:00",
+    "KO3201_FEED":54.639,
+    "KO3201_DISP":9.794,
+    "KO3201_VIB":29.277,
+    "KO3201_TEMP":66.4,
+    "KO3201_AMP":134.67,
+    "PLANT_RATE":55.746,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 22:00:00",
+    "KO3201_FEED":55.841,
+    "KO3201_DISP":9.118,
+    "KO3201_VIB":29.122,
+    "KO3201_TEMP":65.38,
+    "KO3201_AMP":138.98,
+    "PLANT_RATE":57.103,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-11 23:00:00",
+    "KO3201_FEED":54.482,
+    "KO3201_DISP":9.32,
+    "KO3201_VIB":29.034,
+    "KO3201_TEMP":66.03,
+    "KO3201_AMP":132.67,
+    "PLANT_RATE":56.748,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 00:00:00",
+    "KO3201_FEED":55.301,
+    "KO3201_DISP":9.425,
+    "KO3201_VIB":28.862,
+    "KO3201_TEMP":65.86,
+    "KO3201_AMP":147.07,
+    "PLANT_RATE":57.151,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 01:00:00",
+    "KO3201_FEED":55.326,
+    "KO3201_DISP":9.578,
+    "KO3201_VIB":28.694,
+    "KO3201_TEMP":65.66,
+    "KO3201_AMP":135.93,
+    "PLANT_RATE":56.199,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 02:00:00",
+    "KO3201_FEED":55.083,
+    "KO3201_DISP":9.447,
+    "KO3201_VIB":28.593,
+    "KO3201_TEMP":66.18,
+    "KO3201_AMP":131.68,
+    "PLANT_RATE":55.705,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 03:00:00",
+    "KO3201_FEED":53.63,
+    "KO3201_DISP":9.394,
+    "KO3201_VIB":28.427,
+    "KO3201_TEMP":65.12,
+    "KO3201_AMP":128.56,
+    "PLANT_RATE":56.446,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 04:00:00",
+    "KO3201_FEED":55.509,
+    "KO3201_DISP":9.563,
+    "KO3201_VIB":28.574,
+    "KO3201_TEMP":62.7,
+    "KO3201_AMP":131.4,
+    "PLANT_RATE":54.548,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 05:00:00",
+    "KO3201_FEED":55.175,
+    "KO3201_DISP":9.437,
+    "KO3201_VIB":28.591,
+    "KO3201_TEMP":66.84,
+    "KO3201_AMP":136.58,
+    "PLANT_RATE":54.896,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 06:00:00",
+    "KO3201_FEED":57.429,
+    "KO3201_DISP":9.536,
+    "KO3201_VIB":28.829,
+    "KO3201_TEMP":63.96,
+    "KO3201_AMP":133.05,
+    "PLANT_RATE":57.015,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 07:00:00",
+    "KO3201_FEED":53.831,
+    "KO3201_DISP":9.633,
+    "KO3201_VIB":28.609,
+    "KO3201_TEMP":66.33,
+    "KO3201_AMP":139.63,
+    "PLANT_RATE":55.587,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 08:00:00",
+    "KO3201_FEED":56.139,
+    "KO3201_DISP":9.645,
+    "KO3201_VIB":28.346,
+    "KO3201_TEMP":65.8,
+    "KO3201_AMP":133.61,
+    "PLANT_RATE":55.391,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 09:00:00",
+    "KO3201_FEED":54.515,
+    "KO3201_DISP":9.27,
+    "KO3201_VIB":28.824,
+    "KO3201_TEMP":65.56,
+    "KO3201_AMP":130.82,
+    "PLANT_RATE":54.934,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 10:00:00",
+    "KO3201_FEED":54.648,
+    "KO3201_DISP":9.391,
+    "KO3201_VIB":28.275,
+    "KO3201_TEMP":65.25,
+    "KO3201_AMP":133.72,
+    "PLANT_RATE":56.583,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 11:00:00",
+    "KO3201_FEED":56.865,
+    "KO3201_DISP":9.566,
+    "KO3201_VIB":28.697,
+    "KO3201_TEMP":65.42,
+    "KO3201_AMP":132.81,
+    "PLANT_RATE":54.815,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 12:00:00",
+    "KO3201_FEED":54.835,
+    "KO3201_DISP":9.474,
+    "KO3201_VIB":28.95,
+    "KO3201_TEMP":65.31,
+    "KO3201_AMP":134.19,
+    "PLANT_RATE":57.412,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 13:00:00",
+    "KO3201_FEED":55.865,
+    "KO3201_DISP":9.387,
+    "KO3201_VIB":28.401,
+    "KO3201_TEMP":65.05,
+    "KO3201_AMP":130.38,
+    "PLANT_RATE":56.317,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 14:00:00",
+    "KO3201_FEED":55.126,
+    "KO3201_DISP":9.59,
+    "KO3201_VIB":28.481,
+    "KO3201_TEMP":64.84,
+    "KO3201_AMP":134.4,
+    "PLANT_RATE":54.214,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 15:00:00",
+    "KO3201_FEED":53.992,
+    "KO3201_DISP":9.514,
+    "KO3201_VIB":28.766,
+    "KO3201_TEMP":65.44,
+    "KO3201_AMP":127.44,
+    "PLANT_RATE":55.549,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 16:00:00",
+    "KO3201_FEED":54.746,
+    "KO3201_DISP":9.568,
+    "KO3201_VIB":29.111,
+    "KO3201_TEMP":65.88,
+    "KO3201_AMP":135.5,
+    "PLANT_RATE":55.005,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 17:00:00",
+    "KO3201_FEED":54.506,
+    "KO3201_DISP":9.633,
+    "KO3201_VIB":28.749,
+    "KO3201_TEMP":64.4,
+    "KO3201_AMP":134.42,
+    "PLANT_RATE":56.682,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 18:00:00",
+    "KO3201_FEED":54.741,
+    "KO3201_DISP":9.445,
+    "KO3201_VIB":28.669,
+    "KO3201_TEMP":65.36,
+    "KO3201_AMP":134.34,
+    "PLANT_RATE":56.657,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 19:00:00",
+    "KO3201_FEED":57.041,
+    "KO3201_DISP":9.652,
+    "KO3201_VIB":28.846,
+    "KO3201_TEMP":63.09,
+    "KO3201_AMP":131.71,
+    "PLANT_RATE":55.569,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 20:00:00",
+    "KO3201_FEED":55.504,
+    "KO3201_DISP":9.528,
+    "KO3201_VIB":28.347,
+    "KO3201_TEMP":63.84,
+    "KO3201_AMP":134.74,
+    "PLANT_RATE":55.401,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 21:00:00",
+    "KO3201_FEED":53.082,
+    "KO3201_DISP":9.541,
+    "KO3201_VIB":28.405,
+    "KO3201_TEMP":62.54,
+    "KO3201_AMP":135.76,
+    "PLANT_RATE":56.561,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 22:00:00",
+    "KO3201_FEED":57.06,
+    "KO3201_DISP":9.653,
+    "KO3201_VIB":28.95,
+    "KO3201_TEMP":64.63,
+    "KO3201_AMP":128.0,
+    "PLANT_RATE":55.415,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-12 23:00:00",
+    "KO3201_FEED":55.406,
+    "KO3201_DISP":9.264,
+    "KO3201_VIB":28.978,
+    "KO3201_TEMP":65.55,
+    "KO3201_AMP":138.87,
+    "PLANT_RATE":57.519,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 00:00:00",
+    "KO3201_FEED":55.979,
+    "KO3201_DISP":9.258,
+    "KO3201_VIB":28.927,
+    "KO3201_TEMP":66.0,
+    "KO3201_AMP":134.35,
+    "PLANT_RATE":55.377,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 01:00:00",
+    "KO3201_FEED":56.714,
+    "KO3201_DISP":9.332,
+    "KO3201_VIB":28.814,
+    "KO3201_TEMP":63.08,
+    "KO3201_AMP":136.91,
+    "PLANT_RATE":56.459,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 02:00:00",
+    "KO3201_FEED":54.088,
+    "KO3201_DISP":9.628,
+    "KO3201_VIB":28.892,
+    "KO3201_TEMP":66.17,
+    "KO3201_AMP":141.06,
+    "PLANT_RATE":53.963,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 03:00:00",
+    "KO3201_FEED":55.36,
+    "KO3201_DISP":9.519,
+    "KO3201_VIB":28.344,
+    "KO3201_TEMP":63.54,
+    "KO3201_AMP":130.03,
+    "PLANT_RATE":56.488,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 04:00:00",
+    "KO3201_FEED":54.837,
+    "KO3201_DISP":9.42,
+    "KO3201_VIB":28.51,
+    "KO3201_TEMP":64.42,
+    "KO3201_AMP":131.0,
+    "PLANT_RATE":55.413,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 05:00:00",
+    "KO3201_FEED":54.611,
+    "KO3201_DISP":9.348,
+    "KO3201_VIB":28.682,
+    "KO3201_TEMP":64.29,
+    "KO3201_AMP":131.13,
+    "PLANT_RATE":56.369,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 06:00:00",
+    "KO3201_FEED":54.662,
+    "KO3201_DISP":9.251,
+    "KO3201_VIB":29.021,
+    "KO3201_TEMP":67.25,
+    "KO3201_AMP":135.15,
+    "PLANT_RATE":57.274,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 07:00:00",
+    "KO3201_FEED":55.111,
+    "KO3201_DISP":9.545,
+    "KO3201_VIB":28.829,
+    "KO3201_TEMP":65.25,
+    "KO3201_AMP":130.96,
+    "PLANT_RATE":55.888,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 08:00:00",
+    "KO3201_FEED":56.283,
+    "KO3201_DISP":9.498,
+    "KO3201_VIB":28.789,
+    "KO3201_TEMP":67.99,
+    "KO3201_AMP":131.51,
+    "PLANT_RATE":53.381,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 09:00:00",
+    "KO3201_FEED":55.855,
+    "KO3201_DISP":9.557,
+    "KO3201_VIB":28.501,
+    "KO3201_TEMP":66.41,
+    "KO3201_AMP":141.97,
+    "PLANT_RATE":53.871,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 10:00:00",
+    "KO3201_FEED":55.318,
+    "KO3201_DISP":9.635,
+    "KO3201_VIB":28.812,
+    "KO3201_TEMP":64.64,
+    "KO3201_AMP":134.0,
+    "PLANT_RATE":56.163,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 11:00:00",
+    "KO3201_FEED":56.325,
+    "KO3201_DISP":9.543,
+    "KO3201_VIB":28.876,
+    "KO3201_TEMP":65.58,
+    "KO3201_AMP":136.64,
+    "PLANT_RATE":55.105,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 12:00:00",
+    "KO3201_FEED":52.451,
+    "KO3201_DISP":9.7,
+    "KO3201_VIB":28.925,
+    "KO3201_TEMP":66.94,
+    "KO3201_AMP":139.04,
+    "PLANT_RATE":54.825,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 13:00:00",
+    "KO3201_FEED":55.043,
+    "KO3201_DISP":9.441,
+    "KO3201_VIB":28.751,
+    "KO3201_TEMP":63.78,
+    "KO3201_AMP":140.86,
+    "PLANT_RATE":57.165,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 14:00:00",
+    "KO3201_FEED":55.395,
+    "KO3201_DISP":9.722,
+    "KO3201_VIB":29.291,
+    "KO3201_TEMP":64.32,
+    "KO3201_AMP":129.29,
+    "PLANT_RATE":55.817,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 15:00:00",
+    "KO3201_FEED":55.35,
+    "KO3201_DISP":9.564,
+    "KO3201_VIB":28.495,
+    "KO3201_TEMP":64.96,
+    "KO3201_AMP":136.58,
+    "PLANT_RATE":57.064,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 16:00:00",
+    "KO3201_FEED":56.565,
+    "KO3201_DISP":9.422,
+    "KO3201_VIB":29.008,
+    "KO3201_TEMP":64.56,
+    "KO3201_AMP":138.1,
+    "PLANT_RATE":57.043,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 17:00:00",
+    "KO3201_FEED":55.196,
+    "KO3201_DISP":9.527,
+    "KO3201_VIB":28.467,
+    "KO3201_TEMP":64.64,
+    "KO3201_AMP":139.5,
+    "PLANT_RATE":55.632,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 18:00:00",
+    "KO3201_FEED":56.518,
+    "KO3201_DISP":9.819,
+    "KO3201_VIB":28.468,
+    "KO3201_TEMP":67.44,
+    "KO3201_AMP":132.36,
+    "PLANT_RATE":56.193,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 19:00:00",
+    "KO3201_FEED":54.814,
+    "KO3201_DISP":9.317,
+    "KO3201_VIB":28.964,
+    "KO3201_TEMP":65.23,
+    "KO3201_AMP":133.31,
+    "PLANT_RATE":54.779,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 20:00:00",
+    "KO3201_FEED":55.771,
+    "KO3201_DISP":9.412,
+    "KO3201_VIB":28.687,
+    "KO3201_TEMP":64.57,
+    "KO3201_AMP":135.8,
+    "PLANT_RATE":56.48,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 21:00:00",
+    "KO3201_FEED":55.129,
+    "KO3201_DISP":9.439,
+    "KO3201_VIB":28.599,
+    "KO3201_TEMP":64.46,
+    "KO3201_AMP":135.23,
+    "PLANT_RATE":56.009,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 22:00:00",
+    "KO3201_FEED":54.737,
+    "KO3201_DISP":9.525,
+    "KO3201_VIB":28.798,
+    "KO3201_TEMP":63.1,
+    "KO3201_AMP":133.74,
+    "PLANT_RATE":57.74,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-13 23:00:00",
+    "KO3201_FEED":55.583,
+    "KO3201_DISP":9.51,
+    "KO3201_VIB":29.425,
+    "KO3201_TEMP":66.16,
+    "KO3201_AMP":132.59,
+    "PLANT_RATE":56.944,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 00:00:00",
+    "KO3201_FEED":55.644,
+    "KO3201_DISP":9.774,
+    "KO3201_VIB":28.639,
+    "KO3201_TEMP":64.12,
+    "KO3201_AMP":134.55,
+    "PLANT_RATE":55.862,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 01:00:00",
+    "KO3201_FEED":54.028,
+    "KO3201_DISP":9.471,
+    "KO3201_VIB":28.707,
+    "KO3201_TEMP":70.09,
+    "KO3201_AMP":133.9,
+    "PLANT_RATE":55.301,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 02:00:00",
+    "KO3201_FEED":56.056,
+    "KO3201_DISP":9.597,
+    "KO3201_VIB":29.098,
+    "KO3201_TEMP":65.67,
+    "KO3201_AMP":136.03,
+    "PLANT_RATE":55.798,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 03:00:00",
+    "KO3201_FEED":54.726,
+    "KO3201_DISP":9.426,
+    "KO3201_VIB":28.651,
+    "KO3201_TEMP":64.19,
+    "KO3201_AMP":132.53,
+    "PLANT_RATE":56.034,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 04:00:00",
+    "KO3201_FEED":55.123,
+    "KO3201_DISP":9.337,
+    "KO3201_VIB":29.389,
+    "KO3201_TEMP":63.29,
+    "KO3201_AMP":130.94,
+    "PLANT_RATE":56.843,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 05:00:00",
+    "KO3201_FEED":52.058,
+    "KO3201_DISP":9.478,
+    "KO3201_VIB":28.473,
+    "KO3201_TEMP":64.35,
+    "KO3201_AMP":133.21,
+    "PLANT_RATE":57.129,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 06:00:00",
+    "KO3201_FEED":54.986,
+    "KO3201_DISP":9.464,
+    "KO3201_VIB":28.739,
+    "KO3201_TEMP":65.59,
+    "KO3201_AMP":134.18,
+    "PLANT_RATE":54.739,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 07:00:00",
+    "KO3201_FEED":52.909,
+    "KO3201_DISP":9.599,
+    "KO3201_VIB":29.037,
+    "KO3201_TEMP":64.18,
+    "KO3201_AMP":139.3,
+    "PLANT_RATE":54.908,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 08:00:00",
+    "KO3201_FEED":55.964,
+    "KO3201_DISP":9.693,
+    "KO3201_VIB":28.736,
+    "KO3201_TEMP":65.91,
+    "KO3201_AMP":133.45,
+    "PLANT_RATE":56.387,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 09:00:00",
+    "KO3201_FEED":54.156,
+    "KO3201_DISP":9.434,
+    "KO3201_VIB":28.67,
+    "KO3201_TEMP":66.0,
+    "KO3201_AMP":126.61,
+    "PLANT_RATE":54.727,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 10:00:00",
+    "KO3201_FEED":54.528,
+    "KO3201_DISP":9.659,
+    "KO3201_VIB":28.441,
+    "KO3201_TEMP":65.81,
+    "KO3201_AMP":143.86,
+    "PLANT_RATE":55.925,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 11:00:00",
+    "KO3201_FEED":54.82,
+    "KO3201_DISP":9.351,
+    "KO3201_VIB":28.76,
+    "KO3201_TEMP":65.74,
+    "KO3201_AMP":139.89,
+    "PLANT_RATE":54.117,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 12:00:00",
+    "KO3201_FEED":53.55,
+    "KO3201_DISP":9.756,
+    "KO3201_VIB":29.007,
+    "KO3201_TEMP":65.03,
+    "KO3201_AMP":137.41,
+    "PLANT_RATE":55.671,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 13:00:00",
+    "KO3201_FEED":55.044,
+    "KO3201_DISP":9.284,
+    "KO3201_VIB":28.726,
+    "KO3201_TEMP":64.08,
+    "KO3201_AMP":136.98,
+    "PLANT_RATE":55.536,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 14:00:00",
+    "KO3201_FEED":53.665,
+    "KO3201_DISP":9.425,
+    "KO3201_VIB":28.545,
+    "KO3201_TEMP":63.25,
+    "KO3201_AMP":135.22,
+    "PLANT_RATE":55.677,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 15:00:00",
+    "KO3201_FEED":54.781,
+    "KO3201_DISP":9.535,
+    "KO3201_VIB":29.125,
+    "KO3201_TEMP":62.71,
+    "KO3201_AMP":142.1,
+    "PLANT_RATE":55.326,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 16:00:00",
+    "KO3201_FEED":55.957,
+    "KO3201_DISP":9.444,
+    "KO3201_VIB":29.004,
+    "KO3201_TEMP":64.37,
+    "KO3201_AMP":130.17,
+    "PLANT_RATE":56.542,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 17:00:00",
+    "KO3201_FEED":56.424,
+    "KO3201_DISP":9.334,
+    "KO3201_VIB":28.937,
+    "KO3201_TEMP":65.97,
+    "KO3201_AMP":138.08,
+    "PLANT_RATE":56.973,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 18:00:00",
+    "KO3201_FEED":56.59,
+    "KO3201_DISP":9.601,
+    "KO3201_VIB":28.737,
+    "KO3201_TEMP":65.0,
+    "KO3201_AMP":138.12,
+    "PLANT_RATE":56.8,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 19:00:00",
+    "KO3201_FEED":54.763,
+    "KO3201_DISP":9.352,
+    "KO3201_VIB":28.578,
+    "KO3201_TEMP":63.53,
+    "KO3201_AMP":144.64,
+    "PLANT_RATE":55.727,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 20:00:00",
+    "KO3201_FEED":53.958,
+    "KO3201_DISP":9.639,
+    "KO3201_VIB":29.077,
+    "KO3201_TEMP":66.3,
+    "KO3201_AMP":134.73,
+    "PLANT_RATE":55.685,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 21:00:00",
+    "KO3201_FEED":55.548,
+    "KO3201_DISP":9.285,
+    "KO3201_VIB":28.807,
+    "KO3201_TEMP":63.62,
+    "KO3201_AMP":141.26,
+    "PLANT_RATE":55.306,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 22:00:00",
+    "KO3201_FEED":56.731,
+    "KO3201_DISP":9.649,
+    "KO3201_VIB":28.697,
+    "KO3201_TEMP":63.34,
+    "KO3201_AMP":136.85,
+    "PLANT_RATE":55.243,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-14 23:00:00",
+    "KO3201_FEED":54.048,
+    "KO3201_DISP":9.619,
+    "KO3201_VIB":28.745,
+    "KO3201_TEMP":63.6,
+    "KO3201_AMP":131.11,
+    "PLANT_RATE":55.837,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 00:00:00",
+    "KO3201_FEED":56.505,
+    "KO3201_DISP":9.574,
+    "KO3201_VIB":28.887,
+    "KO3201_TEMP":64.06,
+    "KO3201_AMP":130.65,
+    "PLANT_RATE":55.832,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 01:00:00",
+    "KO3201_FEED":54.861,
+    "KO3201_DISP":9.651,
+    "KO3201_VIB":29.001,
+    "KO3201_TEMP":64.88,
+    "KO3201_AMP":139.94,
+    "PLANT_RATE":55.79,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 02:00:00",
+    "KO3201_FEED":52.104,
+    "KO3201_DISP":9.468,
+    "KO3201_VIB":28.785,
+    "KO3201_TEMP":63.23,
+    "KO3201_AMP":130.34,
+    "PLANT_RATE":56.269,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 03:00:00",
+    "KO3201_FEED":55.087,
+    "KO3201_DISP":9.49,
+    "KO3201_VIB":28.695,
+    "KO3201_TEMP":62.7,
+    "KO3201_AMP":133.94,
+    "PLANT_RATE":56.928,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 04:00:00",
+    "KO3201_FEED":57.08,
+    "KO3201_DISP":9.666,
+    "KO3201_VIB":28.508,
+    "KO3201_TEMP":65.61,
+    "KO3201_AMP":141.87,
+    "PLANT_RATE":55.335,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 05:00:00",
+    "KO3201_FEED":55.803,
+    "KO3201_DISP":9.346,
+    "KO3201_VIB":28.72,
+    "KO3201_TEMP":65.36,
+    "KO3201_AMP":131.29,
+    "PLANT_RATE":55.767,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 06:00:00",
+    "KO3201_FEED":56.186,
+    "KO3201_DISP":9.458,
+    "KO3201_VIB":28.737,
+    "KO3201_TEMP":65.66,
+    "KO3201_AMP":137.42,
+    "PLANT_RATE":56.611,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 07:00:00",
+    "KO3201_FEED":55.453,
+    "KO3201_DISP":9.465,
+    "KO3201_VIB":28.869,
+    "KO3201_TEMP":66.06,
+    "KO3201_AMP":142.97,
+    "PLANT_RATE":56.238,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 08:00:00",
+    "KO3201_FEED":53.158,
+    "KO3201_DISP":9.464,
+    "KO3201_VIB":28.784,
+    "KO3201_TEMP":65.06,
+    "KO3201_AMP":141.36,
+    "PLANT_RATE":55.166,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 09:00:00",
+    "KO3201_FEED":52.414,
+    "KO3201_DISP":9.456,
+    "KO3201_VIB":28.656,
+    "KO3201_TEMP":67.51,
+    "KO3201_AMP":138.33,
+    "PLANT_RATE":54.766,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 10:00:00",
+    "KO3201_FEED":53.839,
+    "KO3201_DISP":9.14,
+    "KO3201_VIB":28.76,
+    "KO3201_TEMP":64.7,
+    "KO3201_AMP":132.19,
+    "PLANT_RATE":56.721,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 11:00:00",
+    "KO3201_FEED":54.586,
+    "KO3201_DISP":9.494,
+    "KO3201_VIB":28.944,
+    "KO3201_TEMP":64.91,
+    "KO3201_AMP":142.49,
+    "PLANT_RATE":54.893,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 12:00:00",
+    "KO3201_FEED":53.899,
+    "KO3201_DISP":9.536,
+    "KO3201_VIB":28.764,
+    "KO3201_TEMP":66.84,
+    "KO3201_AMP":137.18,
+    "PLANT_RATE":56.469,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 13:00:00",
+    "KO3201_FEED":54.12,
+    "KO3201_DISP":9.676,
+    "KO3201_VIB":28.745,
+    "KO3201_TEMP":65.55,
+    "KO3201_AMP":135.38,
+    "PLANT_RATE":54.963,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 14:00:00",
+    "KO3201_FEED":55.868,
+    "KO3201_DISP":9.611,
+    "KO3201_VIB":28.727,
+    "KO3201_TEMP":64.77,
+    "KO3201_AMP":130.77,
+    "PLANT_RATE":57.906,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 15:00:00",
+    "KO3201_FEED":56.619,
+    "KO3201_DISP":9.408,
+    "KO3201_VIB":28.706,
+    "KO3201_TEMP":64.97,
+    "KO3201_AMP":126.41,
+    "PLANT_RATE":54.912,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 16:00:00",
+    "KO3201_FEED":53.143,
+    "KO3201_DISP":9.455,
+    "KO3201_VIB":28.873,
+    "KO3201_TEMP":63.33,
+    "KO3201_AMP":136.71,
+    "PLANT_RATE":57.977,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 17:00:00",
+    "KO3201_FEED":53.833,
+    "KO3201_DISP":9.358,
+    "KO3201_VIB":28.942,
+    "KO3201_TEMP":65.93,
+    "KO3201_AMP":133.3,
+    "PLANT_RATE":56.842,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 18:00:00",
+    "KO3201_FEED":54.898,
+    "KO3201_DISP":9.442,
+    "KO3201_VIB":28.717,
+    "KO3201_TEMP":64.68,
+    "KO3201_AMP":128.25,
+    "PLANT_RATE":57.529,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 19:00:00",
+    "KO3201_FEED":54.784,
+    "KO3201_DISP":9.406,
+    "KO3201_VIB":28.742,
+    "KO3201_TEMP":65.62,
+    "KO3201_AMP":138.77,
+    "PLANT_RATE":57.37,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 20:00:00",
+    "KO3201_FEED":52.412,
+    "KO3201_DISP":9.654,
+    "KO3201_VIB":28.885,
+    "KO3201_TEMP":66.87,
+    "KO3201_AMP":136.14,
+    "PLANT_RATE":56.62,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 21:00:00",
+    "KO3201_FEED":58.248,
+    "KO3201_DISP":9.55,
+    "KO3201_VIB":28.976,
+    "KO3201_TEMP":66.09,
+    "KO3201_AMP":132.69,
+    "PLANT_RATE":55.742,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 22:00:00",
+    "KO3201_FEED":55.785,
+    "KO3201_DISP":9.581,
+    "KO3201_VIB":29.13,
+    "KO3201_TEMP":65.37,
+    "KO3201_AMP":133.48,
+    "PLANT_RATE":58.679,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-15 23:00:00",
+    "KO3201_FEED":55.404,
+    "KO3201_DISP":9.44,
+    "KO3201_VIB":28.459,
+    "KO3201_TEMP":65.54,
+    "KO3201_AMP":137.38,
+    "PLANT_RATE":55.632,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 00:00:00",
+    "KO3201_FEED":52.883,
+    "KO3201_DISP":9.472,
+    "KO3201_VIB":29.0,
+    "KO3201_TEMP":65.18,
+    "KO3201_AMP":137.24,
+    "PLANT_RATE":56.273,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 01:00:00",
+    "KO3201_FEED":55.333,
+    "KO3201_DISP":9.569,
+    "KO3201_VIB":28.67,
+    "KO3201_TEMP":67.39,
+    "KO3201_AMP":131.5,
+    "PLANT_RATE":54.641,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 02:00:00",
+    "KO3201_FEED":53.71,
+    "KO3201_DISP":9.378,
+    "KO3201_VIB":28.944,
+    "KO3201_TEMP":62.31,
+    "KO3201_AMP":138.84,
+    "PLANT_RATE":56.066,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 03:00:00",
+    "KO3201_FEED":55.569,
+    "KO3201_DISP":9.57,
+    "KO3201_VIB":29.016,
+    "KO3201_TEMP":64.35,
+    "KO3201_AMP":134.37,
+    "PLANT_RATE":56.704,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 04:00:00",
+    "KO3201_FEED":55.332,
+    "KO3201_DISP":9.622,
+    "KO3201_VIB":29.245,
+    "KO3201_TEMP":63.84,
+    "KO3201_AMP":131.1,
+    "PLANT_RATE":55.331,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 05:00:00",
+    "KO3201_FEED":55.053,
+    "KO3201_DISP":9.41,
+    "KO3201_VIB":28.666,
+    "KO3201_TEMP":65.59,
+    "KO3201_AMP":134.64,
+    "PLANT_RATE":56.228,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 06:00:00",
+    "KO3201_FEED":55.482,
+    "KO3201_DISP":9.494,
+    "KO3201_VIB":29.042,
+    "KO3201_TEMP":64.73,
+    "KO3201_AMP":135.29,
+    "PLANT_RATE":55.774,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 07:00:00",
+    "KO3201_FEED":54.364,
+    "KO3201_DISP":9.37,
+    "KO3201_VIB":28.191,
+    "KO3201_TEMP":65.14,
+    "KO3201_AMP":139.86,
+    "PLANT_RATE":55.716,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 08:00:00",
+    "KO3201_FEED":55.2,
+    "KO3201_DISP":9.737,
+    "KO3201_VIB":28.804,
+    "KO3201_TEMP":67.73,
+    "KO3201_AMP":137.9,
+    "PLANT_RATE":56.748,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 09:00:00",
+    "KO3201_FEED":52.351,
+    "KO3201_DISP":9.561,
+    "KO3201_VIB":28.246,
+    "KO3201_TEMP":65.39,
+    "KO3201_AMP":126.12,
+    "PLANT_RATE":57.012,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 10:00:00",
+    "KO3201_FEED":55.812,
+    "KO3201_DISP":9.655,
+    "KO3201_VIB":28.613,
+    "KO3201_TEMP":66.21,
+    "KO3201_AMP":130.21,
+    "PLANT_RATE":55.292,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 11:00:00",
+    "KO3201_FEED":54.801,
+    "KO3201_DISP":9.464,
+    "KO3201_VIB":28.512,
+    "KO3201_TEMP":64.43,
+    "KO3201_AMP":138.34,
+    "PLANT_RATE":54.243,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 12:00:00",
+    "KO3201_FEED":57.804,
+    "KO3201_DISP":9.369,
+    "KO3201_VIB":28.431,
+    "KO3201_TEMP":64.04,
+    "KO3201_AMP":136.26,
+    "PLANT_RATE":56.58,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 13:00:00",
+    "KO3201_FEED":55.122,
+    "KO3201_DISP":9.483,
+    "KO3201_VIB":28.784,
+    "KO3201_TEMP":63.57,
+    "KO3201_AMP":131.28,
+    "PLANT_RATE":54.922,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 14:00:00",
+    "KO3201_FEED":52.413,
+    "KO3201_DISP":9.699,
+    "KO3201_VIB":28.518,
+    "KO3201_TEMP":67.03,
+    "KO3201_AMP":133.1,
+    "PLANT_RATE":55.597,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 15:00:00",
+    "KO3201_FEED":56.698,
+    "KO3201_DISP":9.735,
+    "KO3201_VIB":28.503,
+    "KO3201_TEMP":63.45,
+    "KO3201_AMP":141.64,
+    "PLANT_RATE":55.205,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 16:00:00",
+    "KO3201_FEED":54.195,
+    "KO3201_DISP":9.612,
+    "KO3201_VIB":28.592,
+    "KO3201_TEMP":64.34,
+    "KO3201_AMP":125.61,
+    "PLANT_RATE":57.148,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 17:00:00",
+    "KO3201_FEED":53.757,
+    "KO3201_DISP":9.496,
+    "KO3201_VIB":28.658,
+    "KO3201_TEMP":68.26,
+    "KO3201_AMP":140.16,
+    "PLANT_RATE":58.411,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 18:00:00",
+    "KO3201_FEED":54.955,
+    "KO3201_DISP":9.558,
+    "KO3201_VIB":28.915,
+    "KO3201_TEMP":65.55,
+    "KO3201_AMP":139.47,
+    "PLANT_RATE":55.459,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 19:00:00",
+    "KO3201_FEED":56.424,
+    "KO3201_DISP":9.657,
+    "KO3201_VIB":28.677,
+    "KO3201_TEMP":65.07,
+    "KO3201_AMP":132.74,
+    "PLANT_RATE":58.398,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 20:00:00",
+    "KO3201_FEED":57.154,
+    "KO3201_DISP":9.349,
+    "KO3201_VIB":28.558,
+    "KO3201_TEMP":64.69,
+    "KO3201_AMP":134.05,
+    "PLANT_RATE":56.254,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 21:00:00",
+    "KO3201_FEED":54.576,
+    "KO3201_DISP":9.629,
+    "KO3201_VIB":28.365,
+    "KO3201_TEMP":63.39,
+    "KO3201_AMP":136.61,
+    "PLANT_RATE":55.724,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 22:00:00",
+    "KO3201_FEED":55.244,
+    "KO3201_DISP":9.38,
+    "KO3201_VIB":28.929,
+    "KO3201_TEMP":65.55,
+    "KO3201_AMP":135.47,
+    "PLANT_RATE":57.274,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-16 23:00:00",
+    "KO3201_FEED":55.254,
+    "KO3201_DISP":9.539,
+    "KO3201_VIB":28.857,
+    "KO3201_TEMP":66.46,
+    "KO3201_AMP":136.85,
+    "PLANT_RATE":58.133,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 00:00:00",
+    "KO3201_FEED":54.282,
+    "KO3201_DISP":9.607,
+    "KO3201_VIB":28.939,
+    "KO3201_TEMP":63.75,
+    "KO3201_AMP":139.95,
+    "PLANT_RATE":55.834,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 01:00:00",
+    "KO3201_FEED":54.444,
+    "KO3201_DISP":9.542,
+    "KO3201_VIB":28.621,
+    "KO3201_TEMP":64.33,
+    "KO3201_AMP":132.6,
+    "PLANT_RATE":55.734,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 02:00:00",
+    "KO3201_FEED":54.845,
+    "KO3201_DISP":9.515,
+    "KO3201_VIB":29.084,
+    "KO3201_TEMP":67.35,
+    "KO3201_AMP":135.14,
+    "PLANT_RATE":58.065,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 03:00:00",
+    "KO3201_FEED":54.936,
+    "KO3201_DISP":9.69,
+    "KO3201_VIB":28.923,
+    "KO3201_TEMP":64.49,
+    "KO3201_AMP":136.99,
+    "PLANT_RATE":57.022,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 04:00:00",
+    "KO3201_FEED":56.179,
+    "KO3201_DISP":9.443,
+    "KO3201_VIB":29.348,
+    "KO3201_TEMP":66.07,
+    "KO3201_AMP":133.4,
+    "PLANT_RATE":53.078,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 05:00:00",
+    "KO3201_FEED":52.868,
+    "KO3201_DISP":9.451,
+    "KO3201_VIB":28.697,
+    "KO3201_TEMP":68.24,
+    "KO3201_AMP":135.02,
+    "PLANT_RATE":55.902,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 06:00:00",
+    "KO3201_FEED":55.529,
+    "KO3201_DISP":9.367,
+    "KO3201_VIB":28.994,
+    "KO3201_TEMP":63.8,
+    "KO3201_AMP":141.01,
+    "PLANT_RATE":55.218,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 07:00:00",
+    "KO3201_FEED":55.416,
+    "KO3201_DISP":9.529,
+    "KO3201_VIB":29.188,
+    "KO3201_TEMP":64.9,
+    "KO3201_AMP":126.93,
+    "PLANT_RATE":55.446,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 08:00:00",
+    "KO3201_FEED":56.521,
+    "KO3201_DISP":9.612,
+    "KO3201_VIB":28.73,
+    "KO3201_TEMP":63.73,
+    "KO3201_AMP":136.29,
+    "PLANT_RATE":56.204,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 09:00:00",
+    "KO3201_FEED":54.575,
+    "KO3201_DISP":9.486,
+    "KO3201_VIB":28.782,
+    "KO3201_TEMP":61.85,
+    "KO3201_AMP":132.99,
+    "PLANT_RATE":55.563,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 10:00:00",
+    "KO3201_FEED":54.587,
+    "KO3201_DISP":9.224,
+    "KO3201_VIB":28.665,
+    "KO3201_TEMP":66.87,
+    "KO3201_AMP":130.57,
+    "PLANT_RATE":55.64,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 11:00:00",
+    "KO3201_FEED":55.115,
+    "KO3201_DISP":9.566,
+    "KO3201_VIB":28.721,
+    "KO3201_TEMP":65.87,
+    "KO3201_AMP":134.22,
+    "PLANT_RATE":58.293,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 12:00:00",
+    "KO3201_FEED":54.374,
+    "KO3201_DISP":9.594,
+    "KO3201_VIB":28.987,
+    "KO3201_TEMP":64.61,
+    "KO3201_AMP":136.64,
+    "PLANT_RATE":54.332,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 13:00:00",
+    "KO3201_FEED":54.34,
+    "KO3201_DISP":9.378,
+    "KO3201_VIB":28.839,
+    "KO3201_TEMP":65.66,
+    "KO3201_AMP":138.45,
+    "PLANT_RATE":56.248,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 14:00:00",
+    "KO3201_FEED":54.26,
+    "KO3201_DISP":9.468,
+    "KO3201_VIB":28.529,
+    "KO3201_TEMP":64.18,
+    "KO3201_AMP":132.09,
+    "PLANT_RATE":56.707,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 15:00:00",
+    "KO3201_FEED":54.262,
+    "KO3201_DISP":9.506,
+    "KO3201_VIB":29.398,
+    "KO3201_TEMP":62.97,
+    "KO3201_AMP":137.75,
+    "PLANT_RATE":54.523,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 16:00:00",
+    "KO3201_FEED":53.861,
+    "KO3201_DISP":9.39,
+    "KO3201_VIB":28.613,
+    "KO3201_TEMP":64.11,
+    "KO3201_AMP":140.99,
+    "PLANT_RATE":54.854,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 17:00:00",
+    "KO3201_FEED":54.323,
+    "KO3201_DISP":9.541,
+    "KO3201_VIB":29.076,
+    "KO3201_TEMP":63.94,
+    "KO3201_AMP":135.89,
+    "PLANT_RATE":54.857,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 18:00:00",
+    "KO3201_FEED":54.129,
+    "KO3201_DISP":9.514,
+    "KO3201_VIB":28.803,
+    "KO3201_TEMP":63.6,
+    "KO3201_AMP":138.05,
+    "PLANT_RATE":56.982,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 19:00:00",
+    "KO3201_FEED":54.179,
+    "KO3201_DISP":9.334,
+    "KO3201_VIB":28.959,
+    "KO3201_TEMP":66.52,
+    "KO3201_AMP":137.04,
+    "PLANT_RATE":54.909,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 20:00:00",
+    "KO3201_FEED":53.511,
+    "KO3201_DISP":9.102,
+    "KO3201_VIB":28.934,
+    "KO3201_TEMP":63.8,
+    "KO3201_AMP":137.82,
+    "PLANT_RATE":56.605,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 21:00:00",
+    "KO3201_FEED":56.038,
+    "KO3201_DISP":9.367,
+    "KO3201_VIB":28.991,
+    "KO3201_TEMP":63.45,
+    "KO3201_AMP":131.36,
+    "PLANT_RATE":54.788,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 22:00:00",
+    "KO3201_FEED":55.331,
+    "KO3201_DISP":9.707,
+    "KO3201_VIB":28.99,
+    "KO3201_TEMP":65.26,
+    "KO3201_AMP":140.06,
+    "PLANT_RATE":54.722,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-17 23:00:00",
+    "KO3201_FEED":54.931,
+    "KO3201_DISP":9.676,
+    "KO3201_VIB":29.219,
+    "KO3201_TEMP":65.66,
+    "KO3201_AMP":137.03,
+    "PLANT_RATE":56.545,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 00:00:00",
+    "KO3201_FEED":53.79,
+    "KO3201_DISP":9.455,
+    "KO3201_VIB":28.626,
+    "KO3201_TEMP":67.36,
+    "KO3201_AMP":142.53,
+    "PLANT_RATE":56.951,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 01:00:00",
+    "KO3201_FEED":55.694,
+    "KO3201_DISP":9.345,
+    "KO3201_VIB":28.47,
+    "KO3201_TEMP":65.39,
+    "KO3201_AMP":138.47,
+    "PLANT_RATE":54.621,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 02:00:00",
+    "KO3201_FEED":54.719,
+    "KO3201_DISP":9.711,
+    "KO3201_VIB":28.383,
+    "KO3201_TEMP":63.05,
+    "KO3201_AMP":131.68,
+    "PLANT_RATE":54.969,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 03:00:00",
+    "KO3201_FEED":54.868,
+    "KO3201_DISP":9.603,
+    "KO3201_VIB":28.289,
+    "KO3201_TEMP":63.72,
+    "KO3201_AMP":139.89,
+    "PLANT_RATE":56.327,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 04:00:00",
+    "KO3201_FEED":55.085,
+    "KO3201_DISP":9.682,
+    "KO3201_VIB":28.917,
+    "KO3201_TEMP":66.35,
+    "KO3201_AMP":140.72,
+    "PLANT_RATE":55.014,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 05:00:00",
+    "KO3201_FEED":54.859,
+    "KO3201_DISP":9.771,
+    "KO3201_VIB":28.361,
+    "KO3201_TEMP":64.06,
+    "KO3201_AMP":139.46,
+    "PLANT_RATE":54.809,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 06:00:00",
+    "KO3201_FEED":56.071,
+    "KO3201_DISP":9.565,
+    "KO3201_VIB":28.394,
+    "KO3201_TEMP":65.67,
+    "KO3201_AMP":134.03,
+    "PLANT_RATE":54.893,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 07:00:00",
+    "KO3201_FEED":54.11,
+    "KO3201_DISP":9.513,
+    "KO3201_VIB":28.851,
+    "KO3201_TEMP":67.65,
+    "KO3201_AMP":133.56,
+    "PLANT_RATE":56.373,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 08:00:00",
+    "KO3201_FEED":54.257,
+    "KO3201_DISP":9.39,
+    "KO3201_VIB":28.72,
+    "KO3201_TEMP":62.91,
+    "KO3201_AMP":140.64,
+    "PLANT_RATE":53.24,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 09:00:00",
+    "KO3201_FEED":55.149,
+    "KO3201_DISP":9.522,
+    "KO3201_VIB":28.813,
+    "KO3201_TEMP":62.85,
+    "KO3201_AMP":132.12,
+    "PLANT_RATE":57.934,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 10:00:00",
+    "KO3201_FEED":54.761,
+    "KO3201_DISP":9.356,
+    "KO3201_VIB":28.126,
+    "KO3201_TEMP":64.7,
+    "KO3201_AMP":138.74,
+    "PLANT_RATE":57.764,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 11:00:00",
+    "KO3201_FEED":55.591,
+    "KO3201_DISP":9.656,
+    "KO3201_VIB":28.472,
+    "KO3201_TEMP":64.95,
+    "KO3201_AMP":135.77,
+    "PLANT_RATE":57.395,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 12:00:00",
+    "KO3201_FEED":55.999,
+    "KO3201_DISP":9.469,
+    "KO3201_VIB":28.408,
+    "KO3201_TEMP":66.25,
+    "KO3201_AMP":132.59,
+    "PLANT_RATE":55.82,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 13:00:00",
+    "KO3201_FEED":56.507,
+    "KO3201_DISP":9.731,
+    "KO3201_VIB":28.781,
+    "KO3201_TEMP":62.7,
+    "KO3201_AMP":133.74,
+    "PLANT_RATE":55.32,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 14:00:00",
+    "KO3201_FEED":56.043,
+    "KO3201_DISP":9.451,
+    "KO3201_VIB":28.776,
+    "KO3201_TEMP":65.85,
+    "KO3201_AMP":133.09,
+    "PLANT_RATE":56.617,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 15:00:00",
+    "KO3201_FEED":54.68,
+    "KO3201_DISP":9.565,
+    "KO3201_VIB":28.885,
+    "KO3201_TEMP":64.64,
+    "KO3201_AMP":137.27,
+    "PLANT_RATE":54.854,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 16:00:00",
+    "KO3201_FEED":54.808,
+    "KO3201_DISP":9.387,
+    "KO3201_VIB":29.089,
+    "KO3201_TEMP":62.57,
+    "KO3201_AMP":132.57,
+    "PLANT_RATE":58.357,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 17:00:00",
+    "KO3201_FEED":54.58,
+    "KO3201_DISP":9.629,
+    "KO3201_VIB":29.644,
+    "KO3201_TEMP":64.63,
+    "KO3201_AMP":134.9,
+    "PLANT_RATE":55.386,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 18:00:00",
+    "KO3201_FEED":56.261,
+    "KO3201_DISP":9.381,
+    "KO3201_VIB":28.656,
+    "KO3201_TEMP":65.68,
+    "KO3201_AMP":134.28,
+    "PLANT_RATE":57.323,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 19:00:00",
+    "KO3201_FEED":54.74,
+    "KO3201_DISP":9.69,
+    "KO3201_VIB":28.96,
+    "KO3201_TEMP":67.54,
+    "KO3201_AMP":136.8,
+    "PLANT_RATE":56.913,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 20:00:00",
+    "KO3201_FEED":54.052,
+    "KO3201_DISP":9.581,
+    "KO3201_VIB":29.011,
+    "KO3201_TEMP":64.09,
+    "KO3201_AMP":139.28,
+    "PLANT_RATE":55.566,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 21:00:00",
+    "KO3201_FEED":53.845,
+    "KO3201_DISP":9.232,
+    "KO3201_VIB":28.76,
+    "KO3201_TEMP":65.99,
+    "KO3201_AMP":129.3,
+    "PLANT_RATE":55.792,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 22:00:00",
+    "KO3201_FEED":55.818,
+    "KO3201_DISP":9.299,
+    "KO3201_VIB":28.541,
+    "KO3201_TEMP":63.09,
+    "KO3201_AMP":136.89,
+    "PLANT_RATE":55.15,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-18 23:00:00",
+    "KO3201_FEED":54.032,
+    "KO3201_DISP":9.536,
+    "KO3201_VIB":29.002,
+    "KO3201_TEMP":66.51,
+    "KO3201_AMP":132.44,
+    "PLANT_RATE":56.151,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 00:00:00",
+    "KO3201_FEED":52.081,
+    "KO3201_DISP":9.492,
+    "KO3201_VIB":29.009,
+    "KO3201_TEMP":65.12,
+    "KO3201_AMP":134.42,
+    "PLANT_RATE":56.686,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 01:00:00",
+    "KO3201_FEED":55.776,
+    "KO3201_DISP":9.792,
+    "KO3201_VIB":28.926,
+    "KO3201_TEMP":67.24,
+    "KO3201_AMP":134.69,
+    "PLANT_RATE":56.058,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 02:00:00",
+    "KO3201_FEED":55.363,
+    "KO3201_DISP":9.372,
+    "KO3201_VIB":28.609,
+    "KO3201_TEMP":63.07,
+    "KO3201_AMP":141.52,
+    "PLANT_RATE":55.672,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 03:00:00",
+    "KO3201_FEED":55.84,
+    "KO3201_DISP":9.47,
+    "KO3201_VIB":28.236,
+    "KO3201_TEMP":63.36,
+    "KO3201_AMP":141.29,
+    "PLANT_RATE":56.074,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 04:00:00",
+    "KO3201_FEED":56.085,
+    "KO3201_DISP":9.5,
+    "KO3201_VIB":28.53,
+    "KO3201_TEMP":62.56,
+    "KO3201_AMP":134.27,
+    "PLANT_RATE":57.384,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 05:00:00",
+    "KO3201_FEED":55.561,
+    "KO3201_DISP":9.535,
+    "KO3201_VIB":29.087,
+    "KO3201_TEMP":67.53,
+    "KO3201_AMP":134.26,
+    "PLANT_RATE":57.015,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 06:00:00",
+    "KO3201_FEED":55.43,
+    "KO3201_DISP":9.753,
+    "KO3201_VIB":29.084,
+    "KO3201_TEMP":64.32,
+    "KO3201_AMP":141.01,
+    "PLANT_RATE":56.584,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 07:00:00",
+    "KO3201_FEED":55.059,
+    "KO3201_DISP":9.488,
+    "KO3201_VIB":28.537,
+    "KO3201_TEMP":62.38,
+    "KO3201_AMP":137.28,
+    "PLANT_RATE":55.371,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 08:00:00",
+    "KO3201_FEED":54.136,
+    "KO3201_DISP":9.268,
+    "KO3201_VIB":28.851,
+    "KO3201_TEMP":63.92,
+    "KO3201_AMP":142.74,
+    "PLANT_RATE":55.539,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 09:00:00",
+    "KO3201_FEED":52.673,
+    "KO3201_DISP":9.731,
+    "KO3201_VIB":29.111,
+    "KO3201_TEMP":66.19,
+    "KO3201_AMP":132.44,
+    "PLANT_RATE":56.576,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 10:00:00",
+    "KO3201_FEED":52.842,
+    "KO3201_DISP":9.563,
+    "KO3201_VIB":29.119,
+    "KO3201_TEMP":65.9,
+    "KO3201_AMP":139.81,
+    "PLANT_RATE":55.625,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 11:00:00",
+    "KO3201_FEED":55.414,
+    "KO3201_DISP":9.283,
+    "KO3201_VIB":28.56,
+    "KO3201_TEMP":65.6,
+    "KO3201_AMP":133.26,
+    "PLANT_RATE":55.304,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 12:00:00",
+    "KO3201_FEED":55.885,
+    "KO3201_DISP":9.403,
+    "KO3201_VIB":28.744,
+    "KO3201_TEMP":63.08,
+    "KO3201_AMP":123.55,
+    "PLANT_RATE":57.52,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 13:00:00",
+    "KO3201_FEED":55.039,
+    "KO3201_DISP":9.456,
+    "KO3201_VIB":28.773,
+    "KO3201_TEMP":64.73,
+    "KO3201_AMP":138.26,
+    "PLANT_RATE":56.162,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 14:00:00",
+    "KO3201_FEED":54.162,
+    "KO3201_DISP":9.52,
+    "KO3201_VIB":28.516,
+    "KO3201_TEMP":62.14,
+    "KO3201_AMP":131.42,
+    "PLANT_RATE":56.295,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 15:00:00",
+    "KO3201_FEED":55.706,
+    "KO3201_DISP":9.619,
+    "KO3201_VIB":29.222,
+    "KO3201_TEMP":62.82,
+    "KO3201_AMP":138.09,
+    "PLANT_RATE":55.412,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 16:00:00",
+    "KO3201_FEED":54.976,
+    "KO3201_DISP":9.466,
+    "KO3201_VIB":28.352,
+    "KO3201_TEMP":65.83,
+    "KO3201_AMP":134.02,
+    "PLANT_RATE":56.348,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 17:00:00",
+    "KO3201_FEED":55.016,
+    "KO3201_DISP":9.425,
+    "KO3201_VIB":28.892,
+    "KO3201_TEMP":66.26,
+    "KO3201_AMP":140.22,
+    "PLANT_RATE":56.919,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 18:00:00",
+    "KO3201_FEED":54.607,
+    "KO3201_DISP":9.359,
+    "KO3201_VIB":29.046,
+    "KO3201_TEMP":64.65,
+    "KO3201_AMP":129.76,
+    "PLANT_RATE":56.337,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 19:00:00",
+    "KO3201_FEED":53.718,
+    "KO3201_DISP":9.477,
+    "KO3201_VIB":28.904,
+    "KO3201_TEMP":62.37,
+    "KO3201_AMP":128.94,
+    "PLANT_RATE":54.449,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 20:00:00",
+    "KO3201_FEED":53.898,
+    "KO3201_DISP":9.512,
+    "KO3201_VIB":28.977,
+    "KO3201_TEMP":63.6,
+    "KO3201_AMP":141.21,
+    "PLANT_RATE":55.517,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 21:00:00",
+    "KO3201_FEED":55.429,
+    "KO3201_DISP":9.569,
+    "KO3201_VIB":28.233,
+    "KO3201_TEMP":64.43,
+    "KO3201_AMP":139.59,
+    "PLANT_RATE":56.62,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 22:00:00",
+    "KO3201_FEED":56.794,
+    "KO3201_DISP":9.185,
+    "KO3201_VIB":28.805,
+    "KO3201_TEMP":67.26,
+    "KO3201_AMP":135.63,
+    "PLANT_RATE":56.287,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-19 23:00:00",
+    "KO3201_FEED":56.945,
+    "KO3201_DISP":9.371,
+    "KO3201_VIB":28.867,
+    "KO3201_TEMP":64.05,
+    "KO3201_AMP":128.71,
+    "PLANT_RATE":57.117,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 00:00:00",
+    "KO3201_FEED":54.808,
+    "KO3201_DISP":9.571,
+    "KO3201_VIB":28.864,
+    "KO3201_TEMP":62.87,
+    "KO3201_AMP":138.63,
+    "PLANT_RATE":55.71,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 01:00:00",
+    "KO3201_FEED":55.505,
+    "KO3201_DISP":9.748,
+    "KO3201_VIB":28.465,
+    "KO3201_TEMP":63.27,
+    "KO3201_AMP":145.05,
+    "PLANT_RATE":55.974,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 02:00:00",
+    "KO3201_FEED":54.914,
+    "KO3201_DISP":9.634,
+    "KO3201_VIB":28.734,
+    "KO3201_TEMP":63.73,
+    "KO3201_AMP":133.74,
+    "PLANT_RATE":57.013,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 03:00:00",
+    "KO3201_FEED":55.178,
+    "KO3201_DISP":9.167,
+    "KO3201_VIB":28.589,
+    "KO3201_TEMP":64.19,
+    "KO3201_AMP":133.61,
+    "PLANT_RATE":55.977,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 04:00:00",
+    "KO3201_FEED":55.467,
+    "KO3201_DISP":9.217,
+    "KO3201_VIB":29.141,
+    "KO3201_TEMP":64.6,
+    "KO3201_AMP":131.82,
+    "PLANT_RATE":56.956,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 05:00:00",
+    "KO3201_FEED":56.008,
+    "KO3201_DISP":9.584,
+    "KO3201_VIB":28.631,
+    "KO3201_TEMP":67.85,
+    "KO3201_AMP":136.99,
+    "PLANT_RATE":54.138,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 06:00:00",
+    "KO3201_FEED":53.758,
+    "KO3201_DISP":9.507,
+    "KO3201_VIB":28.761,
+    "KO3201_TEMP":64.13,
+    "KO3201_AMP":134.87,
+    "PLANT_RATE":54.993,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 07:00:00",
+    "KO3201_FEED":56.959,
+    "KO3201_DISP":9.51,
+    "KO3201_VIB":28.75,
+    "KO3201_TEMP":61.89,
+    "KO3201_AMP":129.02,
+    "PLANT_RATE":57.021,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 08:00:00",
+    "KO3201_FEED":54.875,
+    "KO3201_DISP":9.79,
+    "KO3201_VIB":28.743,
+    "KO3201_TEMP":66.44,
+    "KO3201_AMP":132.25,
+    "PLANT_RATE":56.895,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 09:00:00",
+    "KO3201_FEED":53.937,
+    "KO3201_DISP":9.345,
+    "KO3201_VIB":29.217,
+    "KO3201_TEMP":63.85,
+    "KO3201_AMP":138.95,
+    "PLANT_RATE":56.848,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 10:00:00",
+    "KO3201_FEED":57.559,
+    "KO3201_DISP":9.678,
+    "KO3201_VIB":29.158,
+    "KO3201_TEMP":63.86,
+    "KO3201_AMP":130.6,
+    "PLANT_RATE":57.012,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 11:00:00",
+    "KO3201_FEED":54.035,
+    "KO3201_DISP":9.517,
+    "KO3201_VIB":28.89,
+    "KO3201_TEMP":64.15,
+    "KO3201_AMP":136.13,
+    "PLANT_RATE":57.023,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 12:00:00",
+    "KO3201_FEED":54.975,
+    "KO3201_DISP":9.414,
+    "KO3201_VIB":28.713,
+    "KO3201_TEMP":65.42,
+    "KO3201_AMP":139.22,
+    "PLANT_RATE":54.819,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 13:00:00",
+    "KO3201_FEED":54.21,
+    "KO3201_DISP":9.195,
+    "KO3201_VIB":28.686,
+    "KO3201_TEMP":65.16,
+    "KO3201_AMP":138.12,
+    "PLANT_RATE":57.742,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 14:00:00",
+    "KO3201_FEED":56.315,
+    "KO3201_DISP":9.328,
+    "KO3201_VIB":28.333,
+    "KO3201_TEMP":65.64,
+    "KO3201_AMP":127.95,
+    "PLANT_RATE":56.954,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 15:00:00",
+    "KO3201_FEED":52.069,
+    "KO3201_DISP":9.724,
+    "KO3201_VIB":28.815,
+    "KO3201_TEMP":64.48,
+    "KO3201_AMP":137.4,
+    "PLANT_RATE":54.746,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 16:00:00",
+    "KO3201_FEED":55.387,
+    "KO3201_DISP":9.514,
+    "KO3201_VIB":28.875,
+    "KO3201_TEMP":65.05,
+    "KO3201_AMP":130.61,
+    "PLANT_RATE":54.595,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 17:00:00",
+    "KO3201_FEED":53.267,
+    "KO3201_DISP":9.619,
+    "KO3201_VIB":28.754,
+    "KO3201_TEMP":63.4,
+    "KO3201_AMP":126.99,
+    "PLANT_RATE":56.451,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 18:00:00",
+    "KO3201_FEED":56.728,
+    "KO3201_DISP":9.586,
+    "KO3201_VIB":28.566,
+    "KO3201_TEMP":63.42,
+    "KO3201_AMP":136.26,
+    "PLANT_RATE":55.281,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 19:00:00",
+    "KO3201_FEED":57.324,
+    "KO3201_DISP":9.478,
+    "KO3201_VIB":29.093,
+    "KO3201_TEMP":64.08,
+    "KO3201_AMP":128.52,
+    "PLANT_RATE":56.565,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 20:00:00",
+    "KO3201_FEED":55.964,
+    "KO3201_DISP":9.624,
+    "KO3201_VIB":28.989,
+    "KO3201_TEMP":64.31,
+    "KO3201_AMP":134.07,
+    "PLANT_RATE":55.694,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 21:00:00",
+    "KO3201_FEED":54.158,
+    "KO3201_DISP":9.547,
+    "KO3201_VIB":28.838,
+    "KO3201_TEMP":62.49,
+    "KO3201_AMP":139.97,
+    "PLANT_RATE":54.391,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 22:00:00",
+    "KO3201_FEED":56.298,
+    "KO3201_DISP":9.474,
+    "KO3201_VIB":29.191,
+    "KO3201_TEMP":63.21,
+    "KO3201_AMP":137.23,
+    "PLANT_RATE":55.097,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-20 23:00:00",
+    "KO3201_FEED":57.431,
+    "KO3201_DISP":9.454,
+    "KO3201_VIB":28.862,
+    "KO3201_TEMP":66.74,
+    "KO3201_AMP":134.46,
+    "PLANT_RATE":55.595,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 00:00:00",
+    "KO3201_FEED":55.295,
+    "KO3201_DISP":9.394,
+    "KO3201_VIB":29.253,
+    "KO3201_TEMP":66.64,
+    "KO3201_AMP":138.73,
+    "PLANT_RATE":55.993,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 01:00:00",
+    "KO3201_FEED":54.606,
+    "KO3201_DISP":9.543,
+    "KO3201_VIB":28.754,
+    "KO3201_TEMP":67.31,
+    "KO3201_AMP":135.23,
+    "PLANT_RATE":56.857,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 02:00:00",
+    "KO3201_FEED":56.633,
+    "KO3201_DISP":9.473,
+    "KO3201_VIB":28.838,
+    "KO3201_TEMP":66.62,
+    "KO3201_AMP":138.19,
+    "PLANT_RATE":55.294,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 03:00:00",
+    "KO3201_FEED":53.552,
+    "KO3201_DISP":9.664,
+    "KO3201_VIB":28.651,
+    "KO3201_TEMP":66.24,
+    "KO3201_AMP":139.5,
+    "PLANT_RATE":56.509,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 04:00:00",
+    "KO3201_FEED":54.695,
+    "KO3201_DISP":9.455,
+    "KO3201_VIB":29.026,
+    "KO3201_TEMP":67.46,
+    "KO3201_AMP":130.98,
+    "PLANT_RATE":55.761,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 05:00:00",
+    "KO3201_FEED":54.958,
+    "KO3201_DISP":9.367,
+    "KO3201_VIB":28.68,
+    "KO3201_TEMP":65.89,
+    "KO3201_AMP":141.6,
+    "PLANT_RATE":55.867,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 06:00:00",
+    "KO3201_FEED":55.152,
+    "KO3201_DISP":9.227,
+    "KO3201_VIB":28.901,
+    "KO3201_TEMP":64.49,
+    "KO3201_AMP":134.43,
+    "PLANT_RATE":53.512,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 07:00:00",
+    "KO3201_FEED":56.233,
+    "KO3201_DISP":9.612,
+    "KO3201_VIB":28.833,
+    "KO3201_TEMP":64.54,
+    "KO3201_AMP":135.23,
+    "PLANT_RATE":55.459,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 08:00:00",
+    "KO3201_FEED":54.852,
+    "KO3201_DISP":9.867,
+    "KO3201_VIB":28.615,
+    "KO3201_TEMP":65.44,
+    "KO3201_AMP":135.71,
+    "PLANT_RATE":54.443,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 09:00:00",
+    "KO3201_FEED":53.798,
+    "KO3201_DISP":9.496,
+    "KO3201_VIB":29.35,
+    "KO3201_TEMP":65.59,
+    "KO3201_AMP":133.84,
+    "PLANT_RATE":56.731,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 10:00:00",
+    "KO3201_FEED":53.47,
+    "KO3201_DISP":9.175,
+    "KO3201_VIB":29.073,
+    "KO3201_TEMP":64.76,
+    "KO3201_AMP":133.19,
+    "PLANT_RATE":57.172,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 11:00:00",
+    "KO3201_FEED":54.853,
+    "KO3201_DISP":9.637,
+    "KO3201_VIB":28.743,
+    "KO3201_TEMP":64.49,
+    "KO3201_AMP":137.1,
+    "PLANT_RATE":56.47,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 12:00:00",
+    "KO3201_FEED":55.526,
+    "KO3201_DISP":9.403,
+    "KO3201_VIB":29.013,
+    "KO3201_TEMP":64.91,
+    "KO3201_AMP":132.52,
+    "PLANT_RATE":58.235,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 13:00:00",
+    "KO3201_FEED":56.075,
+    "KO3201_DISP":9.603,
+    "KO3201_VIB":28.889,
+    "KO3201_TEMP":63.82,
+    "KO3201_AMP":136.85,
+    "PLANT_RATE":56.285,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 14:00:00",
+    "KO3201_FEED":55.696,
+    "KO3201_DISP":9.554,
+    "KO3201_VIB":28.694,
+    "KO3201_TEMP":68.23,
+    "KO3201_AMP":137.9,
+    "PLANT_RATE":56.907,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 15:00:00",
+    "KO3201_FEED":53.495,
+    "KO3201_DISP":9.606,
+    "KO3201_VIB":29.258,
+    "KO3201_TEMP":65.73,
+    "KO3201_AMP":132.66,
+    "PLANT_RATE":55.633,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 16:00:00",
+    "KO3201_FEED":55.64,
+    "KO3201_DISP":9.519,
+    "KO3201_VIB":29.01,
+    "KO3201_TEMP":62.09,
+    "KO3201_AMP":133.64,
+    "PLANT_RATE":56.392,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 17:00:00",
+    "KO3201_FEED":54.284,
+    "KO3201_DISP":9.461,
+    "KO3201_VIB":28.955,
+    "KO3201_TEMP":66.26,
+    "KO3201_AMP":137.06,
+    "PLANT_RATE":54.898,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 18:00:00",
+    "KO3201_FEED":56.446,
+    "KO3201_DISP":9.658,
+    "KO3201_VIB":28.933,
+    "KO3201_TEMP":63.8,
+    "KO3201_AMP":134.82,
+    "PLANT_RATE":55.675,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 19:00:00",
+    "KO3201_FEED":54.679,
+    "KO3201_DISP":9.458,
+    "KO3201_VIB":28.971,
+    "KO3201_TEMP":64.67,
+    "KO3201_AMP":137.46,
+    "PLANT_RATE":57.12,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 20:00:00",
+    "KO3201_FEED":54.704,
+    "KO3201_DISP":9.673,
+    "KO3201_VIB":28.995,
+    "KO3201_TEMP":65.01,
+    "KO3201_AMP":134.7,
+    "PLANT_RATE":55.991,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 21:00:00",
+    "KO3201_FEED":54.401,
+    "KO3201_DISP":9.413,
+    "KO3201_VIB":28.867,
+    "KO3201_TEMP":66.29,
+    "KO3201_AMP":133.61,
+    "PLANT_RATE":55.643,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 22:00:00",
+    "KO3201_FEED":56.094,
+    "KO3201_DISP":9.523,
+    "KO3201_VIB":28.855,
+    "KO3201_TEMP":64.94,
+    "KO3201_AMP":134.06,
+    "PLANT_RATE":55.875,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-21 23:00:00",
+    "KO3201_FEED":54.894,
+    "KO3201_DISP":9.391,
+    "KO3201_VIB":28.838,
+    "KO3201_TEMP":65.41,
+    "KO3201_AMP":136.18,
+    "PLANT_RATE":56.541,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 00:00:00",
+    "KO3201_FEED":58.043,
+    "KO3201_DISP":9.637,
+    "KO3201_VIB":28.432,
+    "KO3201_TEMP":64.81,
+    "KO3201_AMP":139.63,
+    "PLANT_RATE":57.481,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 01:00:00",
+    "KO3201_FEED":56.301,
+    "KO3201_DISP":9.401,
+    "KO3201_VIB":28.763,
+    "KO3201_TEMP":68.37,
+    "KO3201_AMP":128.21,
+    "PLANT_RATE":54.375,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 02:00:00",
+    "KO3201_FEED":53.729,
+    "KO3201_DISP":9.38,
+    "KO3201_VIB":29.112,
+    "KO3201_TEMP":64.94,
+    "KO3201_AMP":133.0,
+    "PLANT_RATE":55.98,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 03:00:00",
+    "KO3201_FEED":54.978,
+    "KO3201_DISP":9.64,
+    "KO3201_VIB":29.19,
+    "KO3201_TEMP":63.71,
+    "KO3201_AMP":133.37,
+    "PLANT_RATE":55.854,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 04:00:00",
+    "KO3201_FEED":56.168,
+    "KO3201_DISP":9.55,
+    "KO3201_VIB":28.858,
+    "KO3201_TEMP":63.11,
+    "KO3201_AMP":131.75,
+    "PLANT_RATE":55.74,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 05:00:00",
+    "KO3201_FEED":55.892,
+    "KO3201_DISP":9.488,
+    "KO3201_VIB":28.61,
+    "KO3201_TEMP":65.02,
+    "KO3201_AMP":133.03,
+    "PLANT_RATE":55.972,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 06:00:00",
+    "KO3201_FEED":55.692,
+    "KO3201_DISP":9.355,
+    "KO3201_VIB":29.059,
+    "KO3201_TEMP":64.35,
+    "KO3201_AMP":139.61,
+    "PLANT_RATE":56.558,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 07:00:00",
+    "KO3201_FEED":55.293,
+    "KO3201_DISP":9.493,
+    "KO3201_VIB":28.608,
+    "KO3201_TEMP":65.26,
+    "KO3201_AMP":138.99,
+    "PLANT_RATE":57.265,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 08:00:00",
+    "KO3201_FEED":53.325,
+    "KO3201_DISP":9.558,
+    "KO3201_VIB":28.552,
+    "KO3201_TEMP":65.64,
+    "KO3201_AMP":132.54,
+    "PLANT_RATE":54.134,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 09:00:00",
+    "KO3201_FEED":53.37,
+    "KO3201_DISP":9.597,
+    "KO3201_VIB":28.46,
+    "KO3201_TEMP":63.32,
+    "KO3201_AMP":129.17,
+    "PLANT_RATE":54.711,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 10:00:00",
+    "KO3201_FEED":55.912,
+    "KO3201_DISP":9.396,
+    "KO3201_VIB":28.299,
+    "KO3201_TEMP":65.11,
+    "KO3201_AMP":136.59,
+    "PLANT_RATE":56.118,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 11:00:00",
+    "KO3201_FEED":54.328,
+    "KO3201_DISP":9.573,
+    "KO3201_VIB":29.274,
+    "KO3201_TEMP":63.95,
+    "KO3201_AMP":136.85,
+    "PLANT_RATE":54.423,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 12:00:00",
+    "KO3201_FEED":55.044,
+    "KO3201_DISP":9.222,
+    "KO3201_VIB":28.817,
+    "KO3201_TEMP":63.99,
+    "KO3201_AMP":130.22,
+    "PLANT_RATE":56.486,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 13:00:00",
+    "KO3201_FEED":55.725,
+    "KO3201_DISP":9.509,
+    "KO3201_VIB":28.097,
+    "KO3201_TEMP":63.63,
+    "KO3201_AMP":135.74,
+    "PLANT_RATE":55.068,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 14:00:00",
+    "KO3201_FEED":52.944,
+    "KO3201_DISP":9.366,
+    "KO3201_VIB":28.602,
+    "KO3201_TEMP":64.65,
+    "KO3201_AMP":136.63,
+    "PLANT_RATE":55.842,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 15:00:00",
+    "KO3201_FEED":52.943,
+    "KO3201_DISP":9.604,
+    "KO3201_VIB":28.381,
+    "KO3201_TEMP":63.97,
+    "KO3201_AMP":137.58,
+    "PLANT_RATE":54.726,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 16:00:00",
+    "KO3201_FEED":55.61,
+    "KO3201_DISP":9.436,
+    "KO3201_VIB":29.017,
+    "KO3201_TEMP":63.99,
+    "KO3201_AMP":132.93,
+    "PLANT_RATE":54.996,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 17:00:00",
+    "KO3201_FEED":54.378,
+    "KO3201_DISP":9.836,
+    "KO3201_VIB":28.64,
+    "KO3201_TEMP":64.49,
+    "KO3201_AMP":136.95,
+    "PLANT_RATE":58.941,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 18:00:00",
+    "KO3201_FEED":54.637,
+    "KO3201_DISP":9.522,
+    "KO3201_VIB":28.614,
+    "KO3201_TEMP":63.12,
+    "KO3201_AMP":134.29,
+    "PLANT_RATE":55.62,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 19:00:00",
+    "KO3201_FEED":56.272,
+    "KO3201_DISP":9.546,
+    "KO3201_VIB":28.959,
+    "KO3201_TEMP":66.92,
+    "KO3201_AMP":138.34,
+    "PLANT_RATE":57.545,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 20:00:00",
+    "KO3201_FEED":54.725,
+    "KO3201_DISP":9.167,
+    "KO3201_VIB":29.2,
+    "KO3201_TEMP":65.92,
+    "KO3201_AMP":135.94,
+    "PLANT_RATE":55.933,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 21:00:00",
+    "KO3201_FEED":54.954,
+    "KO3201_DISP":9.296,
+    "KO3201_VIB":28.607,
+    "KO3201_TEMP":64.45,
+    "KO3201_AMP":137.44,
+    "PLANT_RATE":56.668,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 22:00:00",
+    "KO3201_FEED":55.337,
+    "KO3201_DISP":9.648,
+    "KO3201_VIB":28.784,
+    "KO3201_TEMP":65.44,
+    "KO3201_AMP":135.0,
+    "PLANT_RATE":55.106,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-22 23:00:00",
+    "KO3201_FEED":53.113,
+    "KO3201_DISP":9.399,
+    "KO3201_VIB":28.554,
+    "KO3201_TEMP":63.64,
+    "KO3201_AMP":133.94,
+    "PLANT_RATE":56.515,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 00:00:00",
+    "KO3201_FEED":56.927,
+    "KO3201_DISP":9.661,
+    "KO3201_VIB":29.026,
+    "KO3201_TEMP":65.15,
+    "KO3201_AMP":135.87,
+    "PLANT_RATE":55.407,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 01:00:00",
+    "KO3201_FEED":55.464,
+    "KO3201_DISP":9.394,
+    "KO3201_VIB":28.857,
+    "KO3201_TEMP":62.79,
+    "KO3201_AMP":138.38,
+    "PLANT_RATE":52.88,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 02:00:00",
+    "KO3201_FEED":54.414,
+    "KO3201_DISP":9.587,
+    "KO3201_VIB":28.827,
+    "KO3201_TEMP":64.91,
+    "KO3201_AMP":133.47,
+    "PLANT_RATE":53.108,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 03:00:00",
+    "KO3201_FEED":56.265,
+    "KO3201_DISP":9.38,
+    "KO3201_VIB":28.593,
+    "KO3201_TEMP":65.17,
+    "KO3201_AMP":136.37,
+    "PLANT_RATE":55.836,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 04:00:00",
+    "KO3201_FEED":53.99,
+    "KO3201_DISP":9.561,
+    "KO3201_VIB":29.164,
+    "KO3201_TEMP":64.46,
+    "KO3201_AMP":144.66,
+    "PLANT_RATE":56.69,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 05:00:00",
+    "KO3201_FEED":54.254,
+    "KO3201_DISP":9.596,
+    "KO3201_VIB":28.721,
+    "KO3201_TEMP":66.06,
+    "KO3201_AMP":132.39,
+    "PLANT_RATE":55.117,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 06:00:00",
+    "KO3201_FEED":53.656,
+    "KO3201_DISP":9.63,
+    "KO3201_VIB":29.087,
+    "KO3201_TEMP":63.83,
+    "KO3201_AMP":129.7,
+    "PLANT_RATE":54.807,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 07:00:00",
+    "KO3201_FEED":54.757,
+    "KO3201_DISP":9.389,
+    "KO3201_VIB":29.099,
+    "KO3201_TEMP":65.18,
+    "KO3201_AMP":131.18,
+    "PLANT_RATE":55.343,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 08:00:00",
+    "KO3201_FEED":54.189,
+    "KO3201_DISP":9.307,
+    "KO3201_VIB":28.51,
+    "KO3201_TEMP":65.8,
+    "KO3201_AMP":133.81,
+    "PLANT_RATE":57.753,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 09:00:00",
+    "KO3201_FEED":55.298,
+    "KO3201_DISP":9.579,
+    "KO3201_VIB":28.746,
+    "KO3201_TEMP":65.76,
+    "KO3201_AMP":134.95,
+    "PLANT_RATE":53.958,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 10:00:00",
+    "KO3201_FEED":54.272,
+    "KO3201_DISP":9.53,
+    "KO3201_VIB":28.858,
+    "KO3201_TEMP":64.96,
+    "KO3201_AMP":126.09,
+    "PLANT_RATE":56.669,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 11:00:00",
+    "KO3201_FEED":55.294,
+    "KO3201_DISP":9.596,
+    "KO3201_VIB":28.527,
+    "KO3201_TEMP":67.4,
+    "KO3201_AMP":127.08,
+    "PLANT_RATE":57.21,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 12:00:00",
+    "KO3201_FEED":55.488,
+    "KO3201_DISP":9.32,
+    "KO3201_VIB":28.771,
+    "KO3201_TEMP":66.14,
+    "KO3201_AMP":138.05,
+    "PLANT_RATE":54.482,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 13:00:00",
+    "KO3201_FEED":55.437,
+    "KO3201_DISP":9.607,
+    "KO3201_VIB":28.874,
+    "KO3201_TEMP":65.94,
+    "KO3201_AMP":129.37,
+    "PLANT_RATE":54.94,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 14:00:00",
+    "KO3201_FEED":55.42,
+    "KO3201_DISP":9.473,
+    "KO3201_VIB":28.386,
+    "KO3201_TEMP":63.95,
+    "KO3201_AMP":137.65,
+    "PLANT_RATE":55.52,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 15:00:00",
+    "KO3201_FEED":55.097,
+    "KO3201_DISP":9.34,
+    "KO3201_VIB":28.72,
+    "KO3201_TEMP":65.11,
+    "KO3201_AMP":139.81,
+    "PLANT_RATE":55.223,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 16:00:00",
+    "KO3201_FEED":54.098,
+    "KO3201_DISP":9.431,
+    "KO3201_VIB":28.874,
+    "KO3201_TEMP":64.22,
+    "KO3201_AMP":122.76,
+    "PLANT_RATE":56.992,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 17:00:00",
+    "KO3201_FEED":52.818,
+    "KO3201_DISP":9.633,
+    "KO3201_VIB":28.68,
+    "KO3201_TEMP":67.96,
+    "KO3201_AMP":137.15,
+    "PLANT_RATE":56.042,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 18:00:00",
+    "KO3201_FEED":55.391,
+    "KO3201_DISP":9.523,
+    "KO3201_VIB":28.649,
+    "KO3201_TEMP":65.54,
+    "KO3201_AMP":135.1,
+    "PLANT_RATE":55.376,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 19:00:00",
+    "KO3201_FEED":53.459,
+    "KO3201_DISP":9.52,
+    "KO3201_VIB":28.446,
+    "KO3201_TEMP":63.9,
+    "KO3201_AMP":133.61,
+    "PLANT_RATE":56.349,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 20:00:00",
+    "KO3201_FEED":55.378,
+    "KO3201_DISP":9.511,
+    "KO3201_VIB":28.798,
+    "KO3201_TEMP":66.24,
+    "KO3201_AMP":136.48,
+    "PLANT_RATE":57.28,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 21:00:00",
+    "KO3201_FEED":54.947,
+    "KO3201_DISP":9.441,
+    "KO3201_VIB":28.845,
+    "KO3201_TEMP":66.59,
+    "KO3201_AMP":134.73,
+    "PLANT_RATE":55.551,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 22:00:00",
+    "KO3201_FEED":54.949,
+    "KO3201_DISP":9.678,
+    "KO3201_VIB":28.768,
+    "KO3201_TEMP":64.17,
+    "KO3201_AMP":137.1,
+    "PLANT_RATE":55.058,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-23 23:00:00",
+    "KO3201_FEED":55.009,
+    "KO3201_DISP":9.502,
+    "KO3201_VIB":29.133,
+    "KO3201_TEMP":65.25,
+    "KO3201_AMP":142.25,
+    "PLANT_RATE":56.969,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 00:00:00",
+    "KO3201_FEED":55.633,
+    "KO3201_DISP":9.286,
+    "KO3201_VIB":28.797,
+    "KO3201_TEMP":68.61,
+    "KO3201_AMP":136.17,
+    "PLANT_RATE":57.848,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 01:00:00",
+    "KO3201_FEED":53.93,
+    "KO3201_DISP":9.287,
+    "KO3201_VIB":28.691,
+    "KO3201_TEMP":65.06,
+    "KO3201_AMP":130.13,
+    "PLANT_RATE":57.665,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 02:00:00",
+    "KO3201_FEED":55.349,
+    "KO3201_DISP":9.418,
+    "KO3201_VIB":29.227,
+    "KO3201_TEMP":65.51,
+    "KO3201_AMP":140.49,
+    "PLANT_RATE":56.854,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 03:00:00",
+    "KO3201_FEED":56.188,
+    "KO3201_DISP":9.443,
+    "KO3201_VIB":28.969,
+    "KO3201_TEMP":69.52,
+    "KO3201_AMP":139.41,
+    "PLANT_RATE":55.8,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 04:00:00",
+    "KO3201_FEED":55.868,
+    "KO3201_DISP":9.606,
+    "KO3201_VIB":29.069,
+    "KO3201_TEMP":64.99,
+    "KO3201_AMP":140.71,
+    "PLANT_RATE":56.883,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 05:00:00",
+    "KO3201_FEED":56.216,
+    "KO3201_DISP":9.116,
+    "KO3201_VIB":29.117,
+    "KO3201_TEMP":63.29,
+    "KO3201_AMP":136.51,
+    "PLANT_RATE":56.62,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 06:00:00",
+    "KO3201_FEED":54.696,
+    "KO3201_DISP":9.611,
+    "KO3201_VIB":28.669,
+    "KO3201_TEMP":63.63,
+    "KO3201_AMP":138.51,
+    "PLANT_RATE":56.686,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 07:00:00",
+    "KO3201_FEED":54.911,
+    "KO3201_DISP":9.672,
+    "KO3201_VIB":28.557,
+    "KO3201_TEMP":65.2,
+    "KO3201_AMP":142.8,
+    "PLANT_RATE":55.984,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 08:00:00",
+    "KO3201_FEED":57.061,
+    "KO3201_DISP":9.429,
+    "KO3201_VIB":29.208,
+    "KO3201_TEMP":66.13,
+    "KO3201_AMP":134.72,
+    "PLANT_RATE":57.154,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 09:00:00",
+    "KO3201_FEED":55.556,
+    "KO3201_DISP":9.684,
+    "KO3201_VIB":28.325,
+    "KO3201_TEMP":63.73,
+    "KO3201_AMP":132.55,
+    "PLANT_RATE":56.988,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 10:00:00",
+    "KO3201_FEED":55.286,
+    "KO3201_DISP":9.399,
+    "KO3201_VIB":28.667,
+    "KO3201_TEMP":62.04,
+    "KO3201_AMP":140.73,
+    "PLANT_RATE":54.664,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 11:00:00",
+    "KO3201_FEED":56.101,
+    "KO3201_DISP":9.475,
+    "KO3201_VIB":29.195,
+    "KO3201_TEMP":65.82,
+    "KO3201_AMP":133.65,
+    "PLANT_RATE":56.814,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 12:00:00",
+    "KO3201_FEED":54.043,
+    "KO3201_DISP":9.426,
+    "KO3201_VIB":28.634,
+    "KO3201_TEMP":64.69,
+    "KO3201_AMP":139.56,
+    "PLANT_RATE":54.956,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 13:00:00",
+    "KO3201_FEED":54.855,
+    "KO3201_DISP":9.736,
+    "KO3201_VIB":28.984,
+    "KO3201_TEMP":64.27,
+    "KO3201_AMP":132.91,
+    "PLANT_RATE":56.174,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 14:00:00",
+    "KO3201_FEED":55.486,
+    "KO3201_DISP":9.67,
+    "KO3201_VIB":28.6,
+    "KO3201_TEMP":63.71,
+    "KO3201_AMP":133.14,
+    "PLANT_RATE":55.893,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 15:00:00",
+    "KO3201_FEED":54.935,
+    "KO3201_DISP":9.662,
+    "KO3201_VIB":29.389,
+    "KO3201_TEMP":66.61,
+    "KO3201_AMP":136.21,
+    "PLANT_RATE":56.577,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 16:00:00",
+    "KO3201_FEED":56.662,
+    "KO3201_DISP":9.332,
+    "KO3201_VIB":28.78,
+    "KO3201_TEMP":64.75,
+    "KO3201_AMP":136.3,
+    "PLANT_RATE":55.51,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 17:00:00",
+    "KO3201_FEED":55.482,
+    "KO3201_DISP":9.514,
+    "KO3201_VIB":29.002,
+    "KO3201_TEMP":63.09,
+    "KO3201_AMP":132.01,
+    "PLANT_RATE":55.66,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 18:00:00",
+    "KO3201_FEED":55.973,
+    "KO3201_DISP":9.332,
+    "KO3201_VIB":28.469,
+    "KO3201_TEMP":63.54,
+    "KO3201_AMP":141.49,
+    "PLANT_RATE":55.497,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 19:00:00",
+    "KO3201_FEED":54.095,
+    "KO3201_DISP":9.523,
+    "KO3201_VIB":28.983,
+    "KO3201_TEMP":64.33,
+    "KO3201_AMP":133.36,
+    "PLANT_RATE":55.523,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 20:00:00",
+    "KO3201_FEED":54.99,
+    "KO3201_DISP":9.583,
+    "KO3201_VIB":28.972,
+    "KO3201_TEMP":62.87,
+    "KO3201_AMP":137.84,
+    "PLANT_RATE":54.506,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 21:00:00",
+    "KO3201_FEED":54.974,
+    "KO3201_DISP":9.703,
+    "KO3201_VIB":28.687,
+    "KO3201_TEMP":64.24,
+    "KO3201_AMP":131.46,
+    "PLANT_RATE":56.627,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 22:00:00",
+    "KO3201_FEED":55.573,
+    "KO3201_DISP":9.479,
+    "KO3201_VIB":28.971,
+    "KO3201_TEMP":66.65,
+    "KO3201_AMP":132.66,
+    "PLANT_RATE":55.431,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-24 23:00:00",
+    "KO3201_FEED":55.538,
+    "KO3201_DISP":9.535,
+    "KO3201_VIB":28.748,
+    "KO3201_TEMP":66.22,
+    "KO3201_AMP":132.81,
+    "PLANT_RATE":56.443,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 00:00:00",
+    "KO3201_FEED":55.005,
+    "KO3201_DISP":9.48,
+    "KO3201_VIB":28.9,
+    "KO3201_TEMP":66.44,
+    "KO3201_AMP":135.7,
+    "PLANT_RATE":56.054,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 01:00:00",
+    "KO3201_FEED":55.641,
+    "KO3201_DISP":9.342,
+    "KO3201_VIB":28.675,
+    "KO3201_TEMP":66.41,
+    "KO3201_AMP":135.7,
+    "PLANT_RATE":56.522,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 02:00:00",
+    "KO3201_FEED":57.303,
+    "KO3201_DISP":9.747,
+    "KO3201_VIB":28.688,
+    "KO3201_TEMP":65.21,
+    "KO3201_AMP":135.92,
+    "PLANT_RATE":56.699,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 03:00:00",
+    "KO3201_FEED":55.038,
+    "KO3201_DISP":9.558,
+    "KO3201_VIB":28.495,
+    "KO3201_TEMP":65.53,
+    "KO3201_AMP":135.14,
+    "PLANT_RATE":54.654,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 04:00:00",
+    "KO3201_FEED":54.289,
+    "KO3201_DISP":9.715,
+    "KO3201_VIB":28.911,
+    "KO3201_TEMP":62.47,
+    "KO3201_AMP":138.72,
+    "PLANT_RATE":55.943,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 05:00:00",
+    "KO3201_FEED":56.331,
+    "KO3201_DISP":9.626,
+    "KO3201_VIB":28.749,
+    "KO3201_TEMP":66.09,
+    "KO3201_AMP":138.67,
+    "PLANT_RATE":56.278,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 06:00:00",
+    "KO3201_FEED":56.637,
+    "KO3201_DISP":9.312,
+    "KO3201_VIB":28.627,
+    "KO3201_TEMP":65.9,
+    "KO3201_AMP":133.36,
+    "PLANT_RATE":55.314,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 07:00:00",
+    "KO3201_FEED":55.212,
+    "KO3201_DISP":9.408,
+    "KO3201_VIB":29.211,
+    "KO3201_TEMP":65.34,
+    "KO3201_AMP":135.64,
+    "PLANT_RATE":55.357,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 08:00:00",
+    "KO3201_FEED":56.066,
+    "KO3201_DISP":9.603,
+    "KO3201_VIB":28.807,
+    "KO3201_TEMP":65.32,
+    "KO3201_AMP":136.89,
+    "PLANT_RATE":56.477,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 09:00:00",
+    "KO3201_FEED":52.766,
+    "KO3201_DISP":9.628,
+    "KO3201_VIB":28.766,
+    "KO3201_TEMP":63.43,
+    "KO3201_AMP":137.93,
+    "PLANT_RATE":57.464,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 10:00:00",
+    "KO3201_FEED":55.529,
+    "KO3201_DISP":9.603,
+    "KO3201_VIB":28.621,
+    "KO3201_TEMP":64.3,
+    "KO3201_AMP":137.11,
+    "PLANT_RATE":56.671,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 11:00:00",
+    "KO3201_FEED":54.81,
+    "KO3201_DISP":9.501,
+    "KO3201_VIB":29.033,
+    "KO3201_TEMP":62.71,
+    "KO3201_AMP":133.77,
+    "PLANT_RATE":56.838,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 12:00:00",
+    "KO3201_FEED":57.429,
+    "KO3201_DISP":9.629,
+    "KO3201_VIB":28.84,
+    "KO3201_TEMP":64.29,
+    "KO3201_AMP":133.82,
+    "PLANT_RATE":56.425,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 13:00:00",
+    "KO3201_FEED":55.265,
+    "KO3201_DISP":9.354,
+    "KO3201_VIB":28.596,
+    "KO3201_TEMP":64.62,
+    "KO3201_AMP":135.38,
+    "PLANT_RATE":58.155,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 14:00:00",
+    "KO3201_FEED":57.029,
+    "KO3201_DISP":9.464,
+    "KO3201_VIB":28.74,
+    "KO3201_TEMP":64.05,
+    "KO3201_AMP":137.04,
+    "PLANT_RATE":56.132,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 15:00:00",
+    "KO3201_FEED":54.813,
+    "KO3201_DISP":9.329,
+    "KO3201_VIB":28.947,
+    "KO3201_TEMP":66.68,
+    "KO3201_AMP":130.92,
+    "PLANT_RATE":57.073,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 16:00:00",
+    "KO3201_FEED":54.713,
+    "KO3201_DISP":9.649,
+    "KO3201_VIB":28.828,
+    "KO3201_TEMP":63.78,
+    "KO3201_AMP":131.19,
+    "PLANT_RATE":59.755,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 17:00:00",
+    "KO3201_FEED":54.43,
+    "KO3201_DISP":9.557,
+    "KO3201_VIB":29.092,
+    "KO3201_TEMP":65.47,
+    "KO3201_AMP":133.52,
+    "PLANT_RATE":56.493,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 18:00:00",
+    "KO3201_FEED":53.731,
+    "KO3201_DISP":9.606,
+    "KO3201_VIB":29.058,
+    "KO3201_TEMP":65.29,
+    "KO3201_AMP":135.44,
+    "PLANT_RATE":56.069,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 19:00:00",
+    "KO3201_FEED":54.394,
+    "KO3201_DISP":9.461,
+    "KO3201_VIB":29.349,
+    "KO3201_TEMP":64.74,
+    "KO3201_AMP":132.52,
+    "PLANT_RATE":54.394,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 20:00:00",
+    "KO3201_FEED":56.226,
+    "KO3201_DISP":9.122,
+    "KO3201_VIB":28.64,
+    "KO3201_TEMP":65.8,
+    "KO3201_AMP":133.38,
+    "PLANT_RATE":54.328,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 21:00:00",
+    "KO3201_FEED":53.34,
+    "KO3201_DISP":9.382,
+    "KO3201_VIB":28.792,
+    "KO3201_TEMP":65.56,
+    "KO3201_AMP":131.9,
+    "PLANT_RATE":58.407,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 22:00:00",
+    "KO3201_FEED":55.12,
+    "KO3201_DISP":9.523,
+    "KO3201_VIB":28.742,
+    "KO3201_TEMP":64.44,
+    "KO3201_AMP":137.1,
+    "PLANT_RATE":56.153,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-25 23:00:00",
+    "KO3201_FEED":56.238,
+    "KO3201_DISP":9.508,
+    "KO3201_VIB":28.743,
+    "KO3201_TEMP":66.9,
+    "KO3201_AMP":127.24,
+    "PLANT_RATE":55.101,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 00:00:00",
+    "KO3201_FEED":55.299,
+    "KO3201_DISP":9.637,
+    "KO3201_VIB":28.82,
+    "KO3201_TEMP":64.79,
+    "KO3201_AMP":135.03,
+    "PLANT_RATE":55.553,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 01:00:00",
+    "KO3201_FEED":55.589,
+    "KO3201_DISP":9.668,
+    "KO3201_VIB":28.716,
+    "KO3201_TEMP":65.9,
+    "KO3201_AMP":132.45,
+    "PLANT_RATE":54.873,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 02:00:00",
+    "KO3201_FEED":55.397,
+    "KO3201_DISP":9.416,
+    "KO3201_VIB":29.027,
+    "KO3201_TEMP":63.5,
+    "KO3201_AMP":135.17,
+    "PLANT_RATE":56.074,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 03:00:00",
+    "KO3201_FEED":55.59,
+    "KO3201_DISP":9.618,
+    "KO3201_VIB":28.497,
+    "KO3201_TEMP":63.67,
+    "KO3201_AMP":135.8,
+    "PLANT_RATE":55.38,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 04:00:00",
+    "KO3201_FEED":52.924,
+    "KO3201_DISP":9.242,
+    "KO3201_VIB":28.817,
+    "KO3201_TEMP":65.25,
+    "KO3201_AMP":123.27,
+    "PLANT_RATE":56.716,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 05:00:00",
+    "KO3201_FEED":56.665,
+    "KO3201_DISP":9.6,
+    "KO3201_VIB":28.96,
+    "KO3201_TEMP":68.35,
+    "KO3201_AMP":139.46,
+    "PLANT_RATE":57.715,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 06:00:00",
+    "KO3201_FEED":55.416,
+    "KO3201_DISP":9.184,
+    "KO3201_VIB":29.053,
+    "KO3201_TEMP":63.16,
+    "KO3201_AMP":137.91,
+    "PLANT_RATE":56.619,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 07:00:00",
+    "KO3201_FEED":54.418,
+    "KO3201_DISP":9.575,
+    "KO3201_VIB":28.801,
+    "KO3201_TEMP":63.27,
+    "KO3201_AMP":141.27,
+    "PLANT_RATE":56.14,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 08:00:00",
+    "KO3201_FEED":54.7,
+    "KO3201_DISP":9.159,
+    "KO3201_VIB":28.882,
+    "KO3201_TEMP":63.89,
+    "KO3201_AMP":138.14,
+    "PLANT_RATE":56.124,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 09:00:00",
+    "KO3201_FEED":54.873,
+    "KO3201_DISP":9.574,
+    "KO3201_VIB":28.819,
+    "KO3201_TEMP":64.36,
+    "KO3201_AMP":138.65,
+    "PLANT_RATE":57.592,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 10:00:00",
+    "KO3201_FEED":55.77,
+    "KO3201_DISP":9.739,
+    "KO3201_VIB":28.928,
+    "KO3201_TEMP":65.09,
+    "KO3201_AMP":137.22,
+    "PLANT_RATE":54.651,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 11:00:00",
+    "KO3201_FEED":53.737,
+    "KO3201_DISP":9.475,
+    "KO3201_VIB":28.762,
+    "KO3201_TEMP":66.51,
+    "KO3201_AMP":141.33,
+    "PLANT_RATE":55.051,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 12:00:00",
+    "KO3201_FEED":53.652,
+    "KO3201_DISP":9.605,
+    "KO3201_VIB":28.983,
+    "KO3201_TEMP":64.76,
+    "KO3201_AMP":129.82,
+    "PLANT_RATE":55.49,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 13:00:00",
+    "KO3201_FEED":53.594,
+    "KO3201_DISP":9.667,
+    "KO3201_VIB":29.14,
+    "KO3201_TEMP":65.86,
+    "KO3201_AMP":134.68,
+    "PLANT_RATE":54.79,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 14:00:00",
+    "KO3201_FEED":56.012,
+    "KO3201_DISP":9.096,
+    "KO3201_VIB":29.323,
+    "KO3201_TEMP":65.04,
+    "KO3201_AMP":131.45,
+    "PLANT_RATE":56.645,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 15:00:00",
+    "KO3201_FEED":54.033,
+    "KO3201_DISP":9.21,
+    "KO3201_VIB":28.723,
+    "KO3201_TEMP":64.18,
+    "KO3201_AMP":138.52,
+    "PLANT_RATE":55.678,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 16:00:00",
+    "KO3201_FEED":55.166,
+    "KO3201_DISP":9.503,
+    "KO3201_VIB":29.015,
+    "KO3201_TEMP":64.3,
+    "KO3201_AMP":136.09,
+    "PLANT_RATE":55.051,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 17:00:00",
+    "KO3201_FEED":53.779,
+    "KO3201_DISP":9.336,
+    "KO3201_VIB":28.874,
+    "KO3201_TEMP":65.72,
+    "KO3201_AMP":141.48,
+    "PLANT_RATE":56.691,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 18:00:00",
+    "KO3201_FEED":54.96,
+    "KO3201_DISP":9.439,
+    "KO3201_VIB":28.912,
+    "KO3201_TEMP":65.27,
+    "KO3201_AMP":135.64,
+    "PLANT_RATE":56.0,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 19:00:00",
+    "KO3201_FEED":54.489,
+    "KO3201_DISP":9.91,
+    "KO3201_VIB":28.697,
+    "KO3201_TEMP":66.93,
+    "KO3201_AMP":134.39,
+    "PLANT_RATE":56.538,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 20:00:00",
+    "KO3201_FEED":54.23,
+    "KO3201_DISP":9.781,
+    "KO3201_VIB":28.837,
+    "KO3201_TEMP":65.3,
+    "KO3201_AMP":134.4,
+    "PLANT_RATE":56.087,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 21:00:00",
+    "KO3201_FEED":56.265,
+    "KO3201_DISP":9.598,
+    "KO3201_VIB":28.947,
+    "KO3201_TEMP":64.84,
+    "KO3201_AMP":132.14,
+    "PLANT_RATE":55.521,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 22:00:00",
+    "KO3201_FEED":55.144,
+    "KO3201_DISP":9.4,
+    "KO3201_VIB":28.814,
+    "KO3201_TEMP":63.36,
+    "KO3201_AMP":127.06,
+    "PLANT_RATE":54.937,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-26 23:00:00",
+    "KO3201_FEED":53.989,
+    "KO3201_DISP":9.584,
+    "KO3201_VIB":28.708,
+    "KO3201_TEMP":63.91,
+    "KO3201_AMP":134.94,
+    "PLANT_RATE":56.596,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 00:00:00",
+    "KO3201_FEED":57.656,
+    "KO3201_DISP":9.556,
+    "KO3201_VIB":29.112,
+    "KO3201_TEMP":65.55,
+    "KO3201_AMP":133.37,
+    "PLANT_RATE":55.087,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 01:00:00",
+    "KO3201_FEED":54.008,
+    "KO3201_DISP":9.478,
+    "KO3201_VIB":28.84,
+    "KO3201_TEMP":65.48,
+    "KO3201_AMP":133.31,
+    "PLANT_RATE":57.215,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 02:00:00",
+    "KO3201_FEED":53.755,
+    "KO3201_DISP":9.753,
+    "KO3201_VIB":28.752,
+    "KO3201_TEMP":67.42,
+    "KO3201_AMP":130.56,
+    "PLANT_RATE":56.372,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 03:00:00",
+    "KO3201_FEED":53.201,
+    "KO3201_DISP":9.214,
+    "KO3201_VIB":28.813,
+    "KO3201_TEMP":64.12,
+    "KO3201_AMP":135.44,
+    "PLANT_RATE":56.058,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 04:00:00",
+    "KO3201_FEED":56.802,
+    "KO3201_DISP":9.742,
+    "KO3201_VIB":28.755,
+    "KO3201_TEMP":65.96,
+    "KO3201_AMP":130.96,
+    "PLANT_RATE":55.214,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 05:00:00",
+    "KO3201_FEED":55.263,
+    "KO3201_DISP":9.439,
+    "KO3201_VIB":28.622,
+    "KO3201_TEMP":64.92,
+    "KO3201_AMP":136.13,
+    "PLANT_RATE":57.886,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 06:00:00",
+    "KO3201_FEED":55.406,
+    "KO3201_DISP":9.702,
+    "KO3201_VIB":28.937,
+    "KO3201_TEMP":62.03,
+    "KO3201_AMP":134.13,
+    "PLANT_RATE":55.811,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 07:00:00",
+    "KO3201_FEED":56.244,
+    "KO3201_DISP":9.483,
+    "KO3201_VIB":29.063,
+    "KO3201_TEMP":63.36,
+    "KO3201_AMP":133.79,
+    "PLANT_RATE":56.693,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 08:00:00",
+    "KO3201_FEED":55.179,
+    "KO3201_DISP":9.417,
+    "KO3201_VIB":29.75,
+    "KO3201_TEMP":65.41,
+    "KO3201_AMP":128.82,
+    "PLANT_RATE":55.399,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 09:00:00",
+    "KO3201_FEED":55.833,
+    "KO3201_DISP":9.402,
+    "KO3201_VIB":31.244,
+    "KO3201_TEMP":64.52,
+    "KO3201_AMP":136.36,
+    "PLANT_RATE":57.364,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 10:00:00",
+    "KO3201_FEED":56.88,
+    "KO3201_DISP":9.543,
+    "KO3201_VIB":31.846,
+    "KO3201_TEMP":64.07,
+    "KO3201_AMP":138.47,
+    "PLANT_RATE":56.569,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 11:00:00",
+    "KO3201_FEED":55.323,
+    "KO3201_DISP":9.557,
+    "KO3201_VIB":32.512,
+    "KO3201_TEMP":66.63,
+    "KO3201_AMP":134.53,
+    "PLANT_RATE":57.233,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 12:00:00",
+    "KO3201_FEED":55.931,
+    "KO3201_DISP":9.963,
+    "KO3201_VIB":33.785,
+    "KO3201_TEMP":64.72,
+    "KO3201_AMP":132.75,
+    "PLANT_RATE":57.008,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 13:00:00",
+    "KO3201_FEED":55.278,
+    "KO3201_DISP":9.746,
+    "KO3201_VIB":34.566,
+    "KO3201_TEMP":65.45,
+    "KO3201_AMP":137.47,
+    "PLANT_RATE":55.972,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 14:00:00",
+    "KO3201_FEED":55.209,
+    "KO3201_DISP":9.498,
+    "KO3201_VIB":35.724,
+    "KO3201_TEMP":66.14,
+    "KO3201_AMP":138.14,
+    "PLANT_RATE":55.159,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 15:00:00",
+    "KO3201_FEED":56.613,
+    "KO3201_DISP":9.319,
+    "KO3201_VIB":36.322,
+    "KO3201_TEMP":64.38,
+    "KO3201_AMP":133.34,
+    "PLANT_RATE":56.183,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 16:00:00",
+    "KO3201_FEED":55.693,
+    "KO3201_DISP":9.519,
+    "KO3201_VIB":37.449,
+    "KO3201_TEMP":65.98,
+    "KO3201_AMP":145.82,
+    "PLANT_RATE":55.419,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 17:00:00",
+    "KO3201_FEED":55.358,
+    "KO3201_DISP":9.592,
+    "KO3201_VIB":38.084,
+    "KO3201_TEMP":63.6,
+    "KO3201_AMP":139.92,
+    "PLANT_RATE":55.715,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 18:00:00",
+    "KO3201_FEED":52.984,
+    "KO3201_DISP":9.246,
+    "KO3201_VIB":39.085,
+    "KO3201_TEMP":63.17,
+    "KO3201_AMP":140.97,
+    "PLANT_RATE":57.971,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 19:00:00",
+    "KO3201_FEED":54.079,
+    "KO3201_DISP":9.506,
+    "KO3201_VIB":40.384,
+    "KO3201_TEMP":66.65,
+    "KO3201_AMP":136.7,
+    "PLANT_RATE":57.145,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 20:00:00",
+    "KO3201_FEED":54.303,
+    "KO3201_DISP":9.701,
+    "KO3201_VIB":41.158,
+    "KO3201_TEMP":66.92,
+    "KO3201_AMP":136.63,
+    "PLANT_RATE":56.488,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 21:00:00",
+    "KO3201_FEED":55.036,
+    "KO3201_DISP":9.434,
+    "KO3201_VIB":42.611,
+    "KO3201_TEMP":66.09,
+    "KO3201_AMP":131.17,
+    "PLANT_RATE":56.866,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 22:00:00",
+    "KO3201_FEED":55.467,
+    "KO3201_DISP":9.26,
+    "KO3201_VIB":42.992,
+    "KO3201_TEMP":63.94,
+    "KO3201_AMP":134.03,
+    "PLANT_RATE":57.124,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-27 23:00:00",
+    "KO3201_FEED":55.229,
+    "KO3201_DISP":9.621,
+    "KO3201_VIB":44.151,
+    "KO3201_TEMP":64.54,
+    "KO3201_AMP":135.27,
+    "PLANT_RATE":56.4,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 00:00:00",
+    "KO3201_FEED":54.881,
+    "KO3201_DISP":9.751,
+    "KO3201_VIB":44.733,
+    "KO3201_TEMP":63.68,
+    "KO3201_AMP":137.79,
+    "PLANT_RATE":56.099,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 01:00:00",
+    "KO3201_FEED":55.433,
+    "KO3201_DISP":9.474,
+    "KO3201_VIB":46.353,
+    "KO3201_TEMP":63.68,
+    "KO3201_AMP":133.06,
+    "PLANT_RATE":56.302,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 02:00:00",
+    "KO3201_FEED":55.446,
+    "KO3201_DISP":9.531,
+    "KO3201_VIB":46.933,
+    "KO3201_TEMP":65.23,
+    "KO3201_AMP":131.71,
+    "PLANT_RATE":56.699,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 03:00:00",
+    "KO3201_FEED":56.036,
+    "KO3201_DISP":9.684,
+    "KO3201_VIB":47.482,
+    "KO3201_TEMP":64.35,
+    "KO3201_AMP":139.66,
+    "PLANT_RATE":58.404,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 04:00:00",
+    "KO3201_FEED":53.117,
+    "KO3201_DISP":9.589,
+    "KO3201_VIB":48.855,
+    "KO3201_TEMP":66.7,
+    "KO3201_AMP":135.48,
+    "PLANT_RATE":54.938,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 05:00:00",
+    "KO3201_FEED":56.171,
+    "KO3201_DISP":9.401,
+    "KO3201_VIB":49.614,
+    "KO3201_TEMP":62.77,
+    "KO3201_AMP":138.79,
+    "PLANT_RATE":56.246,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 06:00:00",
+    "KO3201_FEED":57.194,
+    "KO3201_DISP":9.454,
+    "KO3201_VIB":51.204,
+    "KO3201_TEMP":64.28,
+    "KO3201_AMP":135.48,
+    "PLANT_RATE":55.607,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 07:00:00",
+    "KO3201_FEED":56.303,
+    "KO3201_DISP":9.494,
+    "KO3201_VIB":51.88,
+    "KO3201_TEMP":63.26,
+    "KO3201_AMP":132.64,
+    "PLANT_RATE":58.761,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 08:00:00",
+    "KO3201_FEED":54.587,
+    "KO3201_DISP":9.507,
+    "KO3201_VIB":52.355,
+    "KO3201_TEMP":63.14,
+    "KO3201_AMP":134.97,
+    "PLANT_RATE":55.626,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 09:00:00",
+    "KO3201_FEED":54.072,
+    "KO3201_DISP":9.686,
+    "KO3201_VIB":53.662,
+    "KO3201_TEMP":67.73,
+    "KO3201_AMP":125.36,
+    "PLANT_RATE":57.558,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 10:00:00",
+    "KO3201_FEED":54.989,
+    "KO3201_DISP":9.35,
+    "KO3201_VIB":54.543,
+    "KO3201_TEMP":67.3,
+    "KO3201_AMP":138.91,
+    "PLANT_RATE":56.863,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 11:00:00",
+    "KO3201_FEED":56.526,
+    "KO3201_DISP":9.568,
+    "KO3201_VIB":55.274,
+    "KO3201_TEMP":65.63,
+    "KO3201_AMP":137.25,
+    "PLANT_RATE":56.732,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 12:00:00",
+    "KO3201_FEED":55.356,
+    "KO3201_DISP":9.484,
+    "KO3201_VIB":56.218,
+    "KO3201_TEMP":65.78,
+    "KO3201_AMP":139.67,
+    "PLANT_RATE":57.359,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 13:00:00",
+    "KO3201_FEED":52.855,
+    "KO3201_DISP":9.19,
+    "KO3201_VIB":57.173,
+    "KO3201_TEMP":65.89,
+    "KO3201_AMP":134.18,
+    "PLANT_RATE":56.659,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 14:00:00",
+    "KO3201_FEED":51.443,
+    "KO3201_DISP":9.619,
+    "KO3201_VIB":57.934,
+    "KO3201_TEMP":65.07,
+    "KO3201_AMP":142.85,
+    "PLANT_RATE":55.884,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 15:00:00",
+    "KO3201_FEED":55.273,
+    "KO3201_DISP":9.529,
+    "KO3201_VIB":59.183,
+    "KO3201_TEMP":60.49,
+    "KO3201_AMP":139.88,
+    "PLANT_RATE":58.254,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 16:00:00",
+    "KO3201_FEED":57.65,
+    "KO3201_DISP":9.31,
+    "KO3201_VIB":59.927,
+    "KO3201_TEMP":61.74,
+    "KO3201_AMP":128.11,
+    "PLANT_RATE":54.955,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 17:00:00",
+    "KO3201_FEED":53.303,
+    "KO3201_DISP":9.235,
+    "KO3201_VIB":60.964,
+    "KO3201_TEMP":65.83,
+    "KO3201_AMP":128.04,
+    "PLANT_RATE":54.203,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 18:00:00",
+    "KO3201_FEED":54.346,
+    "KO3201_DISP":9.651,
+    "KO3201_VIB":61.836,
+    "KO3201_TEMP":61.28,
+    "KO3201_AMP":136.06,
+    "PLANT_RATE":55.373,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 19:00:00",
+    "KO3201_FEED":55.057,
+    "KO3201_DISP":9.765,
+    "KO3201_VIB":62.684,
+    "KO3201_TEMP":67.04,
+    "KO3201_AMP":129.56,
+    "PLANT_RATE":56.97,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 20:00:00",
+    "KO3201_FEED":55.369,
+    "KO3201_DISP":9.521,
+    "KO3201_VIB":64.277,
+    "KO3201_TEMP":66.19,
+    "KO3201_AMP":134.45,
+    "PLANT_RATE":55.489,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 21:00:00",
+    "KO3201_FEED":55.985,
+    "KO3201_DISP":9.473,
+    "KO3201_VIB":64.81,
+    "KO3201_TEMP":65.44,
+    "KO3201_AMP":134.34,
+    "PLANT_RATE":56.32,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 22:00:00",
+    "KO3201_FEED":53.279,
+    "KO3201_DISP":9.618,
+    "KO3201_VIB":65.841,
+    "KO3201_TEMP":65.53,
+    "KO3201_AMP":133.8,
+    "PLANT_RATE":57.226,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-28 23:00:00",
+    "KO3201_FEED":55.138,
+    "KO3201_DISP":9.406,
+    "KO3201_VIB":67.278,
+    "KO3201_TEMP":66.01,
+    "KO3201_AMP":140.97,
+    "PLANT_RATE":56.964,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 00:00:00",
+    "KO3201_FEED":54.297,
+    "KO3201_DISP":9.427,
+    "KO3201_VIB":67.54,
+    "KO3201_TEMP":64.11,
+    "KO3201_AMP":137.28,
+    "PLANT_RATE":56.667,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 01:00:00",
+    "KO3201_FEED":55.925,
+    "KO3201_DISP":9.653,
+    "KO3201_VIB":68.314,
+    "KO3201_TEMP":67.66,
+    "KO3201_AMP":137.56,
+    "PLANT_RATE":57.424,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 02:00:00",
+    "KO3201_FEED":55.435,
+    "KO3201_DISP":9.332,
+    "KO3201_VIB":69.003,
+    "KO3201_TEMP":64.61,
+    "KO3201_AMP":135.96,
+    "PLANT_RATE":56.28,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 03:00:00",
+    "KO3201_FEED":56.231,
+    "KO3201_DISP":9.683,
+    "KO3201_VIB":70.011,
+    "KO3201_TEMP":63.64,
+    "KO3201_AMP":146.8,
+    "PLANT_RATE":57.399,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 04:00:00",
+    "KO3201_FEED":53.666,
+    "KO3201_DISP":9.553,
+    "KO3201_VIB":71.456,
+    "KO3201_TEMP":67.68,
+    "KO3201_AMP":140.27,
+    "PLANT_RATE":56.46,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 05:00:00",
+    "KO3201_FEED":53.785,
+    "KO3201_DISP":9.708,
+    "KO3201_VIB":71.896,
+    "KO3201_TEMP":65.19,
+    "KO3201_AMP":132.3,
+    "PLANT_RATE":57.881,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 06:00:00",
+    "KO3201_FEED":54.221,
+    "KO3201_DISP":9.222,
+    "KO3201_VIB":72.67,
+    "KO3201_TEMP":65.47,
+    "KO3201_AMP":137.25,
+    "PLANT_RATE":57.43,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-29 07:00:00",
+    "KO3201_FEED":0.037,
+    "KO3201_DISP":0.242,
+    "KO3201_VIB":25.275,
+    "KO3201_TEMP":40.35,
+    "KO3201_AMP":3.96,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 08:00:00",
+    "KO3201_FEED":0.022,
+    "KO3201_DISP":0.272,
+    "KO3201_VIB":25.22,
+    "KO3201_TEMP":38.21,
+    "KO3201_AMP":4.31,
+    "PLANT_RATE":0.127,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 09:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.295,
+    "KO3201_VIB":25.286,
+    "KO3201_TEMP":37.33,
+    "KO3201_AMP":5.29,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 10:00:00",
+    "KO3201_FEED":0.014,
+    "KO3201_DISP":0.265,
+    "KO3201_VIB":25.179,
+    "KO3201_TEMP":37.12,
+    "KO3201_AMP":8.33,
+    "PLANT_RATE":0.043,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 11:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.257,
+    "KO3201_VIB":25.359,
+    "KO3201_TEMP":41.21,
+    "KO3201_AMP":5.3,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 12:00:00",
+    "KO3201_FEED":0.014,
+    "KO3201_DISP":0.228,
+    "KO3201_VIB":25.307,
+    "KO3201_TEMP":39.47,
+    "KO3201_AMP":4.87,
+    "PLANT_RATE":0.163,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 13:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.271,
+    "KO3201_VIB":25.249,
+    "KO3201_TEMP":39.46,
+    "KO3201_AMP":3.87,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 14:00:00",
+    "KO3201_FEED":0.023,
+    "KO3201_DISP":0.339,
+    "KO3201_VIB":25.256,
+    "KO3201_TEMP":37.71,
+    "KO3201_AMP":2.62,
+    "PLANT_RATE":0.055,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 15:00:00",
+    "KO3201_FEED":0.001,
+    "KO3201_DISP":0.28,
+    "KO3201_VIB":25.277,
+    "KO3201_TEMP":40.27,
+    "KO3201_AMP":6.0,
+    "PLANT_RATE":0.003,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 16:00:00",
+    "KO3201_FEED":0.027,
+    "KO3201_DISP":0.285,
+    "KO3201_VIB":25.336,
+    "KO3201_TEMP":41.94,
+    "KO3201_AMP":6.38,
+    "PLANT_RATE":0.048,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 17:00:00",
+    "KO3201_FEED":0.012,
+    "KO3201_DISP":0.262,
+    "KO3201_VIB":25.244,
+    "KO3201_TEMP":36.91,
+    "KO3201_AMP":3.09,
+    "PLANT_RATE":0.021,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 18:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.274,
+    "KO3201_VIB":25.3,
+    "KO3201_TEMP":39.63,
+    "KO3201_AMP":4.07,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 19:00:00",
+    "KO3201_FEED":0.069,
+    "KO3201_DISP":0.378,
+    "KO3201_VIB":25.211,
+    "KO3201_TEMP":41.98,
+    "KO3201_AMP":5.11,
+    "PLANT_RATE":0.091,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 20:00:00",
+    "KO3201_FEED":0.098,
+    "KO3201_DISP":0.372,
+    "KO3201_VIB":25.306,
+    "KO3201_TEMP":39.79,
+    "KO3201_AMP":4.84,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 21:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.214,
+    "KO3201_VIB":25.307,
+    "KO3201_TEMP":41.44,
+    "KO3201_AMP":5.17,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 22:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.412,
+    "KO3201_VIB":25.294,
+    "KO3201_TEMP":40.53,
+    "KO3201_AMP":6.01,
+    "PLANT_RATE":0.043,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-29 23:00:00",
+    "KO3201_FEED":0.002,
+    "KO3201_DISP":0.275,
+    "KO3201_VIB":25.321,
+    "KO3201_TEMP":34.76,
+    "KO3201_AMP":6.07,
+    "PLANT_RATE":0.13,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 00:00:00",
+    "KO3201_FEED":0.024,
+    "KO3201_DISP":0.255,
+    "KO3201_VIB":25.316,
+    "KO3201_TEMP":44.9,
+    "KO3201_AMP":5.0,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 01:00:00",
+    "KO3201_FEED":0.004,
+    "KO3201_DISP":0.295,
+    "KO3201_VIB":25.254,
+    "KO3201_TEMP":39.55,
+    "KO3201_AMP":5.48,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 02:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.279,
+    "KO3201_VIB":25.255,
+    "KO3201_TEMP":38.31,
+    "KO3201_AMP":5.74,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 03:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.273,
+    "KO3201_VIB":25.386,
+    "KO3201_TEMP":39.07,
+    "KO3201_AMP":4.09,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 04:00:00",
+    "KO3201_FEED":0.069,
+    "KO3201_DISP":0.388,
+    "KO3201_VIB":25.309,
+    "KO3201_TEMP":35.23,
+    "KO3201_AMP":4.03,
+    "PLANT_RATE":0.013,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 05:00:00",
+    "KO3201_FEED":0.065,
+    "KO3201_DISP":0.282,
+    "KO3201_VIB":25.443,
+    "KO3201_TEMP":43.04,
+    "KO3201_AMP":7.02,
+    "PLANT_RATE":0.062,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 06:00:00",
+    "KO3201_FEED":0.08,
+    "KO3201_DISP":0.26,
+    "KO3201_VIB":25.353,
+    "KO3201_TEMP":36.27,
+    "KO3201_AMP":3.51,
+    "PLANT_RATE":0.006,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 07:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.318,
+    "KO3201_VIB":25.258,
+    "KO3201_TEMP":42.58,
+    "KO3201_AMP":3.75,
+    "PLANT_RATE":0.172,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 08:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.23,
+    "KO3201_VIB":25.269,
+    "KO3201_TEMP":42.07,
+    "KO3201_AMP":4.95,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 09:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.182,
+    "KO3201_VIB":25.361,
+    "KO3201_TEMP":39.45,
+    "KO3201_AMP":6.32,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 10:00:00",
+    "KO3201_FEED":0.008,
+    "KO3201_DISP":0.354,
+    "KO3201_VIB":25.255,
+    "KO3201_TEMP":44.55,
+    "KO3201_AMP":3.35,
+    "PLANT_RATE":0.046,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 11:00:00",
+    "KO3201_FEED":0.059,
+    "KO3201_DISP":0.302,
+    "KO3201_VIB":25.345,
+    "KO3201_TEMP":41.78,
+    "KO3201_AMP":5.85,
+    "PLANT_RATE":0.059,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 12:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.321,
+    "KO3201_VIB":25.249,
+    "KO3201_TEMP":39.58,
+    "KO3201_AMP":5.32,
+    "PLANT_RATE":0.003,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 13:00:00",
+    "KO3201_FEED":0.0,
+    "KO3201_DISP":0.312,
+    "KO3201_VIB":25.331,
+    "KO3201_TEMP":42.06,
+    "KO3201_AMP":5.59,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 14:00:00",
+    "KO3201_FEED":0.009,
+    "KO3201_DISP":0.304,
+    "KO3201_VIB":25.216,
+    "KO3201_TEMP":38.77,
+    "KO3201_AMP":4.57,
+    "PLANT_RATE":0.0,
+    "RUN_STATUS":"OFF"
+  },
+  {
+    "Timestamp":"2026-04-30 15:00:00",
+    "KO3201_FEED":55.31,
+    "KO3201_DISP":9.628,
+    "KO3201_VIB":28.895,
+    "KO3201_TEMP":62.88,
+    "KO3201_AMP":134.42,
+    "PLANT_RATE":56.657,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 16:00:00",
+    "KO3201_FEED":54.877,
+    "KO3201_DISP":9.49,
+    "KO3201_VIB":28.94,
+    "KO3201_TEMP":66.35,
+    "KO3201_AMP":136.12,
+    "PLANT_RATE":57.55,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 17:00:00",
+    "KO3201_FEED":53.347,
+    "KO3201_DISP":9.309,
+    "KO3201_VIB":28.676,
+    "KO3201_TEMP":66.48,
+    "KO3201_AMP":130.04,
+    "PLANT_RATE":55.973,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 18:00:00",
+    "KO3201_FEED":54.727,
+    "KO3201_DISP":9.464,
+    "KO3201_VIB":28.638,
+    "KO3201_TEMP":62.47,
+    "KO3201_AMP":134.0,
+    "PLANT_RATE":56.177,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 19:00:00",
+    "KO3201_FEED":55.057,
+    "KO3201_DISP":9.599,
+    "KO3201_VIB":28.816,
+    "KO3201_TEMP":64.6,
+    "KO3201_AMP":137.82,
+    "PLANT_RATE":58.432,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 20:00:00",
+    "KO3201_FEED":56.76,
+    "KO3201_DISP":9.515,
+    "KO3201_VIB":28.714,
+    "KO3201_TEMP":67.0,
+    "KO3201_AMP":132.8,
+    "PLANT_RATE":57.518,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 21:00:00",
+    "KO3201_FEED":53.857,
+    "KO3201_DISP":9.39,
+    "KO3201_VIB":28.1,
+    "KO3201_TEMP":62.73,
+    "KO3201_AMP":133.77,
+    "PLANT_RATE":55.843,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 22:00:00",
+    "KO3201_FEED":56.675,
+    "KO3201_DISP":9.613,
+    "KO3201_VIB":28.96,
+    "KO3201_TEMP":65.61,
+    "KO3201_AMP":133.13,
+    "PLANT_RATE":55.023,
+    "RUN_STATUS":"ON"
+  },
+  {
+    "Timestamp":"2026-04-30 23:00:00",
+    "KO3201_FEED":54.364,
+    "KO3201_DISP":9.621,
+    "KO3201_VIB":28.334,
+    "KO3201_TEMP":65.48,
+    "KO3201_AMP":129.33,
+    "PLANT_RATE":56.276,
+    "RUN_STATUS":"ON"
+  }
+]
