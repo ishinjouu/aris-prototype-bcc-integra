@@ -114,7 +114,9 @@ function parseIncidentDatabase(): IncidentRecord[] {
   const data = Array.isArray(incidentDbRaw) ? incidentDbRaw : [];
   
   for (let i = 2; i < data.length; i++) {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const row: any = data[i];
+    // const row: any = data[i];
     if (!row || row["EQUIPMENT RELATED RISK — INCIDENT DATABASE (RCA & CAPA/PAA)"] === null) continue;
     
     const tagNumber = row["Unnamed: 4"] || "";
@@ -154,6 +156,7 @@ function parseIncidentDatabase(): IncidentRecord[] {
 
 function parseEquipmentPerformance(): EquipmentPerformanceRow[] {
   const data = Array.isArray(equipmentPerfRaw) ? equipmentPerfRaw : [];
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   return data.map((row: any) => ({
     week: row.Week,
     date: row.Date,
@@ -167,6 +170,7 @@ function parseEquipmentPerformance(): EquipmentPerformanceRow[] {
 
 function parseProductionData(): ProductionDataRow[] {
   const data = Array.isArray(productionRaw) ? productionRaw : [];
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   return data.map((row: any) => ({
     timestamp: row.Timestamp,
     ko3201Feed: row.KO3201_FEED || 0,
@@ -323,7 +327,20 @@ export function getActionFollowUpCounts() {
 // ─── Legacy Data (backward compatibility) ──────────────────────
 export const equipmentData: Equipment[] = [];
 export const defaultActionFollowUps: ActionFollowUp[] = [];
-export const historicalCases: any[] = [];
+// export const historicalCases: any[] = [];
+export interface HistoricalCase {
+  equipmentId: string;
+  incidentId: string;
+  matchPercentage: number;
+  equipmentName: string;
+  pattern: string;
+  rootCause: string;
+  action: string;
+  downtime: string;
+  loss: string;
+}
+
+export const historicalCases: HistoricalCase[] = [];
 export const operationalStatusHistory: Record<OperationalStatus, number> = {
   Normal: 12,
   Warning: 4,

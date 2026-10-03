@@ -55,6 +55,7 @@ export default function EquipmentDetailPage({
   useEffect(() => {
     const all = getActionFollowUps();
     const found = all.find((a) => a.equipmentId === id) ?? null;
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setAction(found);
   }, [id]);
 
