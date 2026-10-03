@@ -404,7 +404,105 @@ export function getActionFollowUpCounts() {
 
 // ─── Legacy Data (backward compatibility) ──────────────────────
 export const equipmentData: Equipment[] = buildEquipmentData();
-export const defaultActionFollowUps: ActionFollowUp[] = [];
+// export const defaultActionFollowUps: ActionFollowUp[] = [];
+export const defaultActionFollowUps: ActionFollowUp[] = [
+  {
+    id: "ACT-KO-3201",
+    equipmentId: "KO-3201",
+    status: "Open",
+    title: "Replace lube oil and inspect DE bearing",
+    description:
+      "Drain contaminated lube oil, flush the system, and inspect the drive-end bearing for wear before vibration reaches the trip limit.",
+    priority: "High",
+    recommendedWindow: "Within 24 Hours",
+    estimatedDuration: "8 hours",
+    assignedTo: "Rotating Equipment Team",
+    expectedBenefits: [
+      "Prevents unplanned compressor trip",
+      "Avoids estimated production loss",
+      "Reduces bearing failure risk",
+    ],
+    notes: "",
+    createdAt: "2026-10-03T08:00:00.000Z",
+    updatedAt: "2026-10-03T08:00:00.000Z",
+  },
+  {
+    id: "ACT-BL-5702",
+    equipmentId: "BL-5702",
+    status: "Open",
+    title: "Check blower balance and coupling alignment",
+    description:
+      "Run a vibration spectrum check and verify coupling alignment during the next planned low-load window.",
+    priority: "Medium",
+    recommendedWindow: "Within 3 Days",
+    estimatedDuration: "6 hours",
+    assignedTo: "Mechanical Maintenance",
+    expectedBenefits: [
+      "Stops vibration from rising further",
+      "Extends bearing life",
+    ],
+    notes: "",
+    createdAt: "2026-10-03T08:00:00.000Z",
+    updatedAt: "2026-10-03T08:00:00.000Z",
+  },
+  {
+    id: "ACT-PU-2101B",
+    equipmentId: "PU-2101B",
+    status: "Open",
+    title: "Replace mechanical seal",
+    description:
+      "Seal leakage trend is increasing. Replace the mechanical seal and verify the flush plan.",
+    priority: "Medium",
+    recommendedWindow: "Within 5 Days",
+    estimatedDuration: "10 hours",
+    assignedTo: "Mechanical Maintenance",
+    expectedBenefits: [
+      "Prevents process fluid leak",
+      "Avoids standby pump overload",
+    ],
+    notes: "",
+    createdAt: "2026-10-03T08:00:00.000Z",
+    updatedAt: "2026-10-03T08:00:00.000Z",
+  },
+  {
+    id: "ACT-HE-3301",
+    equipmentId: "HE-3301",
+    status: "Open",
+    title: "Schedule tube bundle cleaning",
+    description:
+      "Heat transfer efficiency is dropping. Plan tube bundle cleaning and inspect for fouling.",
+    priority: "Low",
+    recommendedWindow: "Within 14 Days",
+    estimatedDuration: "16 hours",
+    assignedTo: "Inspection Team",
+    expectedBenefits: [
+      "Restores heat transfer efficiency",
+      "Lowers energy consumption",
+    ],
+    notes: "",
+    createdAt: "2026-10-03T08:00:00.000Z",
+    updatedAt: "2026-10-03T08:00:00.000Z",
+  },
+  {
+    id: "ACT-PM-4405B",
+    equipmentId: "PM-4405B",
+    status: "Open",
+    title: "Inspect impeller and motor current",
+    description:
+      "Motor current shows an upward trend. Inspect the impeller for erosion and check motor insulation.",
+    priority: "Medium",
+    recommendedWindow: "Within 7 Days",
+    estimatedDuration: "6 hours",
+    assignedTo: "Electrical and Mechanical Team",
+    expectedBenefits: [
+      "Prevents motor overload trip",
+      "Maintains pump flow rate",
+    ],
+    notes: "",
+    createdAt: "2026-10-03T08:00:00.000Z",
+    updatedAt: "2026-10-03T08:00:00.000Z",
+  },
+];
 // export const historicalCases: any[] = [];
 export interface HistoricalCase {
   equipmentId: string;
